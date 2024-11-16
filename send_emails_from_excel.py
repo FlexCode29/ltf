@@ -1,12 +1,14 @@
 import pandas as pd
-# import smtplib
-# from email.mime.text import MIMEText
+import smtplib
+from email.mime.text import MIMEText
 
-# Configurazione del server email
-SMTP_SERVER = 'smtp.gmail.com'
+# Configurazione del server email per Brevo
+
+# CAMBIATE CON LTF EMAIL DATA
+SMTP_SERVER = 'smtp-relay.brevo.com'
 SMTP_PORT = 587
-USERNAME = 'your_email@gmail.com'  # Sostituisci con la tua email
-PASSWORD = 'your_password'         # Sostituisci con la tua password
+USERNAME = '8017e9001@smtp-brevo.com'  # Sostituisci con la tua email di login su Brevo
+PASSWORD = 'UcNFEtYBrGMsOdy5'          # Sostituisci con la tua API key SMTP di Brevo
 
 # Carica il file CSV
 file_path = './Ammessi_Selezione_Territoriale_2024.csv'  # Assicurati che il file sia nella stessa directory
@@ -27,11 +29,13 @@ mentorship_message = (
     "Siamo Lead the Future (leadthefuture.tech), "
     "un'associazione del terzo settore che offre orientamento universitario, assistenza con le ammissioni a università "
     "di prestigio, opportunità di ricerca accademica alle superiori e in triennale, e crescita professionale. "
+    "\n\n"
     "Dato che la vostra scuola si è distinta con questi risultati d'eccellenza in informatica, "
-    "Vorremmo offrire ai vostri alunni una mentorship gratuita. "
-    "I nostri mentor vantano affiliazioni con istituzioni di alto livello come Cambridge, MIT, Harvard, Normale di Pisa, "
+    "vorremmo offrire ai vostri alunni una mentorship gratuita. "
+    "\n\nI nostri mentor vantano affiliazioni con istituzioni di alto livello come Cambridge, MIT, Harvard, Normale di Pisa, "
     "Apple, Google e tante altre. I vostri alunni potranno candidarsi alla mentorship attraverso il seguente link: "
-    "https://leadthefuture.tech/mentorship"
+    "https://www.leadthefuture.tech/inizia-candidatura/"
+    "\n\nCordiali saluti, Lead the Future"
 )
 
 # Funzione per formattare la lista dei nomi
@@ -54,32 +58,18 @@ grouped['Email_Content'] = grouped.apply(
     axis=1
 )
 
-# Stampa il contenuto delle email
-print(grouped['Email_Content'])
-
-# Scrivi il contenuto delle email in un file di testo
-output_file_path = './emails_final.txt'
-with open(output_file_path, 'w', encoding='utf-8') as file:
-    for _, row in grouped.iterrows():
-        file.write(f"To: {row['Email']}\n")
-        file.write(f"Content:\n{row['Email_Content']}\n")
-        file.write("\n" + "-"*50 + "\n\n")
-
-print(f"Email contents written to {output_file_path}")
-
-'''
 # Funzione per inviare email
 def send_email(email, content):
     msg = MIMEText(content, 'plain', 'utf-8')
-    msg['Subject'] = 'Congratulazioni per gli alunni ammessi'
-    msg['From'] = USERNAME
-    msg['To'] = email
+    msg['Subject'] = 'Esiti olimpiadi di informatica e informativa mentorship Lead the Future'
+    msg['From'] = VOSTRAEMAIL  # Assicurati che sia un indirizzo verificato su Brevo
+    msg['To'] = email # email
 
     try:
         with smtplib.SMTP(SMTP_SERVER, SMTP_PORT) as server:
             server.starttls()
             server.login(USERNAME, PASSWORD)
-            server.sendmail(USERNAME, email, msg.as_string())
+            server.sendmail(msg['From'], email, msg.as_string())
         print(f"Email inviata a {email}")
     except Exception as e:
         print(f"Errore nell'invio a {email}: {e}")
@@ -87,4 +77,3 @@ def send_email(email, content):
 # Invia le email
 for _, row in grouped.iterrows():
     send_email(row['Email'], row['Email_Content'])
-'''
