@@ -1,0 +1,1986 @@
+Nome,Cognome,Classe,"Codice
+meccanografico
+scuola",Tipo scuola,Nome scuola,"Città
+scuola","Sigla
+provincia
+scuola","Regione
+scuola","Punteggio
+Scolastica","Punteggio
+preterritoriale",Ammesso,"Motivo
+ammissione"
+Fabio,Neagu,4,AGIS021005,IIS,Francesco Crispi,Ribera,AG,Sicilia,25,,Sì,Scolastica
+Aurora,Marra,3,AGIS021005,IIS,Francesco Crispi,Ribera,AG,Sicilia,21,,Sì,Scolastica
+Samuele,Chianetta,4,AGIS02400L,IIS,Enrico Fermi,Aragona,AG,Sicilia,25,,Sì,Scolastica
+Calogero,Crapanzano,3,AGIS02400L,IIS,Enrico Fermi,Aragona,AG,Sicilia,20,,Sì,Scolastica
+Mario,Marchetta,4,AGPS030009,LS,Leonardo,Agrigento,AG,Sicilia,22,,Sì,Scolastica
+Beatrice,Piazza,3,AGPS030009,LS,Leonardo,Agrigento,AG,Sicilia,20,,Sì,Scolastica
+Giulia,Traverso,4,ALPS050005,LS,Edoardo Amaldi,Novi Ligure,AL,Piemonte,46,,Sì,Scolastica
+Ilaria,Scarsi,4,ALPS050005,LS,Edoardo Amaldi,Novi Ligure,AL,Piemonte,42,,Sì,Scolastica
+Samira,Di Stefano,4,ALPS050005,LS,Edoardo Amaldi,Novi Ligure,AL,Piemonte,33,,Sì,Scolastica
+Davide,Dalera,3,ALTF01000R,ITI,Alessandro Volta,Alessandria,AL,Piemonte,35,,Sì,Scolastica
+Patric,Pintescul,4,ALTF01000R,ITI,Alessandro Volta,Alessandria,AL,Piemonte,30,,Sì,Scolastica
+Francesco,Santoro,3,ALTF080003,ITI,Ascanio Sobrero,Casale Monferrato,AL,Piemonte,33,,Sì,Scolastica
+Giuseppe,Scoleri,3,ALTF080003,ITI,Ascanio Sobrero,Casale Monferrato,AL,Piemonte,30,,Sì,Scolastica
+Jacopo,Maniscalco,2,ANIS01200G,IIS,L. Di Savoia - G. Benincasa,Ancona,AN,Marche,28,,Sì,Scolastica
+Ruggero,Jannacchino,3,ANIS01200G,IIS,L. Di Savoia - G. Benincasa,Ancona,AN,Marche,25,,Sì,Scolastica
+Giacomo,Romiti,4,ANIS014007,IIS,Volterra - Elia,Ancona,AN,Marche,65,100,Sì,Scolastica
+Federico,Borgogelli,4,ANIS014007,IIS,Volterra - Elia,Ancona,AN,Marche,35,,Sì,Scolastica
+Abu Shahid,Islam,2,ANIS014007,IIS,Volterra - Elia,Ancona,AN,Marche,20,120,Sì,preterritoriale
+Claudio,Lenci,4,ANIS014007,IIS,Volterra - Elia,Ancona,AN,Marche,30,113,Sì,nazionalista OII 2023
+Mattia,Chiappa,4,ANIS01600V,IIS,Corinaldesi - Padovano,Senigallia,AN,Marche,30,,Sì,Scolastica
+Nicolò,Rosorani,4,ANIS01600V,IIS,Corinaldesi - Padovano,Senigallia,AN,Marche,28,,Sì,Scolastica
+Samuele,Medici,3,ANIS01700P,IIS,Morea - Vivarelli,Fabriano,AN,Marche,27,,Sì,Scolastica
+Thomas,Mecella,3,ANIS01700P,IIS,Morea - Vivarelli,Fabriano,AN,Marche,27,,Sì,Scolastica
+Alessio,Cozza,4,ANIS01800E,IIS,Merloni - Miliani,Fabriano,AN,Marche,40,,Sì,Scolastica
+Gabriele,Busetta,3,ANIS01800E,IIS,Merloni - Miliani,Fabriano,AN,Marche,21,41,Sì,Scolastica
+Michele,Rinaldi,4,ANIS023002,IIS,Marconi Pieralisi,Jesi,AN,Marche,37,,Sì,Scolastica
+Riccardo,Sabbatini Peverieri,3,ANIS023002,IIS,Marconi Pieralisi,Jesi,AN,Marche,35,,Sì,Scolastica
+Alex,Koka,4,ANIS023002,IIS,Marconi Pieralisi,Jesi,AN,Marche,35,,Sì,Scolastica
+Alessio,Tomasetti,3,ANPS010009,LS,E. Medi,Senigallia,AN,Marche,57,,Sì,Scolastica
+Stefan,Orizarov,4,ANPS010009,LS,E. Medi,Senigallia,AN,Marche,35,,Sì,Scolastica
+Lorenzo,Aquilanti,4,ANPS03000E,LS,G. Galilei,Ancona,AN,Marche,49,163,Sì,Scolastica
+Federico,Bambieri,4,ANPS03000E,LS,G. Galilei,Ancona,AN,Marche,45,67,Sì,Scolastica
+Tommaso,Ramazzotti,2,ANPS03000E,LS,G. Galilei,Ancona,AN,Marche,44,,Sì,Scolastica
+Lorenzo,Carbonetti,4,ANPS03000E,LS,G. Galilei,Ancona,AN,Marche,38,39,Sì,Scolastica
+Luca,Bindellari,4,ANPS03000E,LS,G. Galilei,Ancona,AN,Marche,33,,Sì,Scolastica
+Lorenzo,Babbini,2,ANPS03000E,LS,G. Galilei,Ancona,AN,Marche,32,,Sì,Scolastica
+Giacomo,Gasparetti,1,ANPS03000E,LS,G. Galilei,Ancona,AN,Marche,30,,Sì,Scolastica
+Tommaso,Cascioni,2,ANPS03000E,LS,G. Galilei,Ancona,AN,Marche,29,,Sì,Scolastica
+Alessandro,Donato,1,ANPS03000E,LS,G. Galilei,Ancona,AN,Marche,28,,Sì,Scolastica
+Piero,Lucassen,1,ANPS03000E,LS,G. Galilei,Ancona,AN,Marche,27,,Sì,Scolastica
+Riccardo,Mariani,2,ANPS03000E,LS,G. Galilei,Ancona,AN,Marche,27,50,Sì,Scolastica
+Francesco,Petrilli,2,ANPS03000E,LS,G. Galilei,Ancona,AN,Marche,26,,Sì,Scolastica
+Fernando,Cangahuala,2,ANPS03000E,LS,G. Galilei,Ancona,AN,Marche,26,,Sì,Scolastica
+Diego,Burattini,1,ANPS03000E,LS,G. Galilei,Ancona,AN,Marche,25,,Sì,Scolastica
+Lorenzo,Mengarelli,1,ANPS03000E,LS,G. Galilei,Ancona,AN,Marche,25,,Sì,Scolastica
+Adrian,Izbas,2,ANPS03000E,LS,G. Galilei,Ancona,AN,Marche,25,,Sì,Scolastica
+Matteo,Messina,2,ANPS03000E,LS,G. Galilei,Ancona,AN,Marche,25,,Sì,Scolastica
+Alessandro,Fiorentini,2,ANPS03000E,LS,G. Galilei,Ancona,AN,Marche,24,100,Sì,preterritoriale
+Flavio,Naccarato,4,AOTD010005,ITC,"""I. Manzetti"" (Indirizzo: Tecnico Del Settore Tecnologico)",Aosta,AO,Valle d'Aosta,26,,Sì,Scolastica
+Mattia,Rial,3,AOTD010005,ITC,"""I. Manzetti"" (Indirizzo: Tecnico Del Settore Tecnologico)",Aosta,AO,Valle d'Aosta,22,,Sì,Scolastica
+Daniele Felice,Degani,4,AOTF02002T,ITI,"Istituzione Scolastica Di Istruzione Liceale, Tecnica E Professionale - Tecnico Del Settore Economico E Tecnologico (Informatica E Telecomunicazioni)",Verrès,AO,Valle d'Aosta,42,,Sì,Scolastica
+Noah,Boccuti,4,AOTF02002T,ITI,"Istituzione Scolastica Di Istruzione Liceale, Tecnica E Professionale - Tecnico Del Settore Economico E Tecnologico (Informatica E Telecomunicazioni)",Verrès,AO,Valle d'Aosta,30,,Sì,Scolastica
+Nicolas,Zingarelli,3,AOTF02002T,ITI,"Istituzione Scolastica Di Istruzione Liceale, Tecnica E Professionale - Tecnico Del Settore Economico E Tecnologico (Informatica E Telecomunicazioni)",Verrès,AO,Valle d'Aosta,15,,Sì,finalista OIS
+Edoardo,Magri,3,AOTF02002T,ITI,"Istituzione Scolastica Di Istruzione Liceale, Tecnica E Professionale - Tecnico Del Settore Economico E Tecnologico (Informatica E Telecomunicazioni)",Verrès,AO,Valle d'Aosta,9,,Sì,finalista OIS
+Henry,Chiabotto,3,AOTF02002T,ITI,"Istituzione Scolastica Di Istruzione Liceale, Tecnica E Professionale - Tecnico Del Settore Economico E Tecnologico (Informatica E Telecomunicazioni)",Verrès,AO,Valle d'Aosta,,,Sì,finalista OIS
+Nicolò,Campeotto,4,AOTF02002T,ITI,"Istituzione Scolastica Di Istruzione Liceale, Tecnica E Professionale - Tecnico Del Settore Economico E Tecnologico (Informatica E Telecomunicazioni)",Verrès,AO,Valle d'Aosta,,,Sì,finalista OIS
+Nicola,Nori,3,APIS00200G,IIS,Carlo Urbani,Porto Sant'Elpidio,FM,Marche,32,,Sì,Scolastica
+Khadija,Elfaribi,4,APIS00200G,IIS,Carlo Urbani,Porto Sant'Elpidio,FM,Marche,31,,Sì,Scolastica
+Giorgio,Luzi,3,APIS004007,IIS,Ist. Omnicomprensivo Tec. Comm.,Amandola,FM,Marche,30,,Sì,Scolastica
+Thomas,Tidei,4,APIS004007,IIS,Ist. Omnicomprensivo Tec. Comm.,Amandola,FM,Marche,20,,Sì,Scolastica
+Sebastian,Huda,4,APIS00700P,IIS,Fazzini/Mercantini,Grottammare,AP,Marche,40,,Sì,Scolastica
+Alessio,Galli,3,APIS00700P,IIS,Fazzini/Mercantini,Grottammare,AP,Marche,36,,Sì,Scolastica
+Alberto,Sabbatini,2,APIS01100A,IIS,E. Fermi - G. Sacconi - A. Ceci,Ascoli Piceno,AP,Marche,46,,Sì,Scolastica
+Simone,Ye,4,APIS01100A,IIS,E. Fermi - G. Sacconi - A. Ceci,Ascoli Piceno,AP,Marche,40,,Sì,Scolastica
+Tommaso,Luciani,3,APIS01100A,IIS,E. Fermi - G. Sacconi - A. Ceci,Ascoli Piceno,AP,Marche,38,,Sì,Scolastica
+Silvio,Agostini,4,APIS01100A,IIS,E. Fermi - G. Sacconi - A. Ceci,Ascoli Piceno,AP,Marche,35,,Sì,Scolastica
+Lorenzo,Buzo,4,APIS01100A,IIS,E. Fermi - G. Sacconi - A. Ceci,Ascoli Piceno,AP,Marche,35,,Sì,Scolastica
+Davide,Bachetti,3,APIS01100A,IIS,E. Fermi - G. Sacconi - A. Ceci,Ascoli Piceno,AP,Marche,33,,Sì,Scolastica
+Francesco,Cameli,3,APTF010002,ITI,G. E M. Montani,Fermo,FM,Marche,35,,Sì,Scolastica
+Ettore,Spagnoli,3,APTF010002,ITI,G. E M. Montani,Fermo,FM,Marche,30,,Sì,Scolastica
+Cristian,Maleca,4,AQIS01400C,IIS,Ettore Majorana,Avezzano,AQ,Abruzzo,37,,Sì,Scolastica
+Matteo,Leonardi,4,AQIS01400C,IIS,Ettore Majorana,Avezzano,AQ,Abruzzo,31,,Sì,Scolastica
+Francesca,Grande,3,AQIS016004,IIS,Amedeo D Aosta,L'Aquila,AQ,Abruzzo,51,,Sì,Scolastica
+Tommaso,Pasquini,3,AQIS016004,IIS,Amedeo D Aosta,L'Aquila,AQ,Abruzzo,50,,Sì,Scolastica
+Emir,Sulejmani,4,AQIS016004,IIS,Amedeo D Aosta,L'Aquila,AQ,Abruzzo,35,,Sì,Scolastica
+Isacco,Ciofi,3,ARIS019006,IIS,Benedetto Varchi,Montevarchi,AR,Toscana,35,50,Sì,Scolastica
+Riccardo,Tazzari,3,ARIS019006,IIS,Benedetto Varchi,Montevarchi,AR,Toscana,32,,Sì,Scolastica
+Andrea,Porpora,3,ARPS02000Q,LS,F. Redi,Arezzo,AR,Toscana,65,,Sì,Scolastica
+Gabriele,Concilio,3,ARPS02000Q,LS,F. Redi,Arezzo,AR,Toscana,55,,Sì,Scolastica
+Paolo,Cambria,3,ARPS02000Q,LS,F. Redi,Arezzo,AR,Toscana,55,,Sì,Scolastica
+Filippo,Butali,4,ARPS02000Q,LS,F. Redi,Arezzo,AR,Toscana,53,,Sì,Scolastica
+Daniele,Vasanella,3,ARPS02000Q,LS,F. Redi,Arezzo,AR,Toscana,45,,Sì,Scolastica
+Tommaso,Nofri,3,ARPS02000Q,LS,F. Redi,Arezzo,AR,Toscana,45,,Sì,Scolastica
+Marco,Acquisti,4,ARPS02000Q,LS,F. Redi,Arezzo,AR,Toscana,44,,Sì,Scolastica
+Andrea,Reali,4,ARPS02000Q,LS,F. Redi,Arezzo,AR,Toscana,44,,Sì,Scolastica
+Guglielmo,Menci,3,ARPS02000Q,LS,F. Redi,Arezzo,AR,Toscana,43,,Sì,Scolastica
+Giulio,Fabianelli,4,ARPS02000Q,LS,F. Redi,Arezzo,AR,Toscana,43,,Sì,Scolastica
+Thomas,Innocenti,2,ARPS02000Q,LS,F. Redi,Arezzo,AR,Toscana,40,,Sì,Scolastica
+Simone,Gatti,3,ARPS02000Q,LS,F. Redi,Arezzo,AR,Toscana,38,,Sì,Scolastica
+Alexandru Stefan,Ganea,4,ARPS02000Q,LS,F. Redi,Arezzo,AR,Toscana,36,,Sì,Scolastica
+Gabriele,Mealli,3,ARPS02000Q,LS,F. Redi,Arezzo,AR,Toscana,35,,Sì,Scolastica
+Lorenzo,Menchetti,4,ARPS02000Q,LS,F. Redi,Arezzo,AR,Toscana,35,,Sì,Scolastica
+Gianni,Zhou,4,ARPS02000Q,LS,F. Redi,Arezzo,AR,Toscana,35,,Sì,Scolastica
+Gaia,Burzi,3,ARPS02000Q,LS,F. Redi,Arezzo,AR,Toscana,33,,Sì,Scolastica
+Leonardo,Moretti,4,ARPS02000Q,LS,F. Redi,Arezzo,AR,Toscana,33,,Sì,Scolastica
+Aleksander,Sardara,4,ARTF02000T,ITI,S. Galileo Galilei,Arezzo,AR,Toscana,48,,Sì,Scolastica
+Francesco,Capaccioli,4,ARTF02000T,ITI,S. Galileo Galilei,Arezzo,AR,Toscana,41,,Sì,Scolastica
+Livia,Chathely Devassykutty,3,ARTF02000T,ITI,S. Galileo Galilei,Arezzo,AR,Toscana,35,,Sì,Scolastica
+Matteo,Franchi,3,ARTF02000T,ITI,S. Galileo Galilei,Arezzo,AR,Toscana,35,,Sì,Scolastica
+Emily,Manco,3,ATIS00700E,IIS,A. Castigliano,Asti,AT,Piemonte,35,10,Sì,Scolastica
+Giulio,Casimira,3,ATIS00700E,IIS,A. Castigliano,Asti,AT,Piemonte,20,,Sì,Scolastica
+Luca Meng,Rainero,4,ATPS01000Q,LS,F. Vercelli,Asti,AT,Piemonte,55,,Sì,Scolastica
+Samuele,Castaldo,3,ATPS01000Q,LS,F. Vercelli,Asti,AT,Piemonte,36,,Sì,Scolastica
+Michele,Binello,3,ATTF01000T,ITI,Alessandro Artom,Asti,AT,Piemonte,47,,Sì,Scolastica
+Andrea,Rosso,3,ATTF01000T,ITI,Alessandro Artom,Asti,AT,Piemonte,43,,Sì,Scolastica
+Lorenzo,Binello,3,ATTF01000T,ITI,Alessandro Artom,Asti,AT,Piemonte,37,,Sì,Scolastica
+Kevi,Karaj,4,ATTF01000T,ITI,Alessandro Artom,Asti,AT,Piemonte,36,,Sì,Scolastica
+Lorenzo,Corona,4,AVIS014008,IIS,Francesco De Sanctis,Sant'Angelo dei Lombardi,AV,Campania,46,,Sì,Scolastica
+Giuseppe,Perna,4,AVIS014008,IIS,Francesco De Sanctis,Sant'Angelo dei Lombardi,AV,Campania,38,,Sì,Scolastica
+Maria Chiara,Forgione,4,AVIS014008,IIS,Francesco De Sanctis,Sant'Angelo dei Lombardi,AV,Campania,38,,Sì,Scolastica
+Isabella,Caloia,4,AVIS014008,IIS,Francesco De Sanctis,Sant'Angelo dei Lombardi,AV,Campania,38,,Sì,Scolastica
+Pietro,Valvano,4,AVIS014008,IIS,Francesco De Sanctis,Sant'Angelo dei Lombardi,AV,Campania,38,,Sì,Scolastica
+Carmine,Cipriano,2,AVIS014008,IIS,Francesco De Sanctis,Sant'Angelo dei Lombardi,AV,Campania,37,,Sì,Scolastica
+Sofia,Maiorano,4,AVIS014008,IIS,Francesco De Sanctis,Sant'Angelo dei Lombardi,AV,Campania,33,,Sì,Scolastica
+Federico,Russo,3,AVIS02100B,IIS,Rinaldo D'Aquino,Montella,AV,Campania,28,,Sì,Scolastica
+Alessandro,De Stefano,3,AVIS02100B,IIS,Rinaldo D'Aquino,Montella,AV,Campania,28,,Sì,Scolastica
+Eric,De Meo,4,AVPM040007,IM,"Liceo ""Paolo Emilio Imbriani""",Avellino,AV,Campania,40,,Sì,Scolastica
+Michael,Landolfi,4,AVPM040007,IM,"Liceo ""Paolo Emilio Imbriani""",Avellino,AV,Campania,30,,Sì,Scolastica
+Alessio,Berardino,3,AVPS06000B,LS,Liceo V. De Caprariis,Atripalda,AV,Campania,42,,Sì,Scolastica
+Luigi,Bilotti,2,AVPS06000B,LS,Liceo V. De Caprariis,Atripalda,AV,Campania,36,,Sì,Scolastica
+Fabiano,Gambale,2,AVPS06000B,LS,Liceo V. De Caprariis,Atripalda,AV,Campania,32,,Sì,Scolastica
+Gennaro Angelo,Apuzza,1,AVPS06000B,LS,Liceo V. De Caprariis,Atripalda,AV,Campania,31,,Sì,Scolastica
+Omar,H'Maied,3,AVPS12000T,LS,P. S. Mancini,Avellino,AV,Campania,35,,Sì,Scolastica
+Andrea,Urciuolo,4,AVPS12000T,LS,P. S. Mancini,Avellino,AV,Campania,35,,Sì,Scolastica
+Armando,Sarno,2,AVPS12000T,LS,P. S. Mancini,Avellino,AV,Campania,25,,Sì,Scolastica
+Massimo,Ausiello,3,AVTF070004,ITI,Guido Dorso,Avellino,AV,Campania,24,,Sì,Scolastica
+Cristian,Massa,4,AVTF070004,ITI,Guido Dorso,Avellino,AV,Campania,24,,Sì,Scolastica
+Daniele,D'Ambrosio,3,BAIS00200G,IIS,Canudo-Marone - Galilei,Gioia del Colle,BA,Puglia,30,,Sì,Scolastica
+Sebastiano,Matarrese,3,BAIS00200G,IIS,Canudo-Marone - Galilei,Gioia del Colle,BA,Puglia,25,,Sì,Scolastica
+Luca,Ditoma,4,BAIS01600D,IIS,Pietro Sette,Santeramo in Colle,BA,Puglia,39,,Sì,Scolastica
+Federico,Gatti,4,BAIS01600D,IIS,Pietro Sette,Santeramo in Colle,BA,Puglia,25,,Sì,Scolastica
+Vito,Delfino,1,BAIS02800Q,IIS,L. Da Vinci - E. Majorana,Mola di Bari,BA,Puglia,29,,Sì,Scolastica
+Marco,Brunetti,1,BAIS02800Q,IIS,L. Da Vinci - E. Majorana,Mola di Bari,BA,Puglia,27,,Sì,Scolastica
+Mattia,Cappelluti,4,BAIS05800G,IIS,Aldo Moro,Trani,BT,Puglia,40,,Sì,Scolastica
+Christian,Curci,4,BAIS05800G,IIS,Aldo Moro,Trani,BT,Puglia,30,,Sì,Scolastica
+Anna,Caradonna,4,BAIS062007,IIS,Domenico Romanazzi,Bari,BA,Puglia,25,,Sì,Scolastica
+Vito Alex,Saliani,4,BAIS062007,IIS,Domenico Romanazzi,Bari,BA,Puglia,21,,Sì,Scolastica
+Ivan,Terracciano,3,BAIS06400V,IIS,Galileo Ferraris,Molfetta,BA,Puglia,37,,Sì,Scolastica
+Fabrizio,Pellegrini,2,BAIS06400V,IIS,Galileo Ferraris,Molfetta,BA,Puglia,35,47,Sì,Scolastica
+Michael,Guastamacchia,4,BAIS06400V,IIS,Galileo Ferraris,Molfetta,BA,Puglia,35,200,Sì,Scolastica
+Giordano,Rapanaro,3,BAIS06400V,IIS,Galileo Ferraris,Molfetta,BA,Puglia,33,,Sì,Scolastica
+Federica,Roselli,3,BAIS06400V,IIS,Galileo Ferraris,Molfetta,BA,Puglia,33,,Sì,Scolastica
+Diego,Lasorsa,1,BAIS06400V,IIS,Galileo Ferraris,Molfetta,BA,Puglia,30,,Sì,Scolastica
+Lorenzo,Pierguidi,2,BAIS06400V,IIS,Galileo Ferraris,Molfetta,BA,Puglia,30,65,Sì,Scolastica
+Cristian,Valente,4,BAIS06400V,IIS,Galileo Ferraris,Molfetta,BA,Puglia,55,200,Sì,nazionalista OII 2023
+Francesco Damiano,Di Gregorio,4,BAIS06400V,IIS,Galileo Ferraris,Molfetta,BA,Puglia,,,Sì,nazionalista OII 2023
+Renato,Loiacono,4,BAIS06700A,IIS,Volta - De Gemmis,Bitonto,BA,Puglia,45,,Sì,Scolastica
+Luca,Moretti,4,BAIS06700A,IIS,Volta - De Gemmis,Bitonto,BA,Puglia,41,,Sì,Scolastica
+Paolo Gabriele,Schiraldi,4,BAIS06700A,IIS,Volta - De Gemmis,Bitonto,BA,Puglia,41,,Sì,Scolastica
+Michelangelo,Parisi,4,BAIS06700A,IIS,Volta - De Gemmis,Bitonto,BA,Puglia,40,,Sì,Scolastica
+Sebastian,Dell'Aera,3,BAIS068006,IIS,I. Alpi - E. Montale,Rutigliano,BA,Puglia,25,,Sì,Scolastica
+Antonio,Vavalle,3,BAIS068006,IIS,I. Alpi - E. Montale,Rutigliano,BA,Puglia,22,,Sì,Scolastica
+Daniele,Bellipario,4,BAIS07900L,IIS,Luigi Dell'Erba,Castellana Grotte,BA,Puglia,51,,Sì,Scolastica
+Nicola,Rubini,3,BAIS07900L,IIS,Luigi Dell'Erba,Castellana Grotte,BA,Puglia,45,,Sì,Scolastica
+Antonio,Tapogna,3,BAIS07900L,IIS,Luigi Dell'Erba,Castellana Grotte,BA,Puglia,36,,Sì,Scolastica
+Angela,Gigante,3,BAIS07900L,IIS,Luigi Dell'Erba,Castellana Grotte,BA,Puglia,33,,Sì,Scolastica
+Luca,Luisi,4,BAIS07900L,IIS,Luigi Dell'Erba,Castellana Grotte,BA,Puglia,,136,Sì,preterritoriale
+Arianna,Antonelli,3,BAPC23000Q,LC,"Licei ""Sylos - Fiore""",Terlizzi,BA,Puglia,37,,Sì,Scolastica
+Simone,Malerba,3,BAPC23000Q,LC,"Licei ""Sylos - Fiore""",Terlizzi,BA,Puglia,37,,Sì,Scolastica
+Luigi Maria,Malerba,4,BAPC23000Q,LC,"Licei ""Sylos - Fiore""",Terlizzi,BA,Puglia,37,,Sì,Scolastica
+Giorgio,Calò,4,BAPC23000Q,LC,"Licei ""Sylos - Fiore""",Terlizzi,BA,Puglia,35,,Sì,Scolastica
+Pasquale,Malerbs,3,BAPC23000Q,LC,"Licei ""Sylos - Fiore""",Terlizzi,BA,Puglia,34,,Sì,Scolastica
+Davide,Tempesta,3,BAPC23000Q,LC,"Licei ""Sylos - Fiore""",Terlizzi,BA,Puglia,33,,Sì,Scolastica
+Gaia,Cimmarrusti,3,BAPS01000X,LS,A. Scacchi,Bari,BA,Puglia,35,,Sì,Scolastica
+Giuseppe,Pierno,2,BAPS01000X,LS,A. Scacchi,Bari,BA,Puglia,34,,Sì,Scolastica
+Giuseppe,Clemente,4,BAPS06301D,LS,Margherita Hack,Bari,BA,Puglia,41,,Sì,Scolastica
+Gabriele,Montrone,4,BAPS06301D,LS,Margherita Hack,Bari,BA,Puglia,28,,Sì,Scolastica
+Mattia,Magrone,2,BAPS09000R,LS,O. Tedone,Ruvo di Puglia,BA,Puglia,40,,Sì,Scolastica
+Antonio,Strippoli,3,BAPS09000R,LS,O. Tedone,Ruvo di Puglia,BA,Puglia,20,,Sì,Scolastica
+Ruggiero,Andriani,3,BAPS150007,LS,Carlo Cafiero,Barletta,BT,Puglia,51,,Sì,Scolastica
+Roberto,Fiorentino,3,BAPS150007,LS,Carlo Cafiero,Barletta,BT,Puglia,32,,Sì,Scolastica
+Asia,Capriati,3,BAPS24000D,LS,E. Amaldi,Bitetto,BA,Puglia,40,,Sì,Scolastica
+Fabio,Barberio,4,BAPS24000D,LS,E. Amaldi,Bitetto,BA,Puglia,30,,Sì,Scolastica
+Antonio Francesco,Imbriani,4,BAPS270009,LS,"Licei ""Cartesio""",Triggiano,BA,Puglia,26,,Sì,Scolastica
+Francesco,Leone,3,BAPS270009,LS,"Licei ""Cartesio""",Triggiano,BA,Puglia,25,,Sì,Scolastica
+Alessandro Maria,Laera,3,BAPS36000G,LS,Majorana - Laterza,Putignano,BA,Puglia,44,,Sì,Scolastica
+Gianmarco,Lippolis,3,BAPS36000G,LS,Majorana - Laterza,Putignano,BA,Puglia,40,,Sì,Scolastica
+Antonio,Rossi,4,BAPS36000G,LS,Majorana - Laterza,Putignano,BA,Puglia,36,,Sì,Scolastica
+Francesco,Oliva,4,BAPS36000G,LS,Majorana - Laterza,Putignano,BA,Puglia,34,,Sì,Scolastica
+Pierfrancesco,Rossetti,2,BAPS36000G,LS,Majorana - Laterza,Putignano,BA,Puglia,28,,Sì,Scolastica
+Gabriele,Strippoli,3,BATD09000L,ITC,"I.T.E.T. ""Padre A. M. Tannoia""",Corato,BA,Puglia,26,,Sì,Scolastica
+Pasquale,Roberto,3,BATD09000L,ITC,"I.T.E.T. ""Padre A. M. Tannoia""",Corato,BA,Puglia,24,,Sì,Scolastica
+Luigi,Carbone,3,BATD320001,ITC,I.T.E.T. Cassandro Fermi Nervi,Barletta,BT,Puglia,37,,Sì,Scolastica
+Giuseppe,Dellaquila,2,BATD320001,ITC,I.T.E.T. Cassandro Fermi Nervi,Barletta,BT,Puglia,36,,Sì,Scolastica
+Giuseppe Pio,Cassano,2,BATD320001,ITC,I.T.E.T. Cassandro Fermi Nervi,Barletta,BT,Puglia,28,,Sì,Scolastica
+Daniele,Larosa,4,BATF060003,ITI,Sen. Iannuzzi,Andria,BT,Puglia,37,,Sì,Scolastica
+Francesco,Di Franco,4,BATF060003,ITI,Sen. Iannuzzi,Andria,BT,Puglia,36,,Sì,Scolastica
+Riccardo,Pistillo,4,BATF060003,ITI,Sen. Iannuzzi,Andria,BT,Puglia,34,,Sì,Scolastica
+Donato,Squicciarini,3,BATF06301G,ITI,Guglielmo Marconi,Bari,BA,Puglia,35,40,Sì,Scolastica
+Lorenzo,Nicassio,4,BATF06301G,ITI,Guglielmo Marconi,Bari,BA,Puglia,32,,Sì,Scolastica
+Antonio,Martino,2,BATF06301G,ITI,Guglielmo Marconi,Bari,BA,Puglia,28,75,Sì,Scolastica
+Manuela,Centrone,2,BATF06301G,ITI,Guglielmo Marconi,Bari,BA,Puglia,28,50,Sì,Scolastica
+Leonardo,Ferrara,2,BATF06301G,ITI,Guglielmo Marconi,Bari,BA,Puglia,26,,Sì,Scolastica
+Daniele,Delle Foglie,4,BATF06301G,ITI,Guglielmo Marconi,Bari,BA,Puglia,,159,Sì,nazionalista OII 2023
+Francesco,Tralcio,3,BATF26000R,ITI,"E.T. ""Vito Sante Longo""",Monopoli,BA,Puglia,32,,Sì,Scolastica
+Riccardo,Pagliarulo,4,BATF26000R,ITI,"E.T. ""Vito Sante Longo""",Monopoli,BA,Puglia,27,,Sì,Scolastica
+Michele,Corbascio,2,BATF26000R,ITI,"E.T. ""Vito Sante Longo""",Monopoli,BA,Puglia,26,,Sì,Scolastica
+Francesco,Croco,1,BATF26000R,ITI,"E.T. ""Vito Sante Longo""",Monopoli,BA,Puglia,25,,Sì,Scolastica
+Mark,Mandriota,2,BATF26000R,ITI,"E.T. ""Vito Sante Longo""",Monopoli,BA,Puglia,25,,Sì,Scolastica
+Massimo,Mazzotta,4,BATL07000T,ITG,Nervi-Galilei,Altamura,BA,Puglia,29,,Sì,Scolastica
+Gabriele,Bolognese,3,BATL07000T,ITG,Nervi-Galilei,Altamura,BA,Puglia,26,,Sì,Scolastica
+Gabriele,Soriani,3,BGIS004008,IIS,Archimede,Treviglio,BG,Lombardia,45,,Sì,Scolastica
+Luca,Barboni,4,BGIS004008,IIS,Archimede,Treviglio,BG,Lombardia,45,,Sì,Scolastica
+Simone,Grasso,4,BGIS004008,IIS,Archimede,Treviglio,BG,Lombardia,37,,Sì,Scolastica
+Leonardo,Cortinovis,3,BGIS004008,IIS,Archimede,Treviglio,BG,Lombardia,35,,Sì,Scolastica
+Francesco,Tibaldini,4,BGIS004008,IIS,Archimede,Treviglio,BG,Lombardia,34,,Sì,Scolastica
+Davide,Zinetti,3,BGIS004008,IIS,Archimede,Treviglio,BG,Lombardia,33,,Sì,Scolastica
+Alberto,Pullano,4,BGIS01400V,IIS,Lorenzo Lotto,Trescore Balneario,BG,Lombardia,31,,Sì,Scolastica
+Tommaso,Brignoli,3,BGIS01600E,IIS,Valle Seriana,Gazzaniga,BG,Lombardia,42,,Sì,Scolastica
+Alessandro,Carsana,3,BGIS01600E,IIS,Valle Seriana,Gazzaniga,BG,Lombardia,41,,Sì,Scolastica
+Francesco,Ghilardini,4,BGIS01600E,IIS,Valle Seriana,Gazzaniga,BG,Lombardia,39,,Sì,Scolastica
+Andrea,Benigni,4,BGIS01700A,IIS,Ettore Majorana,Seriate,BG,Lombardia,44,,Sì,Scolastica
+Sebastian,Judea,3,BGIS01700A,IIS,Ettore Majorana,Seriate,BG,Lombardia,39,,Sì,Scolastica
+Giacomo,Colosio,4,BGIS02300N,IIS,Serafino Riva,Sarnico,BG,Lombardia,44,,Sì,Scolastica
+Davide,Colosio,4,BGIS02300N,IIS,Serafino Riva,Sarnico,BG,Lombardia,35,,Sì,Scolastica
+Henry,Bejkosalaj,4,BGIS02300N,IIS,Serafino Riva,Sarnico,BG,Lombardia,35,,Sì,Scolastica
+Andrea Guido,Salvatore,4,BGIS02400D,IIS,Lorenzo Federici,Trescore Balneario,BG,Lombardia,31,,Sì,Scolastica
+Stefano,Valli,4,BGIS02400D,IIS,Lorenzo Federici,Trescore Balneario,BG,Lombardia,23,,Sì,Scolastica
+Matteo,Crawford,4,BGPS02000G,LS,Filippo Lussana,Bergamo,BG,Lombardia,48,,Sì,Scolastica
+Matteo,Angioletti,1,BGPS02000G,LS,Filippo Lussana,Bergamo,BG,Lombardia,43,,Sì,Scolastica
+Chiara,Donadoni,4,BGPS02000G,LS,Filippo Lussana,Bergamo,BG,Lombardia,41,,Sì,Scolastica
+Elisa,Basile,2,BGPS02000G,LS,Filippo Lussana,Bergamo,BG,Lombardia,35,,Sì,Scolastica
+Andrea,Mozzali,2,BGPS02000G,LS,Filippo Lussana,Bergamo,BG,Lombardia,31,,Sì,Scolastica
+Michele,Devasini,2,BGPS02000G,LS,Filippo Lussana,Bergamo,BG,Lombardia,27,,Sì,Scolastica
+Diana,Moretti,2,BGPS02000G,LS,Filippo Lussana,Bergamo,BG,Lombardia,25,,Sì,Scolastica
+Niccolò Lorenzo,Brambilla,3,BGPS04000R,LS,Galileo Galilei,Caravaggio,BG,Lombardia,65,137,Sì,Scolastica
+Luca,Androni,4,BGPS04000R,LS,Galileo Galilei,Caravaggio,BG,Lombardia,46,,Sì,Scolastica
+Andrea,Brambilla,4,BGPS04000R,LS,Galileo Galilei,Caravaggio,BG,Lombardia,37,,Sì,Scolastica
+Massimo,Campioni,3,BGPS04000R,LS,Galileo Galilei,Caravaggio,BG,Lombardia,36,,Sì,Scolastica
+Daniele,Golin,4,BGPS04000R,LS,Galileo Galilei,Caravaggio,BG,Lombardia,34,,Sì,Scolastica
+Matteo,Ghirlandetti,4,BGPS04000R,LS,Galileo Galilei,Caravaggio,BG,Lombardia,34,,Sì,Scolastica
+Erik,Volpi,3,BGPS04000R,LS,Galileo Galilei,Caravaggio,BG,Lombardia,33,,Sì,Scolastica
+Nicolò,Casole,2,BGPS04000R,LS,Galileo Galilei,Caravaggio,BG,Lombardia,30,,Sì,Scolastica
+Yingjie,Cui,4,BGPS05000B,LS,Lorenzo Mascheroni,Bergamo,BG,Lombardia,50,,Sì,Scolastica
+Matteo,Del Carro,4,BGPS05000B,LS,Lorenzo Mascheroni,Bergamo,BG,Lombardia,45,,Sì,Scolastica
+Dario,Carlini,3,BGPS05000B,LS,Lorenzo Mascheroni,Bergamo,BG,Lombardia,41,,Sì,Scolastica
+Roberto,Radici,3,BGPS05000B,LS,Lorenzo Mascheroni,Bergamo,BG,Lombardia,39,,Sì,Scolastica
+Kevin,Ferazzini,4,BGPS05000B,LS,Lorenzo Mascheroni,Bergamo,BG,Lombardia,38,,Sì,Scolastica
+Francesco,Polattini,3,BGPS05000B,LS,Lorenzo Mascheroni,Bergamo,BG,Lombardia,35,,Sì,Scolastica
+Michele,Stroppa,4,BGPS05000B,LS,Lorenzo Mascheroni,Bergamo,BG,Lombardia,35,,Sì,Scolastica
+Carlo,Andreani,1,BGPS17000D,LS,Edoardo Amaldi,Alzano Lombardo,BG,Lombardia,30,,Sì,Scolastica
+Luca,Gallizioli,3,BGPS17000D,LS,Edoardo Amaldi,Alzano Lombardo,BG,Lombardia,30,,Sì,Scolastica
+Beatrice,Chignoli,4,BGPSH85002,Scuola non statale,"Liceo Scientifico Opz. Scienze Applicate ""Don Bosco""",Treviglio,BG,Lombardia,40,,Sì,Scolastica
+Giulia,Pedroni,1,BGPSH85002,Scuola non statale,"Liceo Scientifico Opz. Scienze Applicate ""Don Bosco""",Treviglio,BG,Lombardia,35,,Sì,Scolastica
+Joseph,Scotti,2,BGPSH85002,Scuola non statale,"Liceo Scientifico Opz. Scienze Applicate ""Don Bosco""",Treviglio,BG,Lombardia,25,,Sì,Scolastica
+Edoardo,Scaglia,2,BGPSQZ500T,Scuola non statale,"Liceo Scientifico Opzione Scienze Applicate ""Imiberg Maria Immacolata""",Bergamo,BG,Lombardia,42,,Sì,Scolastica
+Finlay,Marshall,3,BGPSQZ500T,Scuola non statale,"Liceo Scientifico Opzione Scienze Applicate ""Imiberg Maria Immacolata""",Bergamo,BG,Lombardia,40,,Sì,Scolastica
+Filippo,Sana,3,BGPSQZ500T,Scuola non statale,"Liceo Scientifico Opzione Scienze Applicate ""Imiberg Maria Immacolata""",Bergamo,BG,Lombardia,38,,Sì,Scolastica
+Marco,Nani,4,BGTF010003,ITI,Pietro Paleocapa,Bergamo,BG,Lombardia,39,,Sì,Scolastica
+Davide,Lazzari,1,BGTF010003,ITI,Pietro Paleocapa,Bergamo,BG,Lombardia,36,,Sì,Scolastica
+Thomas,Rota,4,BGTF010003,ITI,Pietro Paleocapa,Bergamo,BG,Lombardia,36,,Sì,Scolastica
+Luca,Bonardi,3,BGTF010003,ITI,Pietro Paleocapa,Bergamo,BG,Lombardia,35,,Sì,Scolastica
+Enea,Biglioli,3,BGTF010003,ITI,Pietro Paleocapa,Bergamo,BG,Lombardia,35,,Sì,Scolastica
+Nicola,Cattani,4,BGTF010003,ITI,Pietro Paleocapa,Bergamo,BG,Lombardia,35,,Sì,Scolastica
+Ludovico,Mariani,4,BGTF010003,ITI,Pietro Paleocapa,Bergamo,BG,Lombardia,33,,Sì,Scolastica
+Arianna,Urciuoli,4,BGTF010003,ITI,Pietro Paleocapa,Bergamo,BG,Lombardia,31,,Sì,nazionalista OII 2023
+Veronica,Bassetti,3,BIIS00600L,IIS,Eugenio Bona,Biella,BI,Piemonte,18,,Sì,Scolastica
+Teobaldo,Pennacchia,4,BITF01000Q,ITI,Q. Sella - Iti,Biella,BI,Piemonte,47,,Sì,Scolastica
+Luca,Rizzo,4,BITF01000Q,ITI,Q. Sella - Iti,Biella,BI,Piemonte,37,,Sì,Scolastica
+Filippo,Giordanetti,4,BITF01000Q,ITI,Q. Sella - Iti,Biella,BI,Piemonte,35,,Sì,Scolastica
+Stefano,Ye,4,BLIS008006,IIS,Di Feltre,Feltre,BL,Veneto,25,,Sì,Scolastica
+Thomas,Canova,1,BLPS020006,LS,G. Dal Piaz,Feltre,BL,Veneto,31,,Sì,Scolastica
+Ludovico,Tonello,1,BLPS020006,LS,G. Dal Piaz,Feltre,BL,Veneto,21,,Sì,Scolastica
+Pietro,Stiz,4,BLPSD7500D,Scuola non statale,"Liceo Scientifico ""Vittorino Da Feltre""",Feltre,BL,Veneto,48,,Sì,Scolastica
+Jacopo,Tibolla,2,BLPSD7500D,Scuola non statale,"Liceo Scientifico ""Vittorino Da Feltre""",Feltre,BL,Veneto,27,,Sì,Scolastica
+Giorgia,Munaro,2,BLPSD7500D,Scuola non statale,"Liceo Scientifico ""Vittorino Da Feltre""",Feltre,BL,Veneto,27,,Sì,Scolastica
+Valentino,De Bacco,2,BLPSD7500D,Scuola non statale,"Liceo Scientifico ""Vittorino Da Feltre""",Feltre,BL,Veneto,26,,Sì,Scolastica
+Filippo,De Martin,2,BLPSD7500D,Scuola non statale,"Liceo Scientifico ""Vittorino Da Feltre""",Feltre,BL,Veneto,26,,Sì,Scolastica
+Martina,Gallina,4,BLPSD7500D,Scuola non statale,"Liceo Scientifico ""Vittorino Da Feltre""",Feltre,BL,Veneto,,,Sì,nazionalista OII 2023
+Michele,Pascale,4,BNIS00200T,IIS,Telesi@,Telese Terme,BN,Campania,45,,Sì,Scolastica
+Michele,Iadevaia,3,BNIS00200T,IIS,Telesi@,Telese Terme,BN,Campania,34,,Sì,Scolastica
+Antonio Gioele,D'Onofrio,4,BNIS00200T,IIS,Telesi@,Telese Terme,BN,Campania,33,,Sì,Scolastica
+Pasquale,Ruggiero,3,BNIS00800R,IIS,A. Lombardi,Airola,BN,Campania,21,,Sì,Scolastica
+Salvatore,Posillico,4,BNIS013008,IIS,"""A.M. De' Liguori"" S. Agata De' Goti",Sant'Agata de' Goti,BN,Campania,35,55,Sì,Scolastica
+Salvatore,Perone,3,BNIS013008,IIS,"""A.M. De' Liguori"" S. Agata De' Goti",Sant'Agata de' Goti,BN,Campania,31,10,Sì,Scolastica
+Emanuele,Abbatiello,2,BNIS013008,IIS,"""A.M. De' Liguori"" S. Agata De' Goti",Sant'Agata de' Goti,BN,Campania,26,57,Sì,Scolastica
+Cristiana,Di Meola,3,BNPS12500Z,Scuola non statale,Liceo Scientifico - Opzione Scienze Applicate Luigi Sodo,Cerreto Sannita,BN,Campania,35,,Sì,Scolastica
+Pierlorenzo,Palladino,3,BNPS12500Z,Scuola non statale,Liceo Scientifico - Opzione Scienze Applicate Luigi Sodo,Cerreto Sannita,BN,Campania,21,,Sì,Scolastica
+Salvatore,Pagnozzi,4,BNTF010008,ITI,G.B.B. Lucarelli,Benevento,BN,Campania,30,,Sì,Scolastica
+Emilio,Signoriello,3,BNTF010008,ITI,G.B.B. Lucarelli,Benevento,BN,Campania,21,,Sì,Scolastica
+Filippo,Nardelli,4,BOIS01400R,IIS,F. Alberghetti,Imola,BO,Emilia-Romagna,54,,Sì,Scolastica
+Edoardo,Morelli,4,BOIS01400R,IIS,F. Alberghetti,Imola,BO,Emilia-Romagna,50,,Sì,Scolastica
+Anna,Boccia,2,BOIS01400R,IIS,F. Alberghetti,Imola,BO,Emilia-Romagna,30,,Sì,Scolastica
+Sandra,Rangoni,2,BOIS01400R,IIS,F. Alberghetti,Imola,BO,Emilia-Romagna,30,,Sì,Scolastica
+Chiara,Bandini,2,BOIS01400R,IIS,F. Alberghetti,Imola,BO,Emilia-Romagna,25,,Sì,Scolastica
+Federico,Filazzola,4,BOIS01900X,IIS,Aldini Valeriani,Bologna,BO,Emilia-Romagna,42,,Sì,Scolastica
+Alessandro,Zerbini,1,BOIS01900X,IIS,Aldini Valeriani,Bologna,BO,Emilia-Romagna,41,,Sì,Scolastica
+Kongjie,Liao,4,BOIS01900X,IIS,Aldini Valeriani,Bologna,BO,Emilia-Romagna,70,200,Sì,nazionalista OII 2023
+Pietro,Negroni,2,BOIS02700V,IIS,Crescenzi-Pacinotti-Sirani,Bologna,BO,Emilia-Romagna,26,,Sì,Scolastica
+Alessio,Domenichini,2,BOIS02700V,IIS,Crescenzi-Pacinotti-Sirani,Bologna,BO,Emilia-Romagna,24,,Sì,Scolastica
+Ersil,Kolaj,4,BOPS02000D,LS,Liceo Enrico Fermi,Bologna,BO,Emilia-Romagna,31,,Sì,Scolastica
+Andrea,Castelluccio,4,BOPS02000D,LS,Liceo Enrico Fermi,Bologna,BO,Emilia-Romagna,30,,Sì,Scolastica
+Luca,Govoni,3,BOPS030004,LS,Liceo Niccolo' Copernico,Bologna,BO,Emilia-Romagna,50,,Sì,Scolastica
+Luca,Aldrovandi,4,BOPS030004,LS,Liceo Niccolo' Copernico,Bologna,BO,Emilia-Romagna,48,,Sì,Scolastica
+Nausicaa,Carotenuto,3,BOPS030004,LS,Liceo Niccolo' Copernico,Bologna,BO,Emilia-Romagna,43,,Sì,Scolastica
+Giuseppe,Russo,4,BOPS030004,LS,Liceo Niccolo' Copernico,Bologna,BO,Emilia-Romagna,40,,Sì,Scolastica
+Matteo,Righetti,3,BOPS030004,LS,Liceo Niccolo' Copernico,Bologna,BO,Emilia-Romagna,34,,Sì,Scolastica
+Emanuele,Righi,4,BOPS030004,LS,Liceo Niccolo' Copernico,Bologna,BO,Emilia-Romagna,34,,Sì,Scolastica
+Matteo,Gaibari,3,BOPS04000P,LS,Liceo A. B. Sabin,Bologna,BO,Emilia-Romagna,44,,Sì,Scolastica
+Simone,Tolomelli,4,BOPS04000P,LS,Liceo A. B. Sabin,Bologna,BO,Emilia-Romagna,42,,Sì,Scolastica
+Caterina,Piazza,4,BOPSR2500M,Scuola non statale,Liceo Scientifico Opzione Scienze Applicate Malpighi,Bologna,BO,Emilia-Romagna,31,,Sì,Scolastica
+Maria Teresa,Scorrano,4,BRIS01100C,IIS,E. Ferdinando,Mesagne,BR,Puglia,35,,Sì,Scolastica
+Chiara,Scarafile,4,BRIS01100C,IIS,E. Ferdinando,Mesagne,BR,Puglia,35,,Sì,Scolastica
+Aurora,Russo,4,BRIS01100C,IIS,E. Ferdinando,Mesagne,BR,Puglia,33,,Sì,Scolastica
+Fabrizio,De Benedittis,2,BRIS01700B,IIS,E. Majorana,Brindisi,BR,Puglia,51,,Sì,Scolastica
+Federico,De Benedittis,2,BRIS01700B,IIS,E. Majorana,Brindisi,BR,Puglia,36,,Sì,Scolastica
+Stefano,Baldassarre,2,BRIS01700B,IIS,E. Majorana,Brindisi,BR,Puglia,25,,Sì,Scolastica
+Andrea Salvatore,Cretì,3,BRIS01700B,IIS,E. Majorana,Brindisi,BR,Puglia,,,Sì,nazionalista OII 2023
+Matilda,Pomes,1,BRPC04000P,LC,Marzolla-Leo-Simone-Durano,Brindisi,BR,Puglia,39,,Sì,Scolastica
+Christian,D'Adamo,2,BRPC04000P,LC,Marzolla-Leo-Simone-Durano,Brindisi,BR,Puglia,32,,Sì,Scolastica
+Francesca,Valente,3,BRPS030007,LS,F. Ribezzo,Francavilla Fontana,BR,Puglia,20,,Sì,Scolastica
+Emanuele Guido,Barnaba,3,BRTD100004,ITCG,"I.T.E.T. ""Pantanelli-Monnet""",Ostuni,BR,Puglia,26,,Sì,Scolastica
+Marco,Lorusso,4,BRTD100004,ITCG,"I.T.E.T. ""Pantanelli-Monnet""",Ostuni,BR,Puglia,24,,Sì,Scolastica
+Edoardo,Leone,4,BRTF010004,ITI,G. Giorgi,Brindisi,BR,Puglia,47,,Sì,Scolastica
+Samuele,Miccoli,3,BRTF010004,ITI,G. Giorgi,Brindisi,BR,Puglia,40,,Sì,Scolastica
+Andrea,Caforio,4,BRTF010004,ITI,G. Giorgi,Brindisi,BR,Puglia,37,,Sì,Scolastica
+Giovanni,Ancora,4,BRTF010004,ITI,G. Giorgi,Brindisi,BR,Puglia,36,,Sì,Scolastica
+Angelo,Caforio,4,BRTF02000P,ITI,E. Fermi,Francavilla Fontana,BR,Puglia,42,,Sì,Scolastica
+Eligio,Lupo,4,BRTF02000P,ITI,E. Fermi,Francavilla Fontana,BR,Puglia,36,,Sì,Scolastica
+Fabio,Montanaro,4,BRTF02000P,ITI,E. Fermi,Francavilla Fontana,BR,Puglia,35,,Sì,Scolastica
+Alessio,Ghidini,4,BSIS00600C,IIS,C. Beretta,Gardone Val Trompia,BS,Lombardia,50,200,Sì,Scolastica
+Mirko,Marini,4,BSIS00600C,IIS,C. Beretta,Gardone Val Trompia,BS,Lombardia,45,,Sì,Scolastica
+Gianluca,Rizzini,4,BSIS00600C,IIS,C. Beretta,Gardone Val Trompia,BS,Lombardia,45,,Sì,Scolastica
+Michele,Gnali,4,BSIS00600C,IIS,C. Beretta,Gardone Val Trompia,BS,Lombardia,41,,Sì,Scolastica
+Gabriele,Protopapa,4,BSIS00600C,IIS,C. Beretta,Gardone Val Trompia,BS,Lombardia,36,,Sì,Scolastica
+Karim,Janati Idrissi,3,BSIS00600C,IIS,C. Beretta,Gardone Val Trompia,BS,Lombardia,35,,Sì,Scolastica
+Adrian,Tecuci,3,BSIS00600C,IIS,C. Beretta,Gardone Val Trompia,BS,Lombardia,35,,Sì,Scolastica
+Marco,Bonsi,4,BSIS00600C,IIS,C. Beretta,Gardone Val Trompia,BS,Lombardia,35,,Sì,Scolastica
+Leonardo,Ricetti,4,BSIS00600C,IIS,C. Beretta,Gardone Val Trompia,BS,Lombardia,35,,Sì,Scolastica
+Daniele,Bettoni,3,BSIS00600C,IIS,C. Beretta,Gardone Val Trompia,BS,Lombardia,10,150,Sì,preterritoriale
+Cristian,Picotti,4,BSIS008004,IIS,Antonietti,Iseo,BS,Lombardia,42,,Sì,Scolastica
+Tommaso,Bovi,3,BSIS008004,IIS,Antonietti,Iseo,BS,Lombardia,38,,Sì,Scolastica
+Nicolò,Ghezzi,3,BSIS008004,IIS,Antonietti,Iseo,BS,Lombardia,38,,Sì,Scolastica
+Cristian,Marcarini,3,BSIS008004,IIS,Antonietti,Iseo,BS,Lombardia,36,,Sì,Scolastica
+Stefano,Bosis,3,BSIS008004,IIS,Antonietti,Iseo,BS,Lombardia,35,,Sì,Scolastica
+Andrea,Rossi,4,BSIS008004,IIS,Antonietti,Iseo,BS,Lombardia,35,,Sì,Scolastica
+Razvan Stefan,Cobzaru,4,BSIS008004,IIS,Antonietti,Iseo,BS,Lombardia,34,,Sì,Scolastica
+Paolo,Faustini,2,BSIS008004,IIS,Antonietti,Iseo,BS,Lombardia,30,,Sì,Scolastica
+Lorenzo,Vitali,4,BSIS01300G,IIS,Cossali,Orzinuovi,BS,Lombardia,40,155,Sì,Scolastica
+Aaron,Gaio,3,BSIS01300G,IIS,Cossali,Orzinuovi,BS,Lombardia,35,,Sì,Scolastica
+Davide,Montini,4,BSIS01800P,IIS,"""Marzoli"" - Palazzolo S/O",Palazzolo sull'Oglio,BS,Lombardia,55,,Sì,Scolastica
+Jacopo,Donghi,4,BSIS01800P,IIS,"""Marzoli"" - Palazzolo S/O",Palazzolo sull'Oglio,BS,Lombardia,42,,Sì,Scolastica
+Leonardo,Fiorini,3,BSIS02700D,IIS,"""Olivelli-Putelli"" - Darfo",Darfo Boario Terme,BS,Lombardia,82,200,Sì,Scolastica
+Davide,Richini,4,BSIS02700D,IIS,"""Olivelli-Putelli"" - Darfo",Darfo Boario Terme,BS,Lombardia,50,194,Sì,Scolastica
+Mirza,Osmic,3,BSIS02700D,IIS,"""Olivelli-Putelli"" - Darfo",Darfo Boario Terme,BS,Lombardia,35,,Sì,Scolastica
+Fabio,Fontana,2,BSIS02700D,IIS,"""Olivelli-Putelli"" - Darfo",Darfo Boario Terme,BS,Lombardia,25,,Sì,Scolastica
+Davide,Speranza,4,BSIS03300R,IIS,L. Cerebotani,Lonato del Garda,BS,Lombardia,61,,Sì,Scolastica
+Michele,Della Maestra,3,BSIS03300R,IIS,L. Cerebotani,Lonato del Garda,BS,Lombardia,40,,Sì,Scolastica
+Cristiano,Wang,3,BSIS037004,IIS,Castelli,Brescia,BS,Lombardia,50,200,Sì,Scolastica
+Pietro,Paglierani,3,BSIS037004,IIS,Castelli,Brescia,BS,Lombardia,40,,Sì,Scolastica
+Christian,Cangelli,3,BSIS037004,IIS,Castelli,Brescia,BS,Lombardia,35,,Sì,Scolastica
+Gianluca,Pletti,3,BSIS037004,IIS,Castelli,Brescia,BS,Lombardia,35,78,Sì,Scolastica
+Klevi,Bedeli,3,BSIS037004,IIS,Castelli,Brescia,BS,Lombardia,31,146,Sì,preterritoriale
+Francesco,Malacarne,1,BSIS037004,IIS,Castelli,Brescia,BS,Lombardia,27,,Sì,Scolastica
+Marco,Freddi,3,BSIS037004,IIS,Castelli,Brescia,BS,Lombardia,22,170,Sì,preterritoriale
+Giulia,Comini,4,BSPS01000D,LS,Calini,Brescia,BS,Lombardia,67,,Sì,Scolastica
+Leonardo,Chiarini,3,BSPS01000D,LS,Calini,Brescia,BS,Lombardia,46,,Sì,Scolastica
+Angelo,Ferrari,2,BSPS01000D,LS,Calini,Brescia,BS,Lombardia,45,,Sì,Scolastica
+Davide,Raschitelli,4,BSPS01000D,LS,Calini,Brescia,BS,Lombardia,44,,Sì,Scolastica
+Nikolai,Carnaghi,1,BSPS01000D,LS,Calini,Brescia,BS,Lombardia,35,,Sì,Scolastica
+Viorel Giordano,Covacev,3,BSPS01000D,LS,Calini,Brescia,BS,Lombardia,35,,Sì,Scolastica
+Alessandro,Contessi,2,BSPS01000D,LS,Calini,Brescia,BS,Lombardia,28,,Sì,Scolastica
+Matteo,Marini,4,BSPS01000D,LS,Calini,Brescia,BS,Lombardia,55,,Sì,nazionalista OII 2023
+Rares Leonard,Postelnicu,4,BSPS05000X,LS,Enrico Fermi,Salò,BS,Lombardia,52,,Sì,Scolastica
+Rayan,Bourja,3,BSPS05000X,LS,Enrico Fermi,Salò,BS,Lombardia,41,,Sì,Scolastica
+Matteo,Tobanelli,3,BSPS05000X,LS,Enrico Fermi,Salò,BS,Lombardia,36,,Sì,Scolastica
+Stefano,Ronchi,2,BSPS05000X,LS,Enrico Fermi,Salò,BS,Lombardia,27,,Sì,Scolastica
+Giovanni,Plebani,4,BSPS11000A,LS,Leonardo,Brescia,BS,Lombardia,78,,Sì,Scolastica
+Gennaro Nicholas,Conte,3,BSPS11000A,LS,Leonardo,Brescia,BS,Lombardia,40,,Sì,Scolastica
+Luca,Manfredi,3,BSPS11000A,LS,Leonardo,Brescia,BS,Lombardia,36,,Sì,Scolastica
+Matteo,Franzoni,4,BSPS11000A,LS,Leonardo,Brescia,BS,Lombardia,34,,Sì,Scolastica
+Lorenzo,Cosi,2,BSPS11000A,LS,Leonardo,Brescia,BS,Lombardia,31,,Sì,Scolastica
+Andrea,Bugatti,1,BSPS11000A,LS,Leonardo,Brescia,BS,Lombardia,26,,Sì,Scolastica
+Pietro,Finazzi,2,BSPS11000A,LS,Leonardo,Brescia,BS,Lombardia,26,,Sì,Scolastica
+Claudia,Lecca,4,CAIS009007,IIS,M. Buonarroti,Guspini,SU,Sardegna,30,,Sì,Scolastica
+Nicola,Sebis,4,CAIS009007,IIS,M. Buonarroti,Guspini,SU,Sardegna,24,,Sì,Scolastica
+Mario Paride,Spano,3,CAIS017006,IIS,"""G. Brotzu"" Quartu S.E.",Quartu Sant'Elena,CA,Sardegna,32,20,Sì,Scolastica
+Federico,Loi,3,CAIS017006,IIS,"""G. Brotzu"" Quartu S.E.",Quartu Sant'Elena,CA,Sardegna,25,,Sì,Scolastica
+Angelo,Congiu,4,CAIS02700R,IIS,Asproni-Fermi,Iglesias,SU,Sardegna,51,,Sì,Scolastica
+Alessandro,Manca,4,CAIS02700R,IIS,Asproni-Fermi,Iglesias,SU,Sardegna,36,,Sì,Scolastica
+Francesco,Vincis,3,CAPS02000B,LS,Alberti,Cagliari,CA,Sardegna,43,,Sì,Scolastica
+Samuele,Palmeri,3,CAPS02000B,LS,Alberti,Cagliari,CA,Sardegna,34,,Sì,Scolastica
+Michele,Tronci,2,CAPS02000B,LS,Alberti,Cagliari,CA,Sardegna,33,,Sì,Scolastica
+Elisa,Dessalvi,2,CAPS02000B,LS,Alberti,Cagliari,CA,Sardegna,33,,Sì,Scolastica
+Daniele,Puddu,3,CAPS050007,LS,A. Pacinotti,Cagliari,CA,Sardegna,48,,Sì,Scolastica
+Davide,Di Tommaso,4,CAPS050007,LS,A. Pacinotti,Cagliari,CA,Sardegna,40,,Sì,Scolastica
+Gabriele,Giorgi,3,CATF04000P,ITI,Michele Giua,Cagliari,CA,Sardegna,33,,Sì,Scolastica
+Pierluigi,Bellaggi,3,CATF04000P,ITI,Michele Giua,Cagliari,CA,Sardegna,25,,Sì,Scolastica
+Matteo,Atzori,4,CATF04002R,ITI,Giua,Assemini,CA,Sardegna,35,,Sì,Scolastica
+Edoardo,Contini,4,CATF04002R,ITI,Giua,Assemini,CA,Sardegna,26,,Sì,Scolastica
+Lino,Diamente,4,CBIS007006,IIS,Lombardo-Radice,Bojano,CB,Molise,15,,Sì,Scolastica
+Antonio,Mobilia,3,CBIS02100C,IIS,L. Pilla,Campobasso,CB,Molise,29,,Sì,Scolastica
+Francesca,Camardo,4,CBIS02100C,IIS,L. Pilla,Campobasso,CB,Molise,21,,Sì,Scolastica
+Alfonso,Izzi,4,CBIS023004,IIS,E. Majorana,Termoli,CB,Molise,25,,Sì,Scolastica
+Dante,Martella,4,CBIS023004,IIS,E. Majorana,Termoli,CB,Molise,25,,Sì,Scolastica
+Raul,Kertesz,3,CBPS01000B,LS,A. Romita,Campobasso,CB,Molise,50,,Sì,Scolastica
+Edoardo Pio Maria,Tavini,2,CBPS01000B,LS,A. Romita,Campobasso,CB,Molise,45,,Sì,Scolastica
+Emanuele,Vitarelli,3,CBPS01000B,LS,A. Romita,Campobasso,CB,Molise,40,,Sì,Scolastica
+Vincenzo,Esposito,2,CBPS01000B,LS,A. Romita,Campobasso,CB,Molise,35,,Sì,Scolastica
+Nicolas,Buonsignore,4,CBPS01000B,LS,A. Romita,Campobasso,CB,Molise,35,,Sì,Scolastica
+Antonio,Cerio,4,CBPS01000B,LS,A. Romita,Campobasso,CB,Molise,35,,Sì,Scolastica
+Annalaura,Colavecchia,2,CBPS01000B,LS,A. Romita,Campobasso,CB,Molise,34,,Sì,Scolastica
+Rosario,Fasano,2,CBPS01000B,LS,A. Romita,Campobasso,CB,Molise,32,,Sì,Scolastica
+Andrea,Sansano,2,CBPS01000B,LS,A. Romita,Campobasso,CB,Molise,32,,Sì,Scolastica
+Alessandro,Pastore,2,CBPS01000B,LS,A. Romita,Campobasso,CB,Molise,28,,Sì,Scolastica
+Emanuele,De Santis,2,CBPS01000B,LS,A. Romita,Campobasso,CB,Molise,27,,Sì,Scolastica
+Fabio,Pertinger,2,CBPS01000B,LS,A. Romita,Campobasso,CB,Molise,26,,Sì,Scolastica
+Davide,Lombardi,2,CBPS01000B,LS,A. Romita,Campobasso,CB,Molise,25,,Sì,Scolastica
+Simone,Longo,4,CBPS01000B,LS,A. Romita,Campobasso,CB,Molise,20,,Sì,finalista OIS
+Simone,De Rosa,4,CBPS01000B,LS,A. Romita,Campobasso,CB,Molise,36,143,Sì,nazionalista OII 2023
+Romeo,Bertoldo,4,CBPS08000N,LS,Ist. Omnicompr. - S. Croce Di M.,Santa Croce di Magliano,CB,Molise,29,,Sì,Scolastica
+Angelo,Petruccelli,3,CBPS08000N,LS,Ist. Omnicompr. - S. Croce Di M.,Santa Croce di Magliano,CB,Molise,22,,Sì,Scolastica
+Thomas,Olivieri,2,CBRH010005,IPSAR,"I.P.S.E.O.A. -I.P.S.A.R. ""F. Di Svevia""",Termoli,CB,Molise,35,,Sì,Scolastica
+Carmela,Perrello,2,CBRH010005,IPSAR,"I.P.S.E.O.A. -I.P.S.A.R. ""F. Di Svevia""",Termoli,CB,Molise,25,,Sì,Scolastica
+Davide,Ricci,2,CBRH010005,IPSAR,"I.P.S.E.O.A. -I.P.S.A.R. ""F. Di Svevia""",Termoli,CB,Molise,25,,Sì,Scolastica
+Giuseppe,Annese,2,CBRH010005,IPSAR,"I.P.S.E.O.A. -I.P.S.A.R. ""F. Di Svevia""",Termoli,CB,Molise,25,,Sì,Scolastica
+Gabriela Alexandra,Treteag,2,CBRH010005,IPSAR,"I.P.S.E.O.A. -I.P.S.A.R. ""F. Di Svevia""",Termoli,CB,Molise,25,,Sì,Scolastica
+Nicola,Spadaccino,2,CBRH010005,IPSAR,"I.P.S.E.O.A. -I.P.S.A.R. ""F. Di Svevia""",Termoli,CB,Molise,25,,Sì,Scolastica
+Christian,Colatruglio,3,CBTF01000D,ITI,G. Marconi,Campobasso,CB,Molise,32,,Sì,Scolastica
+Davide,Barretta,3,CBTF01000D,ITI,G. Marconi,Campobasso,CB,Molise,27,,Sì,Scolastica
+Antonio,Scialò,4,CEIS001003,IIS,Agostino Nifo,Sessa Aurunca,CE,Campania,27,,Sì,Scolastica
+Danilo,Sullo,2,CEIS001003,IIS,Agostino Nifo,Sessa Aurunca,CE,Campania,23,,Sì,Scolastica
+Pietro,Patrizio,3,CEIS00400E,IIS,Ugo Foscolo,Teano,CE,Campania,25,,Sì,Scolastica
+Francesco,Gallina,3,CEIS00400E,IIS,Ugo Foscolo,Teano,CE,Campania,25,,Sì,Scolastica
+Francesca Pia,Cioffi,4,CEIS02300X,IIS,E. Majorana,Santa Maria a Vico,CE,Campania,27,,Sì,Scolastica
+Giovannina,Cimmino,4,CEIS02300X,IIS,E. Majorana,Santa Maria a Vico,CE,Campania,27,,Sì,Scolastica
+Gennaro,Marino,3,CEIS028003,IIS,O. Conti,Aversa,CE,Campania,25,,Sì,Scolastica
+Daniele,Bebkevych,3,CEIS028003,IIS,O. Conti,Aversa,CE,Campania,20,,Sì,Scolastica
+Antonio,Pezzella,4,CEIS044001,IIS,Federico II,Capua,CE,Campania,38,22,Sì,Scolastica
+Luca Angelo,De Simone,4,CEIS044001,IIS,Federico II,Capua,CE,Campania,34,54,Sì,Scolastica
+Tommaso,Pellegrino,3,CEIS04600L,IIS,Francesco Giordani,Caserta,CE,Campania,43,,Sì,Scolastica
+Giuseppe,Maddaloni,3,CEIS04600L,IIS,Francesco Giordani,Caserta,CE,Campania,38,,Sì,Scolastica
+Loris,Illiano,3,CEIS04600L,IIS,Francesco Giordani,Caserta,CE,Campania,35,,Sì,Scolastica
+Giovanna,Tartaglione,4,CEPS03000C,LS,F. Quercia,Marcianise,CE,Campania,31,,Sì,Scolastica
+Fabio,Capone,3,CEPS03000C,LS,F. Quercia,Marcianise,CE,Campania,28,,Sì,Scolastica
+Jacopo,Betti,3,CEPS040003,LS,Liceo Galileo Galilei,Piedimonte Matese,CE,Campania,20,,Sì,Scolastica
+Gianmarco,Cusano,3,CEPS040003,LS,Liceo Galileo Galilei,Piedimonte Matese,CE,Campania,20,,Sì,Scolastica
+Paola,Landa,3,CEPS07000V,LS,Galilei,Mondragone,CE,Campania,35,,Sì,Scolastica
+Gerardo,Fusco,3,CEPS07000V,LS,Galilei,Mondragone,CE,Campania,35,,Sì,Scolastica
+Antonello,Maiello,3,CETD04000V,ITC,Leonardo Da Vinci S. Maria C.V.,Santa Maria Capua Vetere,CE,Campania,35,,Sì,Scolastica
+Claudio,Leggiero,3,CETD04000V,ITC,Leonardo Da Vinci S. Maria C.V.,Santa Maria Capua Vetere,CE,Campania,25,,Sì,Scolastica
+Vincenzo,Cinalli,2,CHIC818001,IC,"I. Omnicompr. ""Ciampoli-Spaventa""",Atessa,CH,Abruzzo,31,,Sì,Scolastica
+Matteo,Cicchini,2,CHIC818001,IC,"I. Omnicompr. ""Ciampoli-Spaventa""",Atessa,CH,Abruzzo,31,,Sì,Scolastica
+Alessandro,Palmieri,4,CHIS012006,IIS,L. Savoia,Chieti,CH,Abruzzo,41,,Sì,Scolastica
+Matteo,Coletti,4,CHIS012006,IIS,L. Savoia,Chieti,CH,Abruzzo,34,,Sì,Scolastica
+Diego Angelo,Auriti,3,CHIS012006,IIS,L. Savoia,Chieti,CH,Abruzzo,33,,Sì,Scolastica
+Giulia,Menna,3,CHIS013002,IIS,Mattei,Vasto,CH,Abruzzo,43,,Sì,Scolastica
+Hang,Xu,2,CHIS013002,IIS,Mattei,Vasto,CH,Abruzzo,42,,Sì,Scolastica
+Riccardo,Pomponio,4,CHIS013002,IIS,Mattei,Vasto,CH,Abruzzo,41,,Sì,Scolastica
+Christian,Acquarola,2,CHIS013002,IIS,Mattei,Vasto,CH,Abruzzo,31,,Sì,Scolastica
+Alyson,Bennici,3,CLIS002004,IIS,Leonardo Da Vinci,Niscemi,CL,Sicilia,31,,Sì,Scolastica
+Simone,Parisi,3,CLIS002004,IIS,Leonardo Da Vinci,Niscemi,CL,Sicilia,30,,Sì,Scolastica
+Federico,Impoco,1,CLIS002004,IIS,Leonardo Da Vinci,Niscemi,CL,Sicilia,27,,Sì,Scolastica
+Gianluigi,Censabella,1,CLIS002004,IIS,Leonardo Da Vinci,Niscemi,CL,Sicilia,27,,Sì,Scolastica
+Antonio,Spataro,1,CLIS002004,IIS,Leonardo Da Vinci,Niscemi,CL,Sicilia,27,,Sì,Scolastica
+Salvatore,Galesi,1,CLIS002004,IIS,Leonardo Da Vinci,Niscemi,CL,Sicilia,25,,Sì,Scolastica
+Calogero Alessio,Ferrante,4,CLIS01200P,IIS,S. Mottura,Caltanissetta,CL,Sicilia,25,,Sì,Scolastica
+Marco Alexandru,Lacatusu,3,CLIS01200P,IIS,S. Mottura,Caltanissetta,CL,Sicilia,24,,Sì,Scolastica
+Salvatore Rita,La Piana,4,CLTD090005,ITCG,"I.T.E.T. ""Rapisardi- Da Vinci""",Caltanissetta,CL,Sicilia,34,,Sì,Scolastica
+Fabrizio,Faraci,3,CLTD090005,ITCG,"I.T.E.T. ""Rapisardi- Da Vinci""",Caltanissetta,CL,Sicilia,31,,Sì,Scolastica
+Daniele,Kadiasi,4,CNIS014001,IIS,"Saluzzo - ""C. Denina""",Saluzzo,CN,Piemonte,30,,Sì,Scolastica
+Lihua,Chen,4,CNIS014001,IIS,"Saluzzo - ""C. Denina""",Saluzzo,CN,Piemonte,30,,Sì,Scolastica
+Vlada,Croitoru,4,CNIS01700C,IIS,"Fossano - ""G. Vallauri""",Fossano,CN,Piemonte,48,,Sì,Scolastica
+Riccardo,Ferrero,3,CNIS01700C,IIS,"Fossano - ""G. Vallauri""",Fossano,CN,Piemonte,37,,Sì,Scolastica
+Jiayi,Zhan,4,CNIS01700C,IIS,"Fossano - ""G. Vallauri""",Fossano,CN,Piemonte,41,,Sì,nazionalista OII 2023
+Vanessa Azzurra,Boarino,4,CNIS019004,IIS,"Alba - ""L. Einaudi""",Alba,CN,Piemonte,21,25,Sì,Scolastica
+Gabriele,Pietoso,3,CNIS019004,IIS,"Alba - ""L. Einaudi""",Alba,CN,Piemonte,20,,Sì,Scolastica
+Giacomo,Garraffa,3,CNPC030005,LC,"Saluzzo ""G.B. Bodoni""",Saluzzo,CN,Piemonte,25,,Sì,Scolastica
+Giovanni,Garello,4,CNPC030005,LC,"Saluzzo ""G.B. Bodoni""",Saluzzo,CN,Piemonte,25,,Sì,Scolastica
+Pietro,Milano,3,CNPS030008,LS,"Alba - ""Leonardo Cocito""",Alba,CN,Piemonte,51,,Sì,Scolastica
+Cosmin,Bedreag,2,CNPS030008,LS,"Alba - ""Leonardo Cocito""",Alba,CN,Piemonte,34,,Sì,Scolastica
+Gabriele,Maggi,3,CNPS030008,LS,"Alba - ""Leonardo Cocito""",Alba,CN,Piemonte,33,,Sì,Scolastica
+Fabio,Sigliano,2,CNPS030008,LS,"Alba - ""Leonardo Cocito""",Alba,CN,Piemonte,30,,Sì,Scolastica
+Gabriele,Cardamone,2,CNPS030008,LS,"Alba - ""Leonardo Cocito""",Alba,CN,Piemonte,28,,Sì,Scolastica
+Leonardo,Loi,2,CNPS030008,LS,"Alba - ""Leonardo Cocito""",Alba,CN,Piemonte,26,,Sì,Scolastica
+Ginevra,Brino,2,CNPS030008,LS,"Alba - ""Leonardo Cocito""",Alba,CN,Piemonte,26,,Sì,Scolastica
+Davide,Cielo,2,CNPS030008,LS,"Alba - ""Leonardo Cocito""",Alba,CN,Piemonte,26,,Sì,Scolastica
+Riccardo,Angeli,2,CNPS030008,LS,"Alba - ""Leonardo Cocito""",Alba,CN,Piemonte,25,,Sì,Scolastica
+Riccardo,Nizza,2,CNPS030008,LS,"Alba - ""Leonardo Cocito""",Alba,CN,Piemonte,25,,Sì,Scolastica
+Marilena,Piccarreta,4,CNPS05000D,LS,"Bra ""G. Giolitti-G.B. Gandino""",Bra,CN,Piemonte,26,,Sì,Scolastica
+Damiano,Garis,4,CNPS05000D,LS,"Bra ""G. Giolitti-G.B. Gandino""",Bra,CN,Piemonte,24,,Sì,Scolastica
+Tymofii,Humanytskyi,4,CNTF010005,ITI,"Cuneo ""Mario Delpozzo""",Cuneo,CN,Piemonte,35,,Sì,Scolastica
+Federico,Collino,4,CNTF010005,ITI,"Cuneo ""Mario Delpozzo""",Cuneo,CN,Piemonte,33,,Sì,Scolastica
+Andrea,Novati,4,COIS00200B,IIS,Jean Monnet,Mariano Comense,CO,Lombardia,38,71,Sì,Scolastica
+Andrea,Proserpio,4,COIS00200B,IIS,Jean Monnet,Mariano Comense,CO,Lombardia,36,,Sì,Scolastica
+Francesco,Orsino,4,COIS00200B,IIS,Jean Monnet,Mariano Comense,CO,Lombardia,35,,Sì,Scolastica
+Daniele,Porro,4,COIS00200B,IIS,Jean Monnet,Mariano Comense,CO,Lombardia,33,,Sì,Scolastica
+Leonardo,Benzoni,4,COIS00700E,IIS,Paolo Carcano,Como,CO,Lombardia,70,,Sì,Scolastica
+Alice,Gerola,3,COIS00700E,IIS,Paolo Carcano,Como,CO,Lombardia,56,,Sì,Scolastica
+Leonardo,Corrado,4,COIS00700E,IIS,Paolo Carcano,Como,CO,Lombardia,53,,Sì,Scolastica
+Giovanni,Beccalli,4,COIS00700E,IIS,Paolo Carcano,Como,CO,Lombardia,51,,Sì,Scolastica
+Ulisse,Longhi,3,COIS00700E,IIS,Paolo Carcano,Como,CO,Lombardia,45,,Sì,Scolastica
+Martino,Oricchio,3,COIS00700E,IIS,Paolo Carcano,Como,CO,Lombardia,45,,Sì,Scolastica
+Alessandro,Sette,3,COIS00700E,IIS,Paolo Carcano,Como,CO,Lombardia,42,,Sì,Scolastica
+Giulia,Donatelli,3,COIS00700E,IIS,Paolo Carcano,Como,CO,Lombardia,39,,Sì,Scolastica
+Jacopo,D'Ambrosio,4,COIS00700E,IIS,Paolo Carcano,Como,CO,Lombardia,38,,Sì,Scolastica
+Andrea,Varriale,3,COIS00700E,IIS,Paolo Carcano,Como,CO,Lombardia,35,,Sì,Scolastica
+Martina,Terraneo,4,COIS00700E,IIS,Paolo Carcano,Como,CO,Lombardia,34,,Sì,Scolastica
+Lorenzo,Bonometti,4,COIS00700E,IIS,Paolo Carcano,Como,CO,Lombardia,33,,Sì,Scolastica
+Valerio,Pappalardo,4,COPS030001,LS,Paolo Giovio,Como,CO,Lombardia,50,,Sì,Scolastica
+Massimiliano,Malara,4,COPS030001,LS,Paolo Giovio,Como,CO,Lombardia,42,,Sì,Scolastica
+Daniele,Tiburzi,4,COPS030001,LS,Paolo Giovio,Como,CO,Lombardia,40,,Sì,Scolastica
+Riccardo,Betta,4,COPS030001,LS,Paolo Giovio,Como,CO,Lombardia,39,,Sì,Scolastica
+Francesco,Calandra,3,COPS030001,LS,Paolo Giovio,Como,CO,Lombardia,36,,Sì,Scolastica
+Matteo,Anzani,4,COTF01000T,ITI,Magistri Cumacini,Como,CO,Lombardia,38,106,Sì,Scolastica
+Sean,O'Connor,4,COTF01000T,ITI,Magistri Cumacini,Como,CO,Lombardia,31,,Sì,Scolastica
+Lorenzo,Rocca,2,COTF01000T,ITI,Magistri Cumacini,Como,CO,Lombardia,26,,Sì,Scolastica
+Ruslan,Artemciuc,4,CRIS00100P,IIS,G. Romani,Casalmaggiore,CR,Lombardia,38,,Sì,Scolastica
+Sahil,Kumar,4,CRIS00100P,IIS,G. Romani,Casalmaggiore,CR,Lombardia,27,,Sì,Scolastica
+Daniele Matteo,Sahebi,4,CRIS004006,IIS,J. Torriani,Cremona,CR,Lombardia,45,200,Sì,Scolastica
+Andrea,Forgetta,3,CRIS004006,IIS,J. Torriani,Cremona,CR,Lombardia,34,,Sì,Scolastica
+Matteo,Dragoni,2,CRIS004006,IIS,J. Torriani,Cremona,CR,Lombardia,30,,Sì,Scolastica
+Mirko,Zhu,3,CRIS009009,IIS,G. Galilei,Crema,CR,Lombardia,51,,Sì,Scolastica
+Martina,Braguti,4,CRIS009009,IIS,G. Galilei,Crema,CR,Lombardia,38,,Sì,Scolastica
+Andrea Giuseppe,Francesconi,4,CRIS009009,IIS,G. Galilei,Crema,CR,Lombardia,36,,Sì,Scolastica
+Luca,Silva,4,CRIS009009,IIS,G. Galilei,Crema,CR,Lombardia,35,,Sì,Scolastica
+Andrea,Parolari,3,CRIS009009,IIS,G. Galilei,Crema,CR,Lombardia,33,,Sì,Scolastica
+Alessandro,Daccò,3,CRIS009009,IIS,G. Galilei,Crema,CR,Lombardia,33,,Sì,Scolastica
+Jacopo,Basso Ricci,4,CRIS009009,IIS,G. Galilei,Crema,CR,Lombardia,30,200,Sì,preterritoriale
+Filippo,Trabattoni,3,CRIS009009,IIS,G. Galilei,Crema,CR,Lombardia,,133,Sì,preterritoriale
+Luca,Zatta,3,CRPS01000V,LS,G. Aselli,Cremona,CR,Lombardia,58,,Sì,Scolastica
+Massimo,Mariaschi,4,CRPS01000V,LS,G. Aselli,Cremona,CR,Lombardia,52,188,Sì,Scolastica
+Nicolò,Colombani,4,CRPS01000V,LS,G. Aselli,Cremona,CR,Lombardia,51,,Sì,Scolastica
+Nicolas,Galli,4,CRPS01000V,LS,G. Aselli,Cremona,CR,Lombardia,38,,Sì,Scolastica
+Amritpal,Singh,4,CRPS01000V,LS,G. Aselli,Cremona,CR,Lombardia,35,,Sì,Scolastica
+Roberto,Pilotto,2,CRPS01000V,LS,G. Aselli,Cremona,CR,Lombardia,25,,Sì,Scolastica
+Davide,Somenzi,4,CRPS02500L,Scuola non statale,"Liceo Scientifico ""Dante Alighieri""",Crema,CR,Lombardia,26,,Sì,Scolastica
+Giovanni Pietropaolo,Riccardi,4,CRPS02500L,Scuola non statale,"Liceo Scientifico ""Dante Alighieri""",Crema,CR,Lombardia,23,,Sì,Scolastica
+Danilo,Montebello,4,CSIS028006,IIS,Cetraro Lc-Isa-Ita-Itt-Ls-Ipsia,Cetraro,CS,Calabria,40,,Sì,Scolastica
+Marialuigia,Chianello,1,CSIS028006,IIS,Cetraro Lc-Isa-Ita-Itt-Ls-Ipsia,Cetraro,CS,Calabria,20,,Sì,Scolastica
+Martina,Petrungaro,4,CSIS049007,IIS,"Castrolibero ""Ls-Itcg""",Castrolibero,CS,Calabria,27,,Sì,Scolastica
+Michele,Pisculli,4,CSIS049007,IIS,"Castrolibero ""Ls-Itcg""",Castrolibero,CS,Calabria,25,,Sì,Scolastica
+Pierpaolo,Abbruzzese,4,CSIS049007,IIS,"Castrolibero ""Ls-Itcg""",Castrolibero,CS,Calabria,53,,Sì,nazionalista OII 2023
+Onofrio,Murrone,3,CSIS064009,IIS,"Rossano ""Iti-Ipa-Ita""",Corigliano-Rossano,CS,Calabria,34,,Sì,Scolastica
+Giuseppe,Franco,3,CSIS064009,IIS,"Rossano ""Iti-Ipa-Ita""",Corigliano-Rossano,CS,Calabria,20,,Sì,Scolastica
+Simone,Spataro,3,CSIS066001,IIS,I.T.I. -I.T.G. Green - Falcone Borsellino,Corigliano-Rossano,CS,Calabria,25,,Sì,Scolastica
+Antonio,Tieri,3,CSIS066001,IIS,I.T.I. -I.T.G. Green - Falcone Borsellino,Corigliano-Rossano,CS,Calabria,21,,Sì,Scolastica
+Antonio,Fontana,3,CSIS06800L,IIS,"Cariati ""Ls-Ipsc - Ipsia - Iti""",Cariati,CS,Calabria,40,,Sì,Scolastica
+Saverio,De Simone,3,CSIS06800L,IIS,"Cariati ""Ls-Ipsc - Ipsia - Iti""",Cariati,CS,Calabria,40,,Sì,Scolastica
+Silviu Andrei,Obreja,3,CSIS06800L,IIS,"Cariati ""Ls-Ipsc - Ipsia - Iti""",Cariati,CS,Calabria,40,,Sì,Scolastica
+Domenico Antonio,Morelli,4,CSIS06800L,IIS,"Cariati ""Ls-Ipsc - Ipsia - Iti""",Cariati,CS,Calabria,35,,Sì,Scolastica
+Matteo,Iaquinta,4,CSIS078007,IIS,G. Fiore - (L.S. - Isa - Ipsia),San Giovanni in Fiore,CS,Calabria,27,,Sì,Scolastica
+Giovanni,Pulice,3,CSIS078007,IIS,G. Fiore - (L.S. - Isa - Ipsia),San Giovanni in Fiore,CS,Calabria,25,,Sì,Scolastica
+Giuseppe,Surace,3,CSPM070003,IM,"""T. Campanella"" Belvedere M.",Belvedere Marittimo,CS,Calabria,27,,Sì,Scolastica
+Elisabetta,Maltese,2,CSPM070003,IM,"""T. Campanella"" Belvedere M.",Belvedere Marittimo,CS,Calabria,23,,Sì,Scolastica
+Vincenzo,Rende,4,CSPS03000G,LS,Scorza,Cosenza,CS,Calabria,45,,Sì,Scolastica
+Domenico,Spadafora,4,CSPS03000G,LS,Scorza,Cosenza,CS,Calabria,45,150,Sì,Scolastica
+Francesco,Ominelli,4,CSPS03000G,LS,Scorza,Cosenza,CS,Calabria,35,100,Sì,Scolastica
+Luigi,Guerrise,3,CSPS20000D,LS,Scalea,Scalea,CS,Calabria,30,,Sì,Scolastica
+Andrea,Ritondale,3,CSPS20000D,LS,Scalea,Scalea,CS,Calabria,29,,Sì,Scolastica
+Vittorio,Vaccaro,4,CSPS210004,LS,Galileo Galilei,Paola,CS,Calabria,21,,Sì,Scolastica
+Daniil,Shvalev,3,CSPS310001,LS,Trebisacce + Sez. Cl. Ann.,Trebisacce,CS,Calabria,27,,Sì,Scolastica
+Anna Lou,Croce,3,CSPS310001,LS,Trebisacce + Sez. Cl. Ann.,Trebisacce,CS,Calabria,21,,Sì,Scolastica
+Priscilla,Cavaliere,3,CSTD05000L,ITCG,"I.T.S. ""G. Filangieri""",Trebisacce,CS,Calabria,16,,Sì,Scolastica
+Pierdomenico,Cilio,4,CSTF01000C,ITI,Monaco,Cosenza,CS,Calabria,61,100,Sì,Scolastica
+Gianmarco,Cilio,4,CSTF01000C,ITI,Monaco,Cosenza,CS,Calabria,52,126,Sì,Scolastica
+Andrea,Rametta,4,CSTF01000C,ITI,Monaco,Cosenza,CS,Calabria,47,100,Sì,Scolastica
+Marcello,Del Fiore,4,CSTF01000C,ITI,Monaco,Cosenza,CS,Calabria,36,145,Sì,Scolastica
+Giuseppe Andrea,Magliarello,4,CSTF020003,ITI,Fermi,Castrovillari,CS,Calabria,26,,Sì,Scolastica
+Ilian,Trainito,3,CTIS00400R,IIS,Cucuzza - Euclide,Caltagirone,CT,Sicilia,30,,Sì,Scolastica
+Salvatore,Sinnato,4,CTIS00400R,IIS,Cucuzza - Euclide,Caltagirone,CT,Sicilia,28,,Sì,Scolastica
+Alessandro,Russo,4,CTIS01100X,IIS,Benedetto Radice,Bronte,CT,Sicilia,35,,Sì,Scolastica
+Giuseppe,Di Maggio,3,CTIS01700V,IIS,G. B. Vaccarini,Catania,CT,Sicilia,26,,Sì,Scolastica
+Daniele,La Marca,4,CTIS01700V,IIS,G. B. Vaccarini,Catania,CT,Sicilia,26,,Sì,Scolastica
+Gianluca,Pulvirenti,3,CTIS023006,IIS,Carlo Gemmellaro,Catania,CT,Sicilia,30,,Sì,Scolastica
+Antonino,Duello,3,CTIS023006,IIS,Carlo Gemmellaro,Catania,CT,Sicilia,30,,Sì,Scolastica
+Andrea,Sciacca,4,CTIS03300R,IIS,G. Ferraris,Acireale,CT,Sicilia,36,,Sì,Scolastica
+Riccardo Lucio,Costa,1,CTIS03300R,IIS,G. Ferraris,Acireale,CT,Sicilia,35,,Sì,Scolastica
+Sebastiano,Lanza,1,CTIS03300R,IIS,G. Ferraris,Acireale,CT,Sicilia,30,,Sì,Scolastica
+Gabriele,Vento,4,CTIS03900Q,IIS,E. Fermi - Guttuso,Giarre,CT,Sicilia,36,,Sì,Scolastica
+Cristian Francesco,Pennino,3,CTIS03900Q,IIS,E. Fermi - Guttuso,Giarre,CT,Sicilia,31,84,Sì,Scolastica
+Francesco,Grasso,3,CTIS03900Q,IIS,E. Fermi - Guttuso,Giarre,CT,Sicilia,13,151,Sì,preterritoriale
+Giuseppe,Pappalardo,4,CTIS03900Q,IIS,E. Fermi - Guttuso,Giarre,CT,Sicilia,,,Sì,nazionalista OII 2023
+Gaetano,Di Corrado,4,CTIS04200G,IIS,Ramacca - Palagonia,Ramacca,CT,Sicilia,25,,Sì,Scolastica
+Giuseppe,Cristofaro,4,CTIS04200G,IIS,Ramacca - Palagonia,Ramacca,CT,Sicilia,25,,Sì,Scolastica
+Dario,Rasà,4,CTIS04900A,IIS,Majorana-Arcoleo,Caltagirone,CT,Sicilia,50,,Sì,Scolastica
+Andreas,Roccuzzo,4,CTIS04900A,IIS,Majorana-Arcoleo,Caltagirone,CT,Sicilia,50,,Sì,Scolastica
+Gabriel,Grasso,4,CTIS04900A,IIS,Majorana-Arcoleo,Caltagirone,CT,Sicilia,45,,Sì,Scolastica
+Leonardo,Ragusa,4,CTIS04900A,IIS,Majorana-Arcoleo,Caltagirone,CT,Sicilia,40,,Sì,Scolastica
+Alessandro,Ardilio,4,CTIS04900A,IIS,Majorana-Arcoleo,Caltagirone,CT,Sicilia,35,,Sì,Scolastica
+Simone,Scollo,4,CTIS04900A,IIS,Majorana-Arcoleo,Caltagirone,CT,Sicilia,35,,Sì,Scolastica
+Lorenzo,Di Stefano,4,CTIS04900A,IIS,Majorana-Arcoleo,Caltagirone,CT,Sicilia,35,,Sì,Scolastica
+Francesco,Amato,2,CTIS04900A,IIS,Majorana-Arcoleo,Caltagirone,CT,Sicilia,30,,Sì,Scolastica
+Giulio Bartolomeo,De Zisa,2,CTIS04900A,IIS,Majorana-Arcoleo,Caltagirone,CT,Sicilia,30,,Sì,Scolastica
+Chiara,Bartolotta,2,CTIS04900A,IIS,Majorana-Arcoleo,Caltagirone,CT,Sicilia,25,,Sì,Scolastica
+Francesco,Calabrò,2,CTIS04900A,IIS,Majorana-Arcoleo,Caltagirone,CT,Sicilia,25,,Sì,Scolastica
+Giuseppe,Di Rosa,2,CTIS04900A,IIS,Majorana-Arcoleo,Caltagirone,CT,Sicilia,25,,Sì,Scolastica
+Luca,Oddo,3,CTPS020004,LS,E. Boggio Lera,Catania,CT,Sicilia,40,,Sì,Scolastica
+Diego Giovanni,Pappalardo,4,CTPS020004,LS,E. Boggio Lera,Catania,CT,Sicilia,40,,Sì,Scolastica
+Gianluca Francesco,Lena,4,CTPS020004,LS,E. Boggio Lera,Catania,CT,Sicilia,36,,Sì,Scolastica
+Simone,Farina,4,CTPS03000P,LS,Fermi,Paternò,CT,Sicilia,45,,Sì,Scolastica
+Matteo,Borzì,2,CTPS03000P,LS,Fermi,Paternò,CT,Sicilia,32,,Sì,Scolastica
+Simone,Borzì,1,CTPS03000P,LS,Fermi,Paternò,CT,Sicilia,30,,Sì,Scolastica
+Federica,Distefano,2,CTPS03000P,LS,Fermi,Paternò,CT,Sicilia,30,,Sì,Scolastica
+Danilo,Borzì,2,CTPS03000P,LS,Fermi,Paternò,CT,Sicilia,25,,Sì,Scolastica
+Biagio,Motta,4,CTPS03000P,LS,Fermi,Paternò,CT,Sicilia,23,115,Sì,finalista OIS
+Simone,Brunetti,2,CTPS040009,LS,Galileo Galilei,Catania,CT,Sicilia,45,,Sì,Scolastica
+Gabriele,Rapisarda,2,CTPS040009,LS,Galileo Galilei,Catania,CT,Sicilia,22,,Sì,Scolastica
+Fabrizio,Gentile,3,CTTF01000G,ITI,Archimede,Catania,CT,Sicilia,32,,Sì,Scolastica
+Mattia Filippo,Gimmillaro,2,CTTF01000G,ITI,Archimede,Catania,CT,Sicilia,30,,Sì,Scolastica
+Damiano,Tizzoni,2,CTTF01000G,ITI,Archimede,Catania,CT,Sicilia,25,,Sì,Scolastica
+Donato,Romeo,3,CTTF140008,ITI,"S. ""G. Ferraris""",San Giovanni la Punta,CT,Sicilia,31,,Sì,Scolastica
+Giuseppe,Caruso,2,CTTF140008,ITI,"S. ""G. Ferraris""",San Giovanni la Punta,CT,Sicilia,22,,Sì,Scolastica
+Alessio,Iezzi,4,CZIS001002,IIS,Fermi,Catanzaro,CZ,Calabria,43,,Sì,Scolastica
+Antonio,Amelio,4,CZIS001002,IIS,Fermi,Catanzaro,CZ,Calabria,24,,Sì,Scolastica
+Gennaro,Scalese,4,CZIS019007,IIS,Polo Tecnologico Ind. Ed Artig. Avanz.,Lamezia Terme,CZ,Calabria,36,,Sì,Scolastica
+Andrea,Palmieri,3,CZIS019007,IIS,Polo Tecnologico Ind. Ed Artig. Avanz.,Lamezia Terme,CZ,Calabria,35,,Sì,Scolastica
+Daniel,Molinaro,4,CZIS019007,IIS,Polo Tecnologico Ind. Ed Artig. Avanz.,Lamezia Terme,CZ,Calabria,33,,Sì,Scolastica
+Lorenzo,Scalzo,3,CZIS019007,IIS,Polo Tecnologico Ind. Ed Artig. Avanz.,Lamezia Terme,CZ,Calabria,20,134,Sì,preterritoriale
+Andrea,Farrelli,4,CZTF010008,ITI,"St. ""E Scalfaro""",Catanzaro,CZ,Calabria,45,,Sì,Scolastica
+Giovanni,Staglianò,3,CZTF010008,ITI,"St. ""E Scalfaro""",Catanzaro,CZ,Calabria,40,,Sì,Scolastica
+Mattia,Carbone,4,CZTF010008,ITI,"St. ""E Scalfaro""",Catanzaro,CZ,Calabria,39,,Sì,Scolastica
+Nicolò,Fabiano,4,CZTF010008,ITI,"St. ""E Scalfaro""",Catanzaro,CZ,Calabria,39,,Sì,Scolastica
+Matteo,Grande,4,CZTL06000D,ITG,Malafarina,Soverato,CZ,Calabria,37,,Sì,Scolastica
+Simone,Rauti,4,CZTL06000D,ITG,Malafarina,Soverato,CZ,Calabria,35,,Sì,Scolastica
+Simone,La Pusata,4,ENIS02100T,IIS,Abramo Lincoln,Enna,EN,Sicilia,30,50,Sì,Scolastica
+Alessio,Alleri,4,ENIS02100T,IIS,Abramo Lincoln,Enna,EN,Sicilia,27,,Sì,Scolastica
+Adam,Darouache,2,FEIS00100D,IIS,'Rita Levi Montalcini',Argenta,FE,Emilia-Romagna,35,,Sì,Scolastica
+Mattia,Faggioli,2,FEIS00100D,IIS,'Rita Levi Montalcini',Argenta,FE,Emilia-Romagna,25,,Sì,Scolastica
+Marin,Veverita,4,FEIS004001,IIS,I.T.C.G. G. Monaco Di Pomposa,Codigoro,FE,Emilia-Romagna,38,,Sì,Scolastica
+Federico,Trasforini,4,FEIS004001,IIS,I.T.C.G. G. Monaco Di Pomposa,Codigoro,FE,Emilia-Romagna,30,,Sì,Scolastica
+Jacopo,Bozzolani,2,FEIS00700C,IIS,G. Carducci,Ferrara,FE,Emilia-Romagna,30,,Sì,Scolastica
+Martina,Bosi,2,FEIS00700C,IIS,G. Carducci,Ferrara,FE,Emilia-Romagna,20,,Sì,Scolastica
+Francesco,Strozzi,2,FEIS01200X,IIS,N. Copernico-A. Carpeggiani,Ferrara,FE,Emilia-Romagna,35,,Sì,Scolastica
+Andreas,Fabbri,3,FEIS01200X,IIS,N. Copernico-A. Carpeggiani,Ferrara,FE,Emilia-Romagna,32,,Sì,Scolastica
+Francesco,Canella,2,FEIS01200X,IIS,N. Copernico-A. Carpeggiani,Ferrara,FE,Emilia-Romagna,25,,Sì,Scolastica
+Omar,Addala,2,FEIS01200X,IIS,N. Copernico-A. Carpeggiani,Ferrara,FE,Emilia-Romagna,25,,Sì,Scolastica
+Filippo,Lugli,3,FEPS01000N,LS,A. Roiti,Ferrara,FE,Emilia-Romagna,51,,Sì,Scolastica
+Francesco,Berra,3,FEPS01000N,LS,A. Roiti,Ferrara,FE,Emilia-Romagna,25,,Sì,nazionalista OII 2023
+Giuseppe,Quitadamo,1,FGIS001004,IIS,Gian Tommaso Giordani,Monte Sant'Angelo,FG,Puglia,28,,Sì,Scolastica
+Samuele,Palumbo,1,FGIS001004,IIS,Gian Tommaso Giordani,Monte Sant'Angelo,FG,Puglia,24,,Sì,Scolastica
+Francesco,Palmiero,4,FGIS03700V,IIS,Di Sangro-Minuziano-Alberti,San Severo,FG,Puglia,20,,Sì,Scolastica
+Leonardo,Tantulli,4,FGIS048009,IIS,Augusto Righi,Cerignola,FG,Puglia,29,,Sì,Scolastica
+Vito,Cinquepalmi,4,FGIS048009,IIS,Augusto Righi,Cerignola,FG,Puglia,24,,Sì,Scolastica
+Francesco,Margini,3,FGIS057004,IIS,"I. Oc. ""Padre Giulio Castelli""",Carpino,FG,Puglia,20,,Sì,Scolastica
+Gabriele,Spagnuolo,4,FGIS06100Q,IIS,G. Toniolo,Manfredonia,FG,Puglia,47,,Sì,Scolastica
+Francesco,Di Leo,4,FGIS06100Q,IIS,G. Toniolo,Manfredonia,FG,Puglia,47,,Sì,Scolastica
+Franco,Chierici,4,FGIS06100Q,IIS,G. Toniolo,Manfredonia,FG,Puglia,37,,Sì,Scolastica
+Nicola,Sarcina,4,FGIS06100Q,IIS,G. Toniolo,Manfredonia,FG,Puglia,37,,Sì,Scolastica
+Antonio,Trotta,4,FGIS06100Q,IIS,G. Toniolo,Manfredonia,FG,Puglia,37,,Sì,Scolastica
+Tommaso,Gentile,2,FGIS06100Q,IIS,G. Toniolo,Manfredonia,FG,Puglia,35,,Sì,Scolastica
+Francesco,Scirpoli,2,FGIS06100Q,IIS,G. Toniolo,Manfredonia,FG,Puglia,35,,Sì,Scolastica
+Giovanni Paolo,Taronna,4,FGIS06100Q,IIS,G. Toniolo,Manfredonia,FG,Puglia,35,,Sì,Scolastica
+Matteo,De Vita,4,FGIS06100Q,IIS,G. Toniolo,Manfredonia,FG,Puglia,34,,Sì,Scolastica
+Lorenzo,Bottalico,4,FGIS06100Q,IIS,G. Toniolo,Manfredonia,FG,Puglia,34,,Sì,Scolastica
+Lorenzo,Olivieri,2,FGIS06100Q,IIS,G. Toniolo,Manfredonia,FG,Puglia,31,,Sì,Scolastica
+Michele,Guidacci,4,FGPS010008,LS,A. Volta,Foggia,FG,Puglia,51,,Sì,Scolastica
+Gisella,Di Leo,4,FGPS010008,LS,A. Volta,Foggia,FG,Puglia,38,,Sì,Scolastica
+Alessio Pio,Cassanelli,2,FGPS040004,LS,G. Marconi,Foggia,FG,Puglia,30,,Sì,Scolastica
+Gabriele,Pantano,4,FGPS040004,LS,G. Marconi,Foggia,FG,Puglia,24,,Sì,Scolastica
+Simone,Ciullo,4,FGPS20000B,LS,Galilei-Moro,Manfredonia,FG,Puglia,38,73,Sì,Scolastica
+Alessandro,D'Apolito,4,FGPS20000B,LS,Galilei-Moro,Manfredonia,FG,Puglia,34,56,Sì,Scolastica
+Gerardo,Totaro,3,FGPS20000B,LS,Galilei-Moro,Manfredonia,FG,Puglia,33,60,Sì,Scolastica
+Ciro,Vigone,4,FGPS20000B,LS,Galilei-Moro,Manfredonia,FG,Puglia,33,75,Sì,Scolastica
+Raffaele,Esposto,3,FGPS20000B,LS,Galilei-Moro,Manfredonia,FG,Puglia,26,134,Sì,preterritoriale
+Matteo,Berardinetti,3,FGTD08000A,ITC,"I.T.E.T. ""Blaise Pascal""",Foggia,FG,Puglia,42,200,Sì,Scolastica
+Lorys,Marasco,4,FGTD08000A,ITC,"I.T.E.T. ""Blaise Pascal""",Foggia,FG,Puglia,32,50,Sì,Scolastica
+Mirco Pio,Di Corcia,4,FGTD08000A,ITC,"I.T.E.T. ""Blaise Pascal""",Foggia,FG,Puglia,28,134,Sì,preterritoriale
+Marvyn,Stella,2,FGTD08000A,ITC,"I.T.E.T. ""Blaise Pascal""",Foggia,FG,Puglia,27,25,Sì,Scolastica
+Andrea,Battiante,4,FGTF13000C,ITI,Altamura-Da Vinci,Foggia,FG,Puglia,30,,Sì,Scolastica
+Davide,Losito,4,FGTF13000C,ITI,Altamura-Da Vinci,Foggia,FG,Puglia,27,,Sì,Scolastica
+Andrea,Piantini,3,FIIS00900B,IIS,Bertrand Russell-Isaac Newton,Scandicci,FI,Toscana,31,,Sì,Scolastica
+Giacomo,Martini,4,FIIS00900B,IIS,Bertrand Russell-Isaac Newton,Scandicci,FI,Toscana,29,,Sì,Scolastica
+Lorenzo,Pecorari,4,FIIS012007,IIS,G. Ferraris - F. Brunelleschi,Empoli,FI,Toscana,45,,Sì,Scolastica
+Giulio,Menichetti,4,FIIS012007,IIS,G. Ferraris - F. Brunelleschi,Empoli,FI,Toscana,32,,Sì,Scolastica
+Francesco,Colzi,3,FIIS01700A,IIS,Leonardo Da Vinci,Firenze,FI,Toscana,38,,Sì,Scolastica
+Tommaso,Basagni,4,FIIS01700A,IIS,Leonardo Da Vinci,Firenze,FI,Toscana,36,,Sì,Scolastica
+Tiziano,Caponio,4,FIIS01700A,IIS,Leonardo Da Vinci,Firenze,FI,Toscana,33,,Sì,Scolastica
+Alessio,Federighi,2,FIIS018006,IIS,A. M. Enriques Agnoletti,Sesto Fiorentino,FI,Toscana,29,,Sì,Scolastica
+Tommaso,Beni,4,FIIS018006,IIS,A. M. Enriques Agnoletti,Sesto Fiorentino,FI,Toscana,29,,Sì,Scolastica
+Matteo,Malesci,4,FIIS026005,IIS,Giotto Ulivi,Borgo San Lorenzo,FI,Toscana,55,,Sì,Scolastica
+Dario,Cantini,4,FIIS026005,IIS,Giotto Ulivi,Borgo San Lorenzo,FI,Toscana,45,,Sì,Scolastica
+Bernardo,Parri,3,FIIS026005,IIS,Giotto Ulivi,Borgo San Lorenzo,FI,Toscana,42,,Sì,Scolastica
+Alessandro,Felloni,3,FIIS026005,IIS,Giotto Ulivi,Borgo San Lorenzo,FI,Toscana,34,,Sì,Scolastica
+Matilde,Capecchi,1,FIIS026005,IIS,Giotto Ulivi,Borgo San Lorenzo,FI,Toscana,25,,Sì,Scolastica
+Rei,Consigli,2,FIIS026005,IIS,Giotto Ulivi,Borgo San Lorenzo,FI,Toscana,25,,Sì,Scolastica
+Lapo,Pratesi,2,FIIS026005,IIS,Giotto Ulivi,Borgo San Lorenzo,FI,Toscana,25,,Sì,Scolastica
+Alessio Zi Jian,Zhan,4,FIPS030006,LS,Leonardo Da Vinci,Firenze,FI,Toscana,20,,Sì,Scolastica
+Pietro,Gasperoni,3,FIPS04000R,LS,Castelnuovo,Firenze,FI,Toscana,70,,Sì,Scolastica
+Claudio,Leggiero,3,FIPS04000R,LS,Castelnuovo,Firenze,FI,Toscana,35,,Sì,Scolastica
+Samuele,Benassai,3,FITF010003,ITI,Antonio Meucci,Firenze,FI,Toscana,55,,Sì,Scolastica
+Andrea,Budruni,3,FITF010003,ITI,Antonio Meucci,Firenze,FI,Toscana,40,,Sì,Scolastica
+Niccolò,Mancini,4,FITF010003,ITI,Antonio Meucci,Firenze,FI,Toscana,38,,Sì,Scolastica
+Tommaso,Parigi,4,FITF010003,ITI,Antonio Meucci,Firenze,FI,Toscana,38,,Sì,Scolastica
+Tommaso,Fortuna,3,FITF010003,ITI,Antonio Meucci,Firenze,FI,Toscana,37,,Sì,Scolastica
+Dario,Cannavacciuolo,4,FITF010003,ITI,Antonio Meucci,Firenze,FI,Toscana,35,,Sì,Scolastica
+Giacomo,Manuzzi,4,FOIS00400D,IIS,Leonardo Da Vinci,Cesenatico,FC,Emilia-Romagna,39,,Sì,Scolastica
+Anna,Brandi,4,FOIS00400D,IIS,Leonardo Da Vinci,Cesenatico,FC,Emilia-Romagna,38,,Sì,Scolastica
+Alberto,Foschi,4,FOIS00400D,IIS,Leonardo Da Vinci,Cesenatico,FC,Emilia-Romagna,36,,Sì,Scolastica
+Nicolò,Casavecchia,3,FOIS01100L,IIS,Pascal-Comandini,Cesena,FC,Emilia-Romagna,75,163,Sì,Scolastica
+Davide,Leonelli,4,FOIS01100L,IIS,Pascal-Comandini,Cesena,FC,Emilia-Romagna,56,,Sì,Scolastica
+Daniele,Pieri,4,FOIS01100L,IIS,Pascal-Comandini,Cesena,FC,Emilia-Romagna,52,,Sì,Scolastica
+Alan,Agostini,3,FOIS01100L,IIS,Pascal-Comandini,Cesena,FC,Emilia-Romagna,51,,Sì,Scolastica
+Fabio,Fantini,3,FOIS01100L,IIS,Pascal-Comandini,Cesena,FC,Emilia-Romagna,48,126,Sì,Scolastica
+Mattia,Terzi,1,FOIS01100L,IIS,Pascal-Comandini,Cesena,FC,Emilia-Romagna,47,,Sì,Scolastica
+Tommaso,Ensini,4,FOIS01100L,IIS,Pascal-Comandini,Cesena,FC,Emilia-Romagna,40,,Sì,Scolastica
+Mattia,Molinari,3,FOIS01100L,IIS,Pascal-Comandini,Cesena,FC,Emilia-Romagna,35,,Sì,Scolastica
+Lorenzo,Shani,3,FOIS01100L,IIS,Pascal-Comandini,Cesena,FC,Emilia-Romagna,35,,Sì,Scolastica
+Simone,Nicosanti,2,FOIS01100L,IIS,Pascal-Comandini,Cesena,FC,Emilia-Romagna,32,,Sì,Scolastica
+Marco,Caprili,1,FOIS01100L,IIS,Pascal-Comandini,Cesena,FC,Emilia-Romagna,29,,Sì,Scolastica
+Alessandro,Bianchini,2,FOIS01100L,IIS,Pascal-Comandini,Cesena,FC,Emilia-Romagna,28,,Sì,Scolastica
+Michele,De Paola,2,FOIS01100L,IIS,Pascal-Comandini,Cesena,FC,Emilia-Romagna,27,,Sì,Scolastica
+Noà,Gazzoni,2,FOIS01100L,IIS,Pascal-Comandini,Cesena,FC,Emilia-Romagna,26,,Sì,Scolastica
+Daniele,Broccoli,3,FOIS01100L,IIS,Pascal-Comandini,Cesena,FC,Emilia-Romagna,21,142,Sì,preterritoriale
+Alan Davide,Bovo,3,FOIS01100L,IIS,Pascal-Comandini,Cesena,FC,Emilia-Romagna,38,,Sì,nazionalista OII 2023
+Federico,Palmiotto,3,FOIS01100L,IIS,Pascal-Comandini,Cesena,FC,Emilia-Romagna,37,,Sì,nazionalista OII 2023
+Lorenzo,Morini,3,FOIS01100L,IIS,Pascal-Comandini,Cesena,FC,Emilia-Romagna,35,180,Sì,nazionalista OII 2023
+Aldo,Mariani,3,FOPS010006,LS,Righi,Cesena,FC,Emilia-Romagna,56,,Sì,Scolastica
+Michele,Buttaro,3,FOPS010006,LS,Righi,Cesena,FC,Emilia-Romagna,52,,Sì,Scolastica
+Niccolò,Salvatore,3,FOPS010006,LS,Righi,Cesena,FC,Emilia-Romagna,47,,Sì,Scolastica
+Emanuele,Collini,4,FOPS010006,LS,Righi,Cesena,FC,Emilia-Romagna,46,,Sì,Scolastica
+Pietro,Ravaioli,4,FOPS010006,LS,Righi,Cesena,FC,Emilia-Romagna,45,,Sì,Scolastica
+Elisabetta,Pompili,4,FOPS010006,LS,Righi,Cesena,FC,Emilia-Romagna,43,,Sì,Scolastica
+Alen,Pasini,4,FOPS010006,LS,Righi,Cesena,FC,Emilia-Romagna,40,,Sì,Scolastica
+Damiano,Gabrielli,4,FOPS010006,LS,Righi,Cesena,FC,Emilia-Romagna,38,,Sì,Scolastica
+Matteo,Fantini,3,FOPS010006,LS,Righi,Cesena,FC,Emilia-Romagna,36,,Sì,Scolastica
+Gloria,Pistoia,4,FOPS010006,LS,Righi,Cesena,FC,Emilia-Romagna,35,,Sì,Scolastica
+Ivan,Pezzi,3,FOPS010006,LS,Righi,Cesena,FC,Emilia-Romagna,33,,Sì,Scolastica
+Vlad,Corolea,3,FOPS010006,LS,Righi,Cesena,FC,Emilia-Romagna,33,,Sì,Scolastica
+Andrea,Malmesi,3,FOPS040002,LS,Fulcieri,Forlì,FC,Emilia-Romagna,72,,Sì,Scolastica
+Lorenzo,Rivola,4,FOPS040002,LS,Fulcieri,Forlì,FC,Emilia-Romagna,61,,Sì,Scolastica
+Matteo,Camprini,3,FOPS040002,LS,Fulcieri,Forlì,FC,Emilia-Romagna,45,,Sì,Scolastica
+Riccardo,Rondoni,3,FOPS040002,LS,Fulcieri,Forlì,FC,Emilia-Romagna,39,,Sì,Scolastica
+Roberto,Nanni,4,FOPS040002,LS,Fulcieri,Forlì,FC,Emilia-Romagna,35,,Sì,Scolastica
+Cesare,Ragazzini,2,FOPS040002,LS,Fulcieri,Forlì,FC,Emilia-Romagna,32,,Sì,Scolastica
+Tommaso,Bizzo,4,FOPS040002,LS,Fulcieri,Forlì,FC,Emilia-Romagna,,,Sì,nazionalista OII 2023
+Joseph,Santucci,3,FRIS00300R,IIS,S. Pertini,Alatri,FR,Lazio,32,,Sì,Scolastica
+Lorenzo,Pupparo,3,FRIS00300R,IIS,S. Pertini,Alatri,FR,Lazio,25,,Sì,Scolastica
+Pierfrancesco,De Gasperis,3,FRIS029001,IIS,G. Sulpicio,Veroli,FR,Lazio,31,,Sì,Scolastica
+Giorgia,Piacentini,1,FRIS029001,IIS,G. Sulpicio,Veroli,FR,Lazio,20,,Sì,Scolastica
+Mauro,Mazzocchi,3,FRPS010009,LS,Severi,Frosinone,FR,Lazio,38,,Sì,Scolastica
+Marco,Bardeggia,4,FRPS010009,LS,Severi,Frosinone,FR,Lazio,31,,Sì,Scolastica
+Simone,Tersigni,2,FRPS010009,LS,Severi,Frosinone,FR,Lazio,29,,Sì,Scolastica
+Francesco,Neglia,1,FRPS010009,LS,Severi,Frosinone,FR,Lazio,25,,Sì,Scolastica
+Francesco,Famosi,4,FRPS040005,LS,Leonardo Da Vinci,Sora,FR,Lazio,41,,Sì,Scolastica
+Lorenzo,Rossi,1,FRPS040005,LS,Leonardo Da Vinci,Sora,FR,Lazio,30,,Sì,Scolastica
+Enrico,Mazzone,2,FRPS040005,LS,Leonardo Da Vinci,Sora,FR,Lazio,28,,Sì,Scolastica
+Antonio,Farina,4,FRTF020002,ITI,"S. ""Ettore Majorana""",Cassino,FR,Lazio,38,,Sì,Scolastica
+Gabriele,Renzi,4,FRTF020002,ITI,"S. ""Ettore Majorana""",Cassino,FR,Lazio,35,,Sì,Scolastica
+Riccardo,Trivoli,4,GEIS01300X,IIS,Liceti,Rapallo,GE,Liguria,29,,Sì,Scolastica
+Alessio,Milanti,4,GEIS01300X,IIS,Liceti,Rapallo,GE,Liguria,28,,Sì,Scolastica
+Leonardo,Ferruzzi,4,GEIS01400Q,IIS,I. Calvino,Genova,GE,Liguria,30,,Sì,Scolastica
+Valerio,Piccardo,4,GEIS01400Q,IIS,I. Calvino,Genova,GE,Liguria,30,,Sì,Scolastica
+Stefano,Meloni,1,GEIS01400Q,IIS,I. Calvino,Genova,GE,Liguria,25,,Sì,Scolastica
+Dmytro,Lishchyshyn,4,GEIS01600B,IIS,Gastaldi/Abba,Genova,GE,Liguria,38,,Sì,Scolastica
+Sebastian,Cioabla,3,GEIS01600B,IIS,Gastaldi/Abba,Genova,GE,Liguria,22,,Sì,Scolastica
+Leo,Bui,4,GEIS018003,IIS,Istituto Majorana/Giorgi,Genova,GE,Liguria,38,,Sì,Scolastica
+Luca,Barabino,4,GEIS018003,IIS,Istituto Majorana/Giorgi,Genova,GE,Liguria,36,,Sì,Scolastica
+Gabriele,Tonella,4,GEIS018003,IIS,Istituto Majorana/Giorgi,Genova,GE,Liguria,35,,Sì,Scolastica
+Riccardo,Filippone,4,GEIS018003,IIS,Istituto Majorana/Giorgi,Genova,GE,Liguria,35,,Sì,Scolastica
+Giacomo,Mosele,3,GEPS030003,LS,G.D. Cassini,Genova,GE,Liguria,63,,Sì,Scolastica
+Giacomo,Delpiano,2,GEPS030003,LS,G.D. Cassini,Genova,GE,Liguria,51,,Sì,Scolastica
+Marco,Rogialli,4,GEPS030003,LS,G.D. Cassini,Genova,GE,Liguria,50,,Sì,Scolastica
+Lorenzo,Frittoli,4,GEPS030003,LS,G.D. Cassini,Genova,GE,Liguria,43,126,Sì,Scolastica
+Leonardo,Castellini,4,GEPS030003,LS,G.D. Cassini,Genova,GE,Liguria,36,,Sì,Scolastica
+Matteo,Bartolo,2,GETH020002,ITN,"I.T.T.L. ""Nautico San Giorgio""",Genova,GE,Liguria,25,,Sì,Scolastica
+Matilde,Marini,1,GETH020002,ITN,"I.T.T.L. ""Nautico San Giorgio""",Genova,GE,Liguria,20,,Sì,Scolastica
+Lorenzo,Taccarelli,3,GOIS006009,IIS,G. Brignoli - L. Einaudi - G. Marconi,Gradisca d'Isonzo,GO,Friuli-Venezia Giulia,41,,Sì,Scolastica
+Gianluca,Rainis,3,GOIS006009,IIS,G. Brignoli - L. Einaudi - G. Marconi,Gradisca d'Isonzo,GO,Friuli-Venezia Giulia,32,,Sì,Scolastica
+Kevin,Boh,4,GOIS007005,IIS,Gabriele D'Annunzio,Gorizia,GO,Friuli-Venezia Giulia,35,,Sì,Scolastica
+Chiara Adele,Candussi,3,GOIS007005,IIS,Gabriele D'Annunzio,Gorizia,GO,Friuli-Venezia Giulia,26,,Sì,Scolastica
+Yugesh,Sharma,4,GRIS00400R,IIS,P. Aldi,Grosseto,GR,Toscana,29,,Sì,Scolastica
+Simone,De Rosa,2,GRIS00400R,IIS,P. Aldi,Grosseto,GR,Toscana,26,,Sì,Scolastica
+Matteo,Biadi,2,GRIS01100X,IIS,Polo Tecnologico Manetti-Porciatti,Grosseto,GR,Toscana,44,,Sì,Scolastica
+Gregorio,Pescucci,4,GRIS01100X,IIS,Polo Tecnologico Manetti-Porciatti,Grosseto,GR,Toscana,39,,Sì,Scolastica
+Elettra,Gori,4,GRIS01300G,IIS,V. Fossombroni,Grosseto,GR,Toscana,25,,Sì,Scolastica
+Andrea,Manganelli,4,GRIS01300G,IIS,V. Fossombroni,Grosseto,GR,Toscana,25,,Sì,Scolastica
+Luca,Dignani,4,IBPS09000C,LS,II Gr. Gandhi,Merano,BZ,Trentino-Alto Adige,35,,Sì,Scolastica
+Matteo,Sommacampagna,4,IBPS09000C,LS,II Gr. Gandhi,Merano,BZ,Trentino-Alto Adige,34,,Sì,Scolastica
+Melissa,Nanni,2,IBPS09000C,LS,II Gr. Gandhi,Merano,BZ,Trentino-Alto Adige,30,,Sì,Scolastica
+Samuel,Nardin,2,IBPS09000C,LS,II Gr. Gandhi,Merano,BZ,Trentino-Alto Adige,27,,Sì,Scolastica
+Philipp,Gurndin,4,IBTF020008,ITI,II Gr. Galileo Galilei,Bolzano,BZ,Trentino-Alto Adige,41,,Sì,Scolastica
+Patrick,Canal,3,IBTF020008,ITI,II Gr. Galileo Galilei,Bolzano,BZ,Trentino-Alto Adige,40,,Sì,Scolastica
+Leonardo,Segala,4,IBTF020008,ITI,II Gr. Galileo Galilei,Bolzano,BZ,Trentino-Alto Adige,36,145,Sì,Scolastica
+Paolo,Rinaldi,3,IMIS002001,IIS,Polo Tecnologico Imperiese,Imperia,IM,Liguria,55,,Sì,Scolastica
+Abdul Samet,Gunebakmaz,2,IMIS002001,IIS,Polo Tecnologico Imperiese,Imperia,IM,Liguria,38,,Sì,Scolastica
+Astrit Junior,Mehmeti,3,IMIS002001,IIS,Polo Tecnologico Imperiese,Imperia,IM,Liguria,38,,Sì,Scolastica
+Mirko,Cesarano,4,IMIS002001,IIS,Polo Tecnologico Imperiese,Imperia,IM,Liguria,37,,Sì,Scolastica
+Lorenzo,Guasco,4,IMIS002001,IIS,Polo Tecnologico Imperiese,Imperia,IM,Liguria,36,,Sì,Scolastica
+Andrea,Matis,4,IMIS002001,IIS,Polo Tecnologico Imperiese,Imperia,IM,Liguria,36,,Sì,Scolastica
+Eugenio,Zadro,2,IMIS002001,IIS,Polo Tecnologico Imperiese,Imperia,IM,Liguria,34,,Sì,Scolastica
+Jacopo,Di Stefano Palombo,1,ISIS003002,IIS,"Istituto Omnicomprensivo ""A. Giordano""",Venafro,IS,Molise,28,,Sì,Scolastica
+Giulio,Zullo,1,ISIS003002,IIS,"Istituto Omnicomprensivo ""A. Giordano""",Venafro,IS,Molise,25,,Sì,Scolastica
+Luca,Carrino,3,ISIS01200R,IIS,Majorana/Fascitelli,Isernia,IS,Molise,41,25,Sì,Scolastica
+Raffaele,Lalli,4,ISIS01200R,IIS,Majorana/Fascitelli,Isernia,IS,Molise,40,150,Sì,Scolastica
+Francesco,Scotto Di Vetta,3,ISIS01200R,IIS,Majorana/Fascitelli,Isernia,IS,Molise,35,,Sì,Scolastica
+Camillo,Veneziale,4,ISIS01200R,IIS,Majorana/Fascitelli,Isernia,IS,Molise,35,169,Sì,Scolastica
+Francesco,Di Martino,2,ISIS01200R,IIS,Majorana/Fascitelli,Isernia,IS,Molise,29,5,Sì,Scolastica
+Riccardo Antonio,Natale,2,ISIS01200R,IIS,Majorana/Fascitelli,Isernia,IS,Molise,29,,Sì,Scolastica
+Francesco,Matteo,3,ISIS01200R,IIS,Majorana/Fascitelli,Isernia,IS,Molise,27,150,Sì,preterritoriale
+Alessia,Ventura,4,KRPS010005,LS,Filolao,Crotone,KR,Calabria,35,,Sì,Scolastica
+Jonathan,Marino,2,KRPS010005,LS,Filolao,Crotone,KR,Calabria,33,,Sì,Scolastica
+Davide,Siciliani,3,KRTF02000T,ITI,Guido Donegani,Crotone,KR,Calabria,31,,Sì,Scolastica
+Giuseppe Pio,De Grazia,4,KRTF02000T,ITI,Guido Donegani,Crotone,KR,Calabria,30,,Sì,Scolastica
+Manuel,Hajek,3,LCIS001009,IIS,Francesco Vigano,Merate,LC,Lombardia,41,,Sì,Scolastica
+Veronica,Porchera,4,LCIS001009,IIS,Francesco Vigano,Merate,LC,Lombardia,39,,Sì,Scolastica
+Marco,Ferlin,2,LCIS001009,IIS,Francesco Vigano,Merate,LC,Lombardia,35,,Sì,Scolastica
+Niccolò,Piscioneri,4,LCIS001009,IIS,Francesco Vigano,Merate,LC,Lombardia,33,,Sì,Scolastica
+Simone,Alfieri,2,LCIS001009,IIS,Francesco Vigano,Merate,LC,Lombardia,25,,Sì,Scolastica
+Greta,Jannoli,4,LCIS002005,IIS,Vittorio Bachelet,Oggiono,LC,Lombardia,44,,Sì,Scolastica
+Diego,Giussani,4,LCIS002005,IIS,Vittorio Bachelet,Oggiono,LC,Lombardia,39,,Sì,Scolastica
+Federico,Valsecchi,4,LCIS002005,IIS,Vittorio Bachelet,Oggiono,LC,Lombardia,36,,Sì,Scolastica
+Simone,Serighelli,4,LCIS002005,IIS,Vittorio Bachelet,Oggiono,LC,Lombardia,35,,Sì,Scolastica
+Riccardo,Spitoni,4,LCIS002005,IIS,Vittorio Bachelet,Oggiono,LC,Lombardia,35,,Sì,Scolastica
+Giacomo,Arienti,4,LCIS002005,IIS,Vittorio Bachelet,Oggiono,LC,Lombardia,34,,Sì,Scolastica
+Elia,Riva,4,LCIS002005,IIS,Vittorio Bachelet,Oggiono,LC,Lombardia,34,,Sì,Scolastica
+Francesco,De Bernardi,3,LCIS003001,IIS,Marco Polo,Colico,LC,Lombardia,31,,Sì,Scolastica
+Lucas,Di Blasi,3,LCIS003001,IIS,Marco Polo,Colico,LC,Lombardia,30,,Sì,Scolastica
+Daniele,Zinelli,3,LCIS00900X,IIS,S. Ten. Vasc. A. Badoni,Lecco,LC,Lombardia,46,,Sì,Scolastica
+Pietro,Marvelli,4,LCIS00900X,IIS,S. Ten. Vasc. A. Badoni,Lecco,LC,Lombardia,40,,Sì,Scolastica
+Lorenzo,Molteni,4,LCIS00900X,IIS,S. Ten. Vasc. A. Badoni,Lecco,LC,Lombardia,40,,Sì,Scolastica
+Francesco,Paccagnella,3,LCIS00900X,IIS,S. Ten. Vasc. A. Badoni,Lecco,LC,Lombardia,33,,Sì,Scolastica
+Achille,Sangalli,1,LCIS00900X,IIS,S. Ten. Vasc. A. Badoni,Lecco,LC,Lombardia,28,,Sì,Scolastica
+Federico,Fersino,3,LEIS003006,IIS,G. Salvemini,Alessano,LE,Puglia,33,,Sì,Scolastica
+Michael,Manco,4,LEIS003006,IIS,G. Salvemini,Alessano,LE,Puglia,32,,Sì,Scolastica
+Tony,Orlando,3,LEIS00600N,IIS,A. Meucci,Casarano,LE,Puglia,41,,Sì,Scolastica
+Egidio,Rubino,3,LEIS00600N,IIS,A. Meucci,Casarano,LE,Puglia,35,,Sì,Scolastica
+Francesco,Damiano,3,LEIS00600N,IIS,A. Meucci,Casarano,LE,Puglia,34,89,Sì,Scolastica
+Gabriele,Gnoni,4,LEIS00600N,IIS,A. Meucci,Casarano,LE,Puglia,34,3,Sì,Scolastica
+Matteo,Beccarrisi,4,LEIS037009,IIS,E. Medi,Galatone,LE,Puglia,46,,Sì,Scolastica
+Gabriele,Inguscio,4,LEIS037009,IIS,E. Medi,Galatone,LE,Puglia,26,,Sì,Scolastica
+Riccardo,Castellano,4,LEIS038005,IIS,E. Mattei,Maglie,LE,Puglia,45,,Sì,Scolastica
+Tommaso,Pulimeno,3,LEIS038005,IIS,E. Mattei,Maglie,LE,Puglia,40,,Sì,Scolastica
+Antonio,Pilon,3,LEIS04700X,IIS,Cezzi-De Castro-Moro,Maglie,LE,Puglia,25,,Sì,Scolastica
+Tommaso,Colizzi,4,LEIS04900G,IIS,Laporta/Falcone-Borsellino,Galatina,LE,Puglia,39,,Sì,Scolastica
+Marco,Rollo,2,LEIS04900G,IIS,Laporta/Falcone-Borsellino,Galatina,LE,Puglia,30,,Sì,Scolastica
+Andrea,Marra,2,LEIS04900G,IIS,Laporta/Falcone-Borsellino,Galatina,LE,Puglia,26,,Sì,Scolastica
+Matteo,Geusa,3,LEIS05200B,IIS,L. Da Vinci,Maglie,LE,Puglia,33,,Sì,Scolastica
+Giuseppe,Capraro,3,LEIS05200B,IIS,L. Da Vinci,Maglie,LE,Puglia,30,,Sì,Scolastica
+Francesco,Ruggeri,2,LEIS05200B,IIS,L. Da Vinci,Maglie,LE,Puglia,27,,Sì,Scolastica
+Lorenzo,Baldassarre,3,LEIS05200B,IIS,L. Da Vinci,Maglie,LE,Puglia,40,,Sì,nazionalista OII 2023
+Vittoria,Ratano Lubelli,2,LEPC03000R,LC,G. Palmieri,Lecce,LE,Puglia,32,,Sì,Scolastica
+Antonio,Ricchiuto,2,LEPC03000R,LC,G. Palmieri,Lecce,LE,Puglia,27,,Sì,Scolastica
+Fabrizio,Giacomi,2,LEPC03000R,LC,G. Palmieri,Lecce,LE,Puglia,60,,Sì,nazionalista OII 2023
+Elena,Casto,4,LEPM050006,IM,"Liceo ""G. Comi""",Tricase,LE,Puglia,34,,Sì,Scolastica
+Elena,Biasco,4,LEPM050006,IM,"Liceo ""G. Comi""",Tricase,LE,Puglia,30,,Sì,Scolastica
+Marco,Pennetta,3,LEPS03000X,LS,G. C. Vanini,Casarano,LE,Puglia,50,,Sì,Scolastica
+Paolo,Zippo,3,LEPS03000X,LS,G. C. Vanini,Casarano,LE,Puglia,37,,Sì,Scolastica
+Lorenzo,Degli Atti,4,LEPS07000A,LS,Giulietta Banzi Bazoli,Lecce,LE,Puglia,86,,Sì,Scolastica
+Edoardo,Tondo,3,LEPS07000A,LS,Giulietta Banzi Bazoli,Lecce,LE,Puglia,34,,Sì,Scolastica
+Antonio,Accogli,4,LEPS220003,LS,G. Stampacchia,Tricase,LE,Puglia,30,,Sì,Scolastica
+Christian,Orlando,4,LEPS23000N,LS,Don Tonino Bello,Copertino,LE,Puglia,40,,Sì,Scolastica
+Niccolò,Romano,3,LEPS23000N,LS,Don Tonino Bello,Copertino,LE,Puglia,26,,Sì,Scolastica
+Vincenzo,De Icco,3,LETD140007,ITC,"I.T.E. ""De Viti - De Marco""",Casarano,LE,Puglia,26,,Sì,Scolastica
+Lorenzo,Montanari,3,LETD140007,ITC,"I.T.E. ""De Viti - De Marco""",Casarano,LE,Puglia,25,,Sì,Scolastica
+Federica,Masoni,4,LIIS004009,IIS,Luigi Einaudi Alberto Ceccherelli,Piombino,LI,Toscana,24,,Sì,Scolastica
+Mattia,David,3,LIIS00800L,IIS,Vespucci-Colombo,Livorno,LI,Toscana,20,,Sì,Scolastica
+Daniele,Pellegrin,2,LIIS01100C,IIS,Carducci-Volta-Pacinotti,Piombino,LI,Toscana,20,,Sì,Scolastica
+Simone,Miele,3,LIPS030007,LS,Francesco Cecioni,Livorno,LI,Toscana,24,,Sì,Scolastica
+Gabriele,Pompilio,2,LIPS030007,LS,Francesco Cecioni,Livorno,LI,Toscana,20,,Sì,Scolastica
+Beniamino,Giorgi,2,LIPS030007,LS,Francesco Cecioni,Livorno,LI,Toscana,20,,Sì,Scolastica
+Francesco,Ienna,4,LITF030009,ITI,G. Galilei,Livorno,LI,Toscana,36,,Sì,Scolastica
+Giulio,Pirone,4,LITF030009,ITI,G. Galilei,Livorno,LI,Toscana,36,,Sì,Scolastica
+Giacomo,Librera,4,LOIS00300P,IIS,Cesaris,Casalpusterlengo,LO,Lombardia,39,,Sì,Scolastica
+Martina,Mascia,4,LOIS00300P,IIS,Cesaris,Casalpusterlengo,LO,Lombardia,36,,Sì,Scolastica
+Mirko,Virtuani,3,LOIS00400E,IIS,Alessandro Volta,Lodi,LO,Lombardia,29,,Sì,Scolastica
+Filippo,Zanaboni,4,LOIS00400E,IIS,Alessandro Volta,Lodi,LO,Lombardia,29,,Sì,Scolastica
+Simone,Protani,4,LTIS00100R,IIS,Campus Dei Licei - M. Ramadu',Cisterna di Latina,LT,Lazio,31,,Sì,Scolastica
+Carlo,Ceracchi,4,LTIS00100R,IIS,Campus Dei Licei - M. Ramadu',Cisterna di Latina,LT,Lazio,31,,Sì,Scolastica
+Bogdan George Ioan,Sinka,4,LTIS013003,IIS,G Marconi,Latina,LT,Lazio,32,54,Sì,Scolastica
+Silvia,Lin,4,LTIS013003,IIS,G Marconi,Latina,LT,Lazio,32,36,Sì,Scolastica
+Davide,Soscia,3,LTIS02300N,IIS,Fermi,Gaeta,LT,Lazio,22,,Sì,Scolastica
+Alessandro,De Meo,2,LTIS02300N,IIS,Fermi,Gaeta,LT,Lazio,20,,Sì,Scolastica
+Leandro,Baldoquin Delgado,3,LTIS026005,IIS,Gobetti - De Libero,Fondi,LT,Lazio,20,,Sì,Scolastica
+Domenico Riccardo,Ciorra,3,LTPS030006,LS,L. B. Alberti,Minturno,LT,Lazio,32,,Sì,Scolastica
+Denys,Holyk,4,LTPS030006,LS,L. B. Alberti,Minturno,LT,Lazio,32,,Sì,Scolastica
+Salvatore,Belardo,1,LTPS030006,LS,L. B. Alberti,Minturno,LT,Lazio,25,,Sì,Scolastica
+Riccardo,Di Russo,4,LTPS05000B,LS,Majorana,Latina,LT,Lazio,37,,Sì,Scolastica
+Gabriele,Zecchini,2,LTPS05000B,LS,Majorana,Latina,LT,Lazio,36,,Sì,Scolastica
+Hiras,Picano,4,LTTF09000X,ITI,A. Pacinotti,Fondi,LT,Lazio,42,,Sì,Scolastica
+Michele,Vitiello,3,LTTF09000X,ITI,A. Pacinotti,Fondi,LT,Lazio,26,,Sì,Scolastica
+Francesco,Bechelli,4,LUIS00400Q,IIS,Garfagnana,Castelnuovo di Garfagnana,LU,Toscana,30,,Sì,Scolastica
+Camilla,Triti,3,LUIS00400Q,IIS,Garfagnana,Castelnuovo di Garfagnana,LU,Toscana,27,,Sì,Scolastica
+Leonard,Poka,3,LUPS020003,LS,Barsanti E Matteucci,Viareggio,LU,Toscana,52,104,Sì,Scolastica
+Matteo,Simoni,3,LUPS020003,LS,Barsanti E Matteucci,Viareggio,LU,Toscana,34,,Sì,Scolastica
+Niccolò,Pulcini,3,MBIS04200E,IIS,Iris Versari,Cesano Maderno,MB,Lombardia,40,,Sì,Scolastica
+Gabriele,Brambilla,3,MBIS04200E,IIS,Iris Versari,Cesano Maderno,MB,Lombardia,40,,Sì,Scolastica
+Giovanni,Aldini,2,MBIS04200E,IIS,Iris Versari,Cesano Maderno,MB,Lombardia,31,,Sì,Scolastica
+Marco,Callegaro,2,MBIS04200E,IIS,Iris Versari,Cesano Maderno,MB,Lombardia,30,,Sì,Scolastica
+Alessio,Falzone,2,MBIS04200E,IIS,Iris Versari,Cesano Maderno,MB,Lombardia,29,,Sì,Scolastica
+Lorenzo,Piccinino,2,MBIS04200E,IIS,Iris Versari,Cesano Maderno,MB,Lombardia,28,,Sì,Scolastica
+Luca,Briguglio,3,MBIS06200Q,IIS,Ettore Majorana,Cesano Maderno,MB,Lombardia,36,,Sì,Scolastica
+Samuele,Trezzi,4,MBIS06200Q,IIS,Ettore Majorana,Cesano Maderno,MB,Lombardia,35,,Sì,Scolastica
+Rebecca,Dell'Orto,4,MBIS09800E,IIS,Leonardo Da Vinci,Carate Brianza,MB,Lombardia,45,,Sì,Scolastica
+Alfonso,Cuturello,4,MBIS09800E,IIS,Leonardo Da Vinci,Carate Brianza,MB,Lombardia,26,,Sì,Scolastica
+Diego,Auristo,2,MBIS106008,IIS,Albert Einstein,Vimercate,MB,Lombardia,20,,Sì,Scolastica
+Alessio,Braga,2,MBPS240002,LS,Banfi,Vimercate,MB,Lombardia,56,,Sì,Scolastica
+Fabio,Cigaina,1,MBPS240002,LS,Banfi,Vimercate,MB,Lombardia,55,200,Sì,Scolastica
+Davide,Mariani,3,MBPS240002,LS,Banfi,Vimercate,MB,Lombardia,53,,Sì,Scolastica
+Simone,Dursi,3,MBPS240002,LS,Banfi,Vimercate,MB,Lombardia,50,,Sì,Scolastica
+Roberto,Bozzini,3,MBPS240002,LS,Banfi,Vimercate,MB,Lombardia,48,,Sì,Scolastica
+Michela,Mattavelli,4,MBPS240002,LS,Banfi,Vimercate,MB,Lombardia,46,,Sì,Scolastica
+Alessandro,Pellicone,3,MBPS240002,LS,Banfi,Vimercate,MB,Lombardia,45,,Sì,Scolastica
+Gabriele,Tornaghi,2,MBPS240002,LS,Banfi,Vimercate,MB,Lombardia,44,89,Sì,Scolastica
+Alessandro,Beretta,4,MBPS240002,LS,Banfi,Vimercate,MB,Lombardia,44,,Sì,Scolastica
+Pio Francesco,Triolo,3,MBPS240002,LS,Banfi,Vimercate,MB,Lombardia,43,,Sì,Scolastica
+Cecilia,Pirola,4,MBPS240002,LS,Banfi,Vimercate,MB,Lombardia,43,,Sì,Scolastica
+Martina,Gasperini,4,MBPS240002,LS,Banfi,Vimercate,MB,Lombardia,43,,Sì,Scolastica
+Gabriele,Faruzzi,3,MBPS240002,LS,Banfi,Vimercate,MB,Lombardia,42,,Sì,Scolastica
+Matteo,Nebel,1,MBPS240002,LS,Banfi,Vimercate,MB,Lombardia,41,,Sì,Scolastica
+Gioele,Testa,2,MBPS240002,LS,Banfi,Vimercate,MB,Lombardia,40,,Sì,Scolastica
+Samuele,Bottanelli,3,MBPS240002,LS,Banfi,Vimercate,MB,Lombardia,40,,Sì,Scolastica
+Davide,Raffaele,2,MBPS240002,LS,Banfi,Vimercate,MB,Lombardia,39,,Sì,Scolastica
+Lara,Sacchetto,3,MBPS240002,LS,Banfi,Vimercate,MB,Lombardia,39,,Sì,Scolastica
+Alessandro,Brambilla,3,MBPS240002,LS,Banfi,Vimercate,MB,Lombardia,38,,Sì,Scolastica
+Matteo,Mandelli,1,MBPS240002,LS,Banfi,Vimercate,MB,Lombardia,36,,Sì,Scolastica
+Matteo,Riccobelli,2,MBPS240002,LS,Banfi,Vimercate,MB,Lombardia,35,,Sì,Scolastica
+Lucas,Ghilardi,2,MBPS240002,LS,Banfi,Vimercate,MB,Lombardia,34,,Sì,Scolastica
+Emma,Jung,2,MBPS240002,LS,Banfi,Vimercate,MB,Lombardia,32,40,Sì,Scolastica
+Enrico,Di Bacco,2,MBPS240002,LS,Banfi,Vimercate,MB,Lombardia,32,,Sì,Scolastica
+Alessia,Chesler,1,MBPS240002,LS,Banfi,Vimercate,MB,Lombardia,31,,Sì,Scolastica
+Gaia,Gargiulo,2,MBPS240002,LS,Banfi,Vimercate,MB,Lombardia,30,100,Sì,Scolastica
+Alessandro,Foffano,1,MBPS240002,LS,Banfi,Vimercate,MB,Lombardia,27,,Sì,Scolastica
+Stefano,Manzoni,1,MBPS240002,LS,Banfi,Vimercate,MB,Lombardia,27,,Sì,Scolastica
+Leonardo,Jung,2,MBPS240002,LS,Banfi,Vimercate,MB,Lombardia,27,64,Sì,Scolastica
+Christian,Ter Kuile,1,MBPS240002,LS,Banfi,Vimercate,MB,Lombardia,26,,Sì,Scolastica
+Riccardo,Camisa,2,MBPS240002,LS,Banfi,Vimercate,MB,Lombardia,22,117,Sì,preterritoriale
+Pietro,Banfi,3,MBPS240002,LS,Banfi,Vimercate,MB,Lombardia,22,200,Sì,preterritoriale
+Maia,Rodriguez Chacon,1,MBPS240002,LS,Banfi,Vimercate,MB,Lombardia,21,107,Sì,preterritoriale
+Mattia,Verderio,3,MBPS240002,LS,Banfi,Vimercate,MB,Lombardia,62,,Sì,nazionalista OII 2023
+Alessandro,Lisanti,3,MBPS240002,LS,Banfi,Vimercate,MB,Lombardia,39,,Sì,nazionalista OII 2023
+Nicholas,Bamber,1,MBPS240002,LS,Banfi,Vimercate,MB,Lombardia,,200,Sì,nazionalista OII 2023
+Jacopo,Rozza,4,MBTF410002,ITI,P. Hensemberger,Monza,MB,Lombardia,30,,Sì,Scolastica
+Federico,Baldini,3,MBTF410002,ITI,P. Hensemberger,Monza,MB,Lombardia,27,,Sì,Scolastica
+Sylantii,Yefymov,4,MCIS00200P,IIS,Leonardo Da Vinci,Civitanova Marche,MC,Marche,45,,Sì,Scolastica
+Luca,Falappa,3,MCIS00200P,IIS,Leonardo Da Vinci,Civitanova Marche,MC,Marche,40,,Sì,Scolastica
+Daniele,Borroni,3,MCIS00200P,IIS,Leonardo Da Vinci,Civitanova Marche,MC,Marche,40,,Sì,Scolastica
+Fabio,Zhou,2,MCIS00200P,IIS,Leonardo Da Vinci,Civitanova Marche,MC,Marche,32,,Sì,Scolastica
+Rocco,Tartabini,2,MCIS00200P,IIS,Leonardo Da Vinci,Civitanova Marche,MC,Marche,27,,Sì,Scolastica
+Giorgia,Francioni,4,MCIS00300E,IIS,Francesco Filelfo,Tolentino,MC,Marche,22,,Sì,Scolastica
+Gabriele,Farinelli,4,MCIS00300E,IIS,Francesco Filelfo,Tolentino,MC,Marche,21,,Sì,Scolastica
+Alex,D'Ambra,3,MCIS00400A,IIS,Enrico Mattei,Recanati,MC,Marche,35,,Sì,Scolastica
+Daniel,Tartaglini,3,MCIS00400A,IIS,Enrico Mattei,Recanati,MC,Marche,26,,Sì,Scolastica
+Luca,Monteleone,2,MCPC09000R,LC,Giacomo Leopardi,Recanati,MC,Marche,35,,Sì,Scolastica
+Riccardo,Cacciani,4,MCPC09000R,LC,Giacomo Leopardi,Recanati,MC,Marche,33,,Sì,Scolastica
+Lorenzo,Lancioni,3,MCTF010005,ITI,E. Divini,San Severino Marche,MC,Marche,45,,Sì,Scolastica
+Manuele,Marini,4,MCTF010005,ITI,E. Divini,San Severino Marche,MC,Marche,35,,Sì,Scolastica
+Andrea,Marchionni,3,MCTF010005,ITI,E. Divini,San Severino Marche,MC,Marche,34,,Sì,Scolastica
+Andrea,Gulletta,4,MEIS027008,IIS,Verona Trento,Messina,ME,Sicilia,50,,Sì,Scolastica
+Cristian,Bellamacina,4,MEIS027008,IIS,Verona Trento,Messina,ME,Sicilia,34,,Sì,Scolastica
+Michelangelo,Leone,3,MEIS02900X,IIS,Maurolico,Messina,ME,Sicilia,28,,Sì,Scolastica
+Gabriele,Aloe,4,MEIS02900X,IIS,Maurolico,Messina,ME,Sicilia,25,,Sì,Scolastica
+Carmelo,Cipriano,4,MEPC060006,LC,Liceo Vittorio Emanuele III,Patti,ME,Sicilia,37,,Sì,Scolastica
+Tommaso,Raccuia,4,MEPC060006,LC,Liceo Vittorio Emanuele III,Patti,ME,Sicilia,37,25,Sì,Scolastica
+Alessandro Antonino,Calabria,2,MEPC060006,LC,Liceo Vittorio Emanuele III,Patti,ME,Sicilia,32,,Sì,Scolastica
+Riccardo,Divieto,4,MEPS010008,LS,Archimede,Messina,ME,Sicilia,,100,Sì,preterritoriale
+Federico,Conti,4,MEPS22000L,LS,Liceo Lucio Piccolo,Capo d'Orlando,ME,Sicilia,40,,Sì,Scolastica
+Fabrizio,Vinciullo,4,MEPS22000L,LS,Liceo Lucio Piccolo,Capo d'Orlando,ME,Sicilia,36,,Sì,Scolastica
+Michele,Alfano,4,METD05000E,ITCG,I.T. L. Da Vinci Economico Tecnologico,Milazzo,ME,Sicilia,51,,Sì,Scolastica
+Daniele,Trio,4,METD05000E,ITCG,I.T. L. Da Vinci Economico Tecnologico,Milazzo,ME,Sicilia,30,,Sì,Scolastica
+Leonardo,Bucca,1,METF03000G,ITI,L.S. Copernico,Barcellona Pozzo di Gotto,ME,Sicilia,25,,Sì,Scolastica
+Angelo,Palmitano,4,METF03000G,ITI,L.S. Copernico,Barcellona Pozzo di Gotto,ME,Sicilia,25,,Sì,Scolastica
+Marco,Farcas,3,MIIS011002,IIS,B. Russell,Garbagnate Milanese,MI,Lombardia,42,,Sì,Scolastica
+Alessandro,Buccella,3,MIIS011002,IIS,B. Russell,Garbagnate Milanese,MI,Lombardia,42,,Sì,Scolastica
+Kaixin,Hu,4,MIIS038002,IIS,G. L. Lagrange,Milano,MI,Lombardia,40,,Sì,Scolastica
+Antonio,Capone,4,MIIS038002,IIS,G. L. Lagrange,Milano,MI,Lombardia,37,,Sì,Scolastica
+Andrea,Scavello,1,MIIS038002,IIS,G. L. Lagrange,Milano,MI,Lombardia,35,,Sì,Scolastica
+Kabir,Banga,3,MIIS05700B,IIS,N. Moreschi,Milano,MI,Lombardia,39,,Sì,Scolastica
+Pietro,Vinciguerra,4,MIIS05700B,IIS,N. Moreschi,Milano,MI,Lombardia,39,,Sì,Scolastica
+Gabriele,Pepe,4,MIIS09300E,IIS,M. Curie - P. Sraffa,Milano,MI,Lombardia,36,,Sì,Scolastica
+Giovanna,Caruso,4,MIIS09300E,IIS,M. Curie - P. Sraffa,Milano,MI,Lombardia,27,,Sì,Scolastica
+Melek,Chteoui,4,MIIS09700T,IIS,A. Bernocchi,Legnano,MI,Lombardia,31,,Sì,Scolastica
+Simone,La Salvia,4,MIIS09700T,IIS,A. Bernocchi,Legnano,MI,Lombardia,30,,Sì,Scolastica
+Roberto,Carpintero Castro,4,MILANO2,Scuola non statale,St Louis School,Milano,MI,Lombardia,41,,Sì,Scolastica
+Pietro,Pasqualato,3,MIPS03000R,LS,L. Da Vinci,Milano,MI,Lombardia,37,,Sì,Scolastica
+Gabriella,Moro,4,MIPS03000R,LS,L. Da Vinci,Milano,MI,Lombardia,33,,Sì,Scolastica
+Jacopino,Wu,2,MIPS03000R,LS,L. Da Vinci,Milano,MI,Lombardia,31,,Sì,Scolastica
+Filippo,Gargiulo,4,MIPS08000T,LS,A. Volta,Milano,MI,Lombardia,76,,Sì,Scolastica
+Alberto,Maccheroni,2,MIPS08000T,LS,A. Volta,Milano,MI,Lombardia,65,,Sì,Scolastica
+Barbara,Catino,3,MIPS08000T,LS,A. Volta,Milano,MI,Lombardia,65,,Sì,Scolastica
+Matteo,Cappiello,1,MIPS08000T,LS,A. Volta,Milano,MI,Lombardia,61,,Sì,Scolastica
+Agnese,Forastieri,4,MIPS08000T,LS,A. Volta,Milano,MI,Lombardia,53,,Sì,Scolastica
+Daniele,Di Nicola Carena,3,MIPS08000T,LS,A. Volta,Milano,MI,Lombardia,52,,Sì,Scolastica
+Alessandro,Bagnato,4,MIPS08000T,LS,A. Volta,Milano,MI,Lombardia,52,,Sì,Scolastica
+Martina,Ciferri,4,MIPS08000T,LS,A. Volta,Milano,MI,Lombardia,35,,Sì,Scolastica
+Francesco,Zanfagna,1,MIPS08000T,LS,A. Volta,Milano,MI,Lombardia,30,,Sì,Scolastica
+Martha Sofia,Mayo,4,MIPS08000T,LS,A. Volta,Milano,MI,Lombardia,60,,Sì,nazionalista OII 2023
+Giovanni,Maiellaro,2,MIPS08000T,LS,A. Volta,Milano,MI,Lombardia,42,150,Sì,nazionalista OII 2023
+Tommaso,Mercadante,4,MIPS08000T,LS,A. Volta,Milano,MI,Lombardia,35,,Sì,nazionalista OII 2023
+Federico,Mirabelli,3,MIPS08000T,LS,A. Volta,Milano,MI,Lombardia,,155,Sì,nazionalista OII 2023
+Matteo Giacomo,Di Giorgio,4,MIPS120003,LS,E. Majorana,Rho,MI,Lombardia,55,,Sì,Scolastica
+Luca,Carisdeo,3,MIPS120003,LS,E. Majorana,Rho,MI,Lombardia,40,,Sì,Scolastica
+Filippo,Banfi,2,MIPS120003,LS,E. Majorana,Rho,MI,Lombardia,38,,Sì,Scolastica
+Edoardo,Pomero,2,MIPS120003,LS,E. Majorana,Rho,MI,Lombardia,38,,Sì,Scolastica
+Gianmaria,Gussoni,2,MIPS120003,LS,E. Majorana,Rho,MI,Lombardia,35,,Sì,Scolastica
+Diego,Bulfaro,2,MIPS120003,LS,E. Majorana,Rho,MI,Lombardia,32,,Sì,Scolastica
+Massimiliano,Pessina,2,MIPS120003,LS,E. Majorana,Rho,MI,Lombardia,32,,Sì,Scolastica
+Andrea,Borgonovo,2,MIPS120003,LS,E. Majorana,Rho,MI,Lombardia,30,,Sì,Scolastica
+Mino,Zakhari,1,MIPS120003,LS,E. Majorana,Rho,MI,Lombardia,26,,Sì,Scolastica
+Anastasia,Mascazzini,2,MIPS120003,LS,E. Majorana,Rho,MI,Lombardia,25,,Sì,Scolastica
+Alessandro,Berra,2,MIPS120003,LS,E. Majorana,Rho,MI,Lombardia,25,,Sì,Scolastica
+Christian,Rocca,4,MIPS42500R,Scuola non statale,"Liceo Scientifico Opz. Scienze Applicate ""Don Bosco""",Milano,MI,Lombardia,42,,Sì,Scolastica
+Edoardo,Bissoli,3,MIPS42500R,Scuola non statale,"Liceo Scientifico Opz. Scienze Applicate ""Don Bosco""",Milano,MI,Lombardia,32,,Sì,Scolastica
+Maxim,Goncharov,3,MIPSE7500I,Scuola non statale,Liceo Scientifico Opzione Scienze Applicate Scuola Europa,Milano,MI,Lombardia,40,,Sì,Scolastica
+Mattia,Ollino,3,MIPSE7500I,Scuola non statale,Liceo Scientifico Opzione Scienze Applicate Scuola Europa,Milano,MI,Lombardia,34,,Sì,Scolastica
+Angelo,Rosa,3,MITD400008,ITC,Istituto Tecnico E Liceo - M. Curie,Cernusco sul Naviglio,MI,Lombardia,40,50,Sì,Scolastica
+Gabriele,Alzani,4,MITD400008,ITC,Istituto Tecnico E Liceo - M. Curie,Cernusco sul Naviglio,MI,Lombardia,29,18,Sì,Scolastica
+Alessandro,Villa,4,MITD400008,ITC,Istituto Tecnico E Liceo - M. Curie,Cernusco sul Naviglio,MI,Lombardia,25,137,Sì,preterritoriale
+Ashlee Mercedes,Rodriguez Herrera,4,MITF11000E,ITI,E Liceo - E. Molinari,Milano,MI,Lombardia,28,,Sì,Scolastica
+Alessio,Oliverio,4,MITF11000E,ITI,E Liceo - E. Molinari,Milano,MI,Lombardia,23,,Sì,Scolastica
+Tommaso,Panzeri,4,MITF11500N,Scuola non statale,Istituto Ernesto Breda - Istituto Tecnico,Sesto San Giovanni,MI,Lombardia,42,,Sì,Scolastica
+Lorenzo,Albericci,4,MITF11500N,Scuola non statale,Istituto Ernesto Breda - Istituto Tecnico,Sesto San Giovanni,MI,Lombardia,40,,Sì,Scolastica
+Simone,Ronzoni,4,MITF11500N,Scuola non statale,Istituto Ernesto Breda - Istituto Tecnico,Sesto San Giovanni,MI,Lombardia,36,,Sì,Scolastica
+Andrea,Taccani,3,MITF13000Q,ITI,S. Cannizzaro,Rho,MI,Lombardia,57,,Sì,Scolastica
+Matteo,Caenazzo,3,MITF13000Q,ITI,S. Cannizzaro,Rho,MI,Lombardia,50,142,Sì,Scolastica
+Andrea,Martini,3,MITF13000Q,ITI,S. Cannizzaro,Rho,MI,Lombardia,47,,Sì,Scolastica
+Daniele,Kim,3,MITF13000Q,ITI,S. Cannizzaro,Rho,MI,Lombardia,40,,Sì,Scolastica
+Tommaso,Ciaccia,4,MITF13000Q,ITI,S. Cannizzaro,Rho,MI,Lombardia,37,,Sì,Scolastica
+Riccardo,Costantino,3,MITF13000Q,ITI,S. Cannizzaro,Rho,MI,Lombardia,33,,Sì,Scolastica
+Samuele,Max,3,MITF13000Q,ITI,S. Cannizzaro,Rho,MI,Lombardia,21,150,Sì,preterritoriale
+Tommaso,Santamaria,4,MITF21000B,ITI,E Liceo - G. Marconi,Gorgonzola,MI,Lombardia,40,,Sì,Scolastica
+Aurelio,Pullumbi,3,MITF21000B,ITI,E Liceo - G. Marconi,Gorgonzola,MI,Lombardia,36,,Sì,Scolastica
+Matteo,Gennari,3,MITF21000B,ITI,E Liceo - G. Marconi,Gorgonzola,MI,Lombardia,35,,Sì,Scolastica
+Luca,Cavallaro,4,MNIS00200Q,IIS,G. Galilei,Ostiglia,MN,Lombardia,35,,Sì,Scolastica
+Zaber,Miah,4,MNIS00200Q,IIS,G. Galilei,Ostiglia,MN,Lombardia,30,,Sì,Scolastica
+Luca,Regola,4,MNIS00300G,IIS,Francesco Gonzaga,Castiglione delle Stiviere,MN,Lombardia,60,,Sì,Scolastica
+Gaia Rosa,Cicco,4,MNIS00300G,IIS,Francesco Gonzaga,Castiglione delle Stiviere,MN,Lombardia,40,,Sì,Scolastica
+Luca,Salvetti,3,MNIS00300G,IIS,Francesco Gonzaga,Castiglione delle Stiviere,MN,Lombardia,35,,Sì,Scolastica
+Lorenzo,Caimi,4,MNIS00800P,IIS,Giovanni Falcone,Asola,MN,Lombardia,48,,Sì,Scolastica
+Diego,Zorzetti,4,MNIS00800P,IIS,Giovanni Falcone,Asola,MN,Lombardia,47,100,Sì,Scolastica
+Rocco,Daoglio,4,MNIS00800P,IIS,Giovanni Falcone,Asola,MN,Lombardia,43,,Sì,Scolastica
+Anna,Piubeni,2,MNIS00800P,IIS,Giovanni Falcone,Asola,MN,Lombardia,35,,Sì,Scolastica
+Diego,Benatti,2,MNIS00800P,IIS,Giovanni Falcone,Asola,MN,Lombardia,30,64,Sì,Scolastica
+Francesco,Picchioni,3,MNIS01100E,IIS,Fermi Mn,Mantova,MN,Lombardia,42,,Sì,Scolastica
+Emanuele,Rossato,4,MNIS01100E,IIS,Fermi Mn,Mantova,MN,Lombardia,42,,Sì,Scolastica
+Leonardo,Martinelli,4,MNIS01100E,IIS,Fermi Mn,Mantova,MN,Lombardia,35,,Sì,Scolastica
+Fabio,Taraschi,4,MNIS01100E,IIS,Fermi Mn,Mantova,MN,Lombardia,35,,Sì,Scolastica
+Fabio,Scappi,4,MNIS01100E,IIS,Fermi Mn,Mantova,MN,Lombardia,33,,Sì,Scolastica
+Mattia,Cavicchioli,3,MOIS00800B,IIS,"Statale ""G. Galilei""",Mirandola,MO,Emilia-Romagna,49,,Sì,Scolastica
+Francesco Prezioso,Cinque,3,MOIS00800B,IIS,"Statale ""G. Galilei""",Mirandola,MO,Emilia-Romagna,40,,Sì,Scolastica
+Antonio,Perri,4,MOIS00800B,IIS,"Statale ""G. Galilei""",Mirandola,MO,Emilia-Romagna,38,,Sì,Scolastica
+Giacomo,Golinelli,3,MOIS00800B,IIS,"Statale ""G. Galilei""",Mirandola,MO,Emilia-Romagna,34,,Sì,Scolastica
+Francesco,Ligabue,4,MOIS018002,IIS,F. Corni Liceo E Tecnico,Modena,MO,Emilia-Romagna,47,,Sì,Scolastica
+Robin,Arrigo,4,MOIS018002,IIS,F. Corni Liceo E Tecnico,Modena,MO,Emilia-Romagna,45,,Sì,Scolastica
+Davide,Giovanardi,4,MOIS018002,IIS,F. Corni Liceo E Tecnico,Modena,MO,Emilia-Romagna,33,,Sì,Scolastica
+Aldo,Dalma,4,MOIS01900T,IIS,A. Volta,Sassuolo,MO,Emilia-Romagna,33,,Sì,Scolastica
+Mattia,Zaccariello,4,MOIS01900T,IIS,A. Volta,Sassuolo,MO,Emilia-Romagna,28,,Sì,Scolastica
+Ludovico,D'Alfonso,4,MOPS030002,LS,Manfredo Fanti,Carpi,MO,Emilia-Romagna,49,,Sì,Scolastica
+Nicolò,Mambrini,4,MOPS030002,LS,Manfredo Fanti,Carpi,MO,Emilia-Romagna,46,,Sì,Scolastica
+Lorenzo,Benatti,4,MOPS030002,LS,Manfredo Fanti,Carpi,MO,Emilia-Romagna,39,,Sì,Scolastica
+Giulio,Yan,4,MOTF030004,ITI,Leonardo Da Vinci,Carpi,MO,Emilia-Romagna,47,,Sì,Scolastica
+Leonardo,Silingardi,3,MOTF030004,ITI,Leonardo Da Vinci,Carpi,MO,Emilia-Romagna,40,,Sì,Scolastica
+Victoria,Redeghieri,2,MOTF030004,ITI,Leonardo Da Vinci,Carpi,MO,Emilia-Romagna,28,,Sì,Scolastica
+Antonio,Pezone,2,MOTF030004,ITI,Leonardo Da Vinci,Carpi,MO,Emilia-Romagna,27,,Sì,Scolastica
+Alessio,Sciolti,2,MOTF030004,ITI,Leonardo Da Vinci,Carpi,MO,Emilia-Romagna,26,,Sì,Scolastica
+Ivan,Torre,4,MOTF080005,ITI,Enrico Fermi,Modena,MO,Emilia-Romagna,40,,Sì,Scolastica
+Lorenzo,Bergamini,4,MOTF080005,ITI,Enrico Fermi,Modena,MO,Emilia-Romagna,38,,Sì,Scolastica
+Simone,Galeotti,4,MOTF080005,ITI,Enrico Fermi,Modena,MO,Emilia-Romagna,36,,Sì,Scolastica
+Marco,Borsari,4,MOTF080005,ITI,Enrico Fermi,Modena,MO,Emilia-Romagna,35,,Sì,Scolastica
+Sandu,Silivestru,4,MOTF080005,ITI,Enrico Fermi,Modena,MO,Emilia-Romagna,35,,Sì,Scolastica
+Michele,Semeraro,4,MOTF080005,ITI,Enrico Fermi,Modena,MO,Emilia-Romagna,25,144,Sì,preterritoriale
+Matteo,Lleshi,3,MSIS01100T,IIS,Pacinotti-Belmesseri,Bagnone,MS,Toscana,21,,Sì,Scolastica
+Riccardo,Domenichini,4,MSIS01100T,IIS,Pacinotti-Belmesseri,Bagnone,MS,Toscana,21,,Sì,Scolastica
+Saverio Orfeo,Giannantoni,3,MSIS01800L,IIS,Meucci,Massa,MS,Toscana,37,,Sì,Scolastica
+Alessio,Lippi,4,MSIS01800L,IIS,Meucci,Massa,MS,Toscana,31,,Sì,Scolastica
+Salvatore Patrick Maria,Scicolone,3,MSPS020002,LS,Marconi,Carrara,MS,Toscana,51,,Sì,Scolastica
+Erik,Ghidini Rossi,3,MSPS020002,LS,Marconi,Carrara,MS,Toscana,46,,Sì,Scolastica
+Saksom,Ulivieri,2,MSPS020002,LS,Marconi,Carrara,MS,Toscana,42,,Sì,Scolastica
+Andrea,Cavalieri,3,MSPS020002,LS,Marconi,Carrara,MS,Toscana,40,,Sì,Scolastica
+Leonardo,Rolandi,4,MSPS020002,LS,Marconi,Carrara,MS,Toscana,39,82,Sì,Scolastica
+Riccardo,Ravenna,3,MSPS020002,LS,Marconi,Carrara,MS,Toscana,33,,Sì,Scolastica
+Danilo,Fiorenza,4,MTIS011001,IIS,Giustino Fortunato,Pisticci,MT,Basilicata,47,,Sì,Scolastica
+Antonio,Montano,4,MTIS011001,IIS,Giustino Fortunato,Pisticci,MT,Basilicata,42,,Sì,Scolastica
+Francesco,Maggio,3,MTIS016004,IIS,Bernalda Ferrandina,Bernalda,MT,Basilicata,25,,Sì,Scolastica
+Marco,Giannini,2,MTIS016004,IIS,Bernalda Ferrandina,Bernalda,MT,Basilicata,22,,Sì,Scolastica
+Federico,Di Noia,4,MTTD020001,ITCG,Manlio Capitolo,Tursi,MT,Basilicata,35,,Sì,Scolastica
+Andrea,Bruneo,4,MTTD020001,ITCG,Manlio Capitolo,Tursi,MT,Basilicata,21,,Sì,Scolastica
+Michele,Boccia,4,NAIS019006,IIS,I.T.C.G. -L. Sc. -L. Da Vinci,Poggiomarino,NA,Campania,40,,Sì,Scolastica
+Emanuele,Ambrosio,3,NAIS019006,IIS,I.T.C.G. -L. Sc. -L. Da Vinci,Poggiomarino,NA,Campania,37,,Sì,Scolastica
+Luigi,Noto,4,NAIS019006,IIS,I.T.C.G. -L. Sc. -L. Da Vinci,Poggiomarino,NA,Campania,35,,Sì,Scolastica
+Francesco,Speranza,4,NAIS019006,IIS,I.T.C.G. -L. Sc. -L. Da Vinci,Poggiomarino,NA,Campania,35,,Sì,Scolastica
+Giuseppe,Scotto D'Apollonia,3,NAIS03200L,IIS,"Liceo Statale ""Ettore Majorana""",Pozzuoli,NA,Campania,21,,Sì,Scolastica
+Francesco,Oriundo,4,NAIS03200L,IIS,"Liceo Statale ""Ettore Majorana""",Pozzuoli,NA,Campania,21,,Sì,Scolastica
+Gennaro,Manganiello,4,NAIS03900B,IIS,Albertini,Nola,NA,Campania,20,,Sì,Scolastica
+Salvatore,Di Rocco,4,NAIS05900L,IIS,Giancarlo Siani,Casalnuovo di Napoli,NA,Campania,21,,Sì,Scolastica
+Rosanna,Pizzo,4,NAIS05900L,IIS,Giancarlo Siani,Casalnuovo di Napoli,NA,Campania,21,,Sì,Scolastica
+Samuele,D'Angelo,3,NAIS077006,IIS,G. Moscati,Sant'Antimo,NA,Campania,24,,Sì,Scolastica
+Ciro,Fantasia,3,NAIS077006,IIS,G. Moscati,Sant'Antimo,NA,Campania,20,,Sì,Scolastica
+Alessandro,Coppola,3,NAIS09100C,IIS,Guido Tassinari,Pozzuoli,NA,Campania,40,,Sì,Scolastica
+Giovanni,Iaquinto,4,NAIS09100C,IIS,Guido Tassinari,Pozzuoli,NA,Campania,40,,Sì,Scolastica
+Carlo,Carendente Giarrusso,3,NAIS09100C,IIS,Guido Tassinari,Pozzuoli,NA,Campania,37,,Sì,Scolastica
+Dario,Coppola,3,NAIS09100C,IIS,Guido Tassinari,Pozzuoli,NA,Campania,36,,Sì,Scolastica
+Vincenzo,Porcelli,3,NAIS09100C,IIS,Guido Tassinari,Pozzuoli,NA,Campania,35,,Sì,Scolastica
+Vincenzo,De Cicco,4,NAIS134005,IIS,Manlio Rossi Doria,Marigliano,NA,Campania,30,,Sì,Scolastica
+Manuel,Guarino,4,NAIS134005,IIS,Manlio Rossi Doria,Marigliano,NA,Campania,22,,Sì,Scolastica
+Vincenzo,Iazzetta,3,NAIS13800C,IIS,C.A. Dalla Chiesa,Afragola,NA,Campania,17,,Sì,Scolastica
+Antonio,Petricciuoli,4,NAIS14600B,IIS,Masullo-Theti,Nola,NA,Campania,35,,Sì,Scolastica
+Alfonso,Tremante,4,NAIS14600B,IIS,Masullo-Theti,Nola,NA,Campania,30,,Sì,Scolastica
+Umberto Francesco,Naclerio,3,NAPC22000A,LC,Giorgio Buchner,Ischia,NA,Campania,45,,Sì,Scolastica
+Antonio,Mazzella,2,NAPC22000A,LC,Giorgio Buchner,Ischia,NA,Campania,35,,Sì,Scolastica
+Silvio,Mattera,2,NAPC22000A,LC,Giorgio Buchner,Ischia,NA,Campania,30,,Sì,Scolastica
+Lorenzo,Perillo,4,NAPS03000A,LS,F. Silvestri,Portici,NA,Campania,31,,Sì,Scolastica
+Daniele,Olita,4,NAPS03000A,LS,F. Silvestri,Portici,NA,Campania,27,,Sì,Scolastica
+Rosario,Borrelli,4,NAPS07000R,LS,Caccioppoli,Napoli,NA,Campania,31,,Sì,Scolastica
+Raffaela,Lagnena,1,NAPS07000R,LS,Caccioppoli,Napoli,NA,Campania,27,,Sì,Scolastica
+Daniele,Mazzone,2,NAPS07000R,LS,Caccioppoli,Napoli,NA,Campania,25,,Sì,Scolastica
+Emanuele,Ortosecco,4,NAPS200008,LS,Calamandrei,Napoli,NA,Campania,49,,Sì,Scolastica
+Valentina,Scioscia,3,NAPS200008,LS,Calamandrei,Napoli,NA,Campania,29,,Sì,Scolastica
+Christian,Manzi,3,NAPS24000P,LS,E. Medi,Cicciano,NA,Campania,41,,Sì,Scolastica
+Davide,Caliendo,4,NAPS24000P,LS,E. Medi,Cicciano,NA,Campania,40,,Sì,Scolastica
+Davide,Mazzarella,3,NAPS24000P,LS,E. Medi,Cicciano,NA,Campania,39,,Sì,Scolastica
+Carmela,Trinchese,3,NAPS24000P,LS,E. Medi,Cicciano,NA,Campania,36,,Sì,Scolastica
+Antonio,Avella,4,NAPS24000P,LS,E. Medi,Cicciano,NA,Campania,35,,Sì,Scolastica
+Mario Pio,Volpe,3,NAPS24000P,LS,E. Medi,Cicciano,NA,Campania,34,,Sì,Scolastica
+Mattia,Volpe,2,NAPS24000P,LS,E. Medi,Cicciano,NA,Campania,33,,Sì,Scolastica
+Vincenzo,D'Angelo,2,NAPS24000P,LS,E. Medi,Cicciano,NA,Campania,32,,Sì,Scolastica
+Samuele,Santorelli,2,NAPS24000P,LS,E. Medi,Cicciano,NA,Campania,32,,Sì,Scolastica
+Antonio,Esposito,2,NAPS24000P,LS,E. Medi,Cicciano,NA,Campania,29,,Sì,Scolastica
+Giovanni,Arbucci,2,NAPS24000P,LS,E. Medi,Cicciano,NA,Campania,27,,Sì,Scolastica
+Gennaro,Lanza,3,NAPS36000R,LS,"""Carlo Urbani"" San Giorgio A Cr.",San Giorgio a Cremano,NA,Campania,44,,Sì,Scolastica
+Gianpaolo,Esposito,3,NAPS36000R,LS,"""Carlo Urbani"" San Giorgio A Cr.",San Giorgio a Cremano,NA,Campania,38,,Sì,Scolastica
+Marco,Sarnataro,4,NAPS36000R,LS,"""Carlo Urbani"" San Giorgio A Cr.",San Giorgio a Cremano,NA,Campania,36,,Sì,Scolastica
+Vittorio,Cibelli,3,NAPS36000R,LS,"""Carlo Urbani"" San Giorgio A Cr.",San Giorgio a Cremano,NA,Campania,35,,Sì,Scolastica
+Kevin,Pappa,3,NAPS36000R,LS,"""Carlo Urbani"" San Giorgio A Cr.",San Giorgio a Cremano,NA,Campania,34,,Sì,Scolastica
+Riccardo,Troiano,4,NAPS36000R,LS,"""Carlo Urbani"" San Giorgio A Cr.",San Giorgio a Cremano,NA,Campania,34,,Sì,Scolastica
+Ilaria,Sorrentino,4,NAPS36000R,LS,"""Carlo Urbani"" San Giorgio A Cr.",San Giorgio a Cremano,NA,Campania,24,,Sì,finalista OIS
+Manuel,Nasti,4,NAPS36000R,LS,"""Carlo Urbani"" San Giorgio A Cr.",San Giorgio a Cremano,NA,Campania,18,,Sì,finalista OIS
+Antonio,Casolaro,4,NAPS36000R,LS,"""Carlo Urbani"" San Giorgio A Cr.",San Giorgio a Cremano,NA,Campania,55,,Sì,nazionalista OII 2023
+Luigi,Calvanese,2,NAPS540009,LS,E. Torricelli,Somma Vesuviana,NA,Campania,45,,Sì,Scolastica
+Luigi Antonio,Iervolino,1,NAPS540009,LS,E. Torricelli,Somma Vesuviana,NA,Campania,35,,Sì,Scolastica
+Federico,Porzio,4,NAPS78000D,LS,Arturo Labriola,Napoli,NA,Campania,44,,Sì,Scolastica
+Alessandro,Schiano,3,NAPS860005,LS,G. Galilei,Napoli,NA,Campania,30,,Sì,Scolastica
+Lorenzo,D'Angelo,3,NAPS860005,LS,G. Galilei,Napoli,NA,Campania,25,,Sì,Scolastica
+Vincenzo,De Rosa,4,NAPS930006,LS,L. Statale Pitagora-B. Croce T. Ann. Ta,Torre Annunziata,NA,Campania,38,,Sì,Scolastica
+Anna Luana,Fattorusso,3,NAPS930006,LS,L. Statale Pitagora-B. Croce T. Ann. Ta,Torre Annunziata,NA,Campania,37,,Sì,Scolastica
+Raffaele,Acunzo,3,NAPS930006,LS,L. Statale Pitagora-B. Croce T. Ann. Ta,Torre Annunziata,NA,Campania,27,131,Sì,preterritoriale
+Andrea,Fiorillo,4,NAPS930006,LS,L. Statale Pitagora-B. Croce T. Ann. Ta,Torre Annunziata,NA,Campania,27,154,Sì,preterritoriale
+Luca,Di Meglio,3,NATD05000B,ITCG,I. T E. Mattei-Casamicciola,Casamicciola Terme,NA,Campania,26,,Sì,Scolastica
+Massimiliano,Falanga,2,NATD05000B,ITCG,I. T E. Mattei-Casamicciola,Casamicciola Terme,NA,Campania,23,,Sì,Scolastica
+Fabio,Improta,3,NATF010007,ITI,Alessandro Volta,Napoli,NA,Campania,31,25,Sì,Scolastica
+Gennaro,Rallo,3,NATF010007,ITI,Alessandro Volta,Napoli,NA,Campania,25,,Sì,Scolastica
+Carmine,Ciccarelli,3,NATF02000T,ITI,Righi,Napoli,NA,Campania,35,,Sì,Scolastica
+Emanuele,Magno,3,NATF02000T,ITI,Righi,Napoli,NA,Campania,22,,Sì,Scolastica
+Manuel Antonio,Ventriglia,3,NATF040003,ITI,E. Barsanti-Pomiglian0 D'Arco,Pomigliano d'Arco,NA,Campania,21,,Sì,Scolastica
+Angelo,Romano,4,NATF040003,ITI,E. Barsanti-Pomiglian0 D'Arco,Pomigliano d'Arco,NA,Campania,21,,Sì,Scolastica
+Giacomo,Vallefuoco,4,NATF05000N,ITI,Giordani- Striano,Napoli,NA,Campania,40,,Sì,Scolastica
+Andrea,Esposito,4,NATF05000N,ITI,Giordani- Striano,Napoli,NA,Campania,35,,Sì,Scolastica
+Kacper,Przybyl,4,NATF10000D,ITI,R. Elia- C/Mmare,Castellammare di Stabia,NA,Campania,35,,Sì,Scolastica
+Francesco,Staiano,3,NATF10000D,ITI,R. Elia- C/Mmare,Castellammare di Stabia,NA,Campania,28,3,Sì,Scolastica
+Mariano,Scarpati,4,NATF14000X,ITI,Enrico Medi,San Giorgio a Cremano,NA,Campania,36,,Sì,Scolastica
+Angelo Antonio,Bevilacqua,4,NATF14000X,ITI,Enrico Medi,San Giorgio a Cremano,NA,Campania,35,,Sì,Scolastica
+Andrea,De Rosa,4,NATF17000Q,ITI,G. Ferraris,Napoli,NA,Campania,32,,Sì,Scolastica
+Damiano,Schiattarella,4,NATF17000Q,ITI,G. Ferraris,Napoli,NA,Campania,31,,Sì,Scolastica
+Andrea,Vanoli,4,NOPS07000Q,LS,Carlo Alberto,Novara,NO,Piemonte,30,,Sì,Scolastica
+Luca,Medina,3,NOTF02000R,ITI,L. Da Vinci-S. Comm. Le Annessa,Borgomanero,NO,Piemonte,35,,Sì,Scolastica
+Arianna,Giuliani,3,NOTF02000R,ITI,L. Da Vinci-S. Comm. Le Annessa,Borgomanero,NO,Piemonte,33,,Sì,Scolastica
+Stella,Cavazzoni,4,NOTF02000R,ITI,L. Da Vinci-S. Comm. Le Annessa,Borgomanero,NO,Piemonte,33,,Sì,Scolastica
+Christian,Mazzola,4,NOTF02000R,ITI,L. Da Vinci-S. Comm. Le Annessa,Borgomanero,NO,Piemonte,33,,Sì,Scolastica
+Fabio,Travaini,4,NOTF02000R,ITI,L. Da Vinci-S. Comm. Le Annessa,Borgomanero,NO,Piemonte,,,Sì,nazionalista OII 2023
+Samuele,Balzano,4,NOTF040002,ITI,G. Fauser,Novara,NO,Piemonte,41,,Sì,Scolastica
+Stella,Fioratto,3,NOTF040002,ITI,G. Fauser,Novara,NO,Piemonte,40,,Sì,Scolastica
+Giada,Croci,3,NOTF040002,ITI,G. Fauser,Novara,NO,Piemonte,37,,Sì,Scolastica
+Michele,Tavarone,3,NOTF040002,ITI,G. Fauser,Novara,NO,Piemonte,33,,Sì,Scolastica
+Giacomo,Piredda,3,ORIS00800B,IIS,G. A. Pischedda,Bosa,OR,Sardegna,21,,Sì,Scolastica
+Bogdan,Novicov,3,ORTF02000D,ITI,Othoca,Oristano,OR,Sardegna,35,,Sì,Scolastica
+Rosario,Yang,4,ORTF02000D,ITI,Othoca,Oristano,OR,Sardegna,33,,Sì,Scolastica
+Carlo Giovanni,Scaglione,3,ORTF02000D,ITI,Othoca,Oristano,OR,Sardegna,,,Sì,finalista OIS
+Nicola,Ghisu,3,ORTF02000D,ITI,Othoca,Oristano,OR,Sardegna,,,Sì,finalista OIS
+Emilio,Pioppo,3,PAIS004009,IIS,Ugo Mursia,Carini,PA,Sicilia,20,,Sì,Scolastica
+Giovanna Angelica,Giunta,3,PAIS004009,IIS,Ugo Mursia,Carini,PA,Sicilia,20,,Sì,Scolastica
+Paolo Francesco,Placa,4,PAIS00700R,IIS,Luigi Failla Tedaldi,Castelbuono,PA,Sicilia,25,,Sì,Scolastica
+Martin,Russo,4,PAIS00700R,IIS,Luigi Failla Tedaldi,Castelbuono,PA,Sicilia,21,,Sì,Scolastica
+Antonio Cirino,Murabito,4,PAIS027002,IIS,A. Volta,Palermo,PA,Sicilia,41,,Sì,Scolastica
+Salvatore,Lombardo,4,PAIS027002,IIS,A. Volta,Palermo,PA,Sicilia,40,,Sì,Scolastica
+Emanuele,Fazio,3,PAIS02900N,IIS,Duca Abruzzi - Libero Grassi,Palermo,PA,Sicilia,36,,Sì,Scolastica
+Gianpaolo,Calabrese,4,PAIS02900N,IIS,Duca Abruzzi - Libero Grassi,Palermo,PA,Sicilia,31,,Sì,Scolastica
+Gioele,Sciara,4,PAPS060003,LS,Ernesto Basile,Palermo,PA,Sicilia,42,,Sì,Scolastica
+Riccardo,D'Amico,3,PAPS060003,LS,Ernesto Basile,Palermo,PA,Sicilia,21,,Sì,Scolastica
+Maurizio,Santalucia,2,PATD09000P,ITCG,Carlo Alberto Dalla Chiesa,Partinico,PA,Sicilia,27,,Sì,Scolastica
+Francesco,Liuzza,2,PATD09000P,ITCG,Carlo Alberto Dalla Chiesa,Partinico,PA,Sicilia,26,,Sì,Scolastica
+Giovanni,Polizzi,2,PATD09000P,ITCG,Carlo Alberto Dalla Chiesa,Partinico,PA,Sicilia,25,,Sì,Scolastica
+Benedetto,Migliore,4,PATF030009,ITI,Vittorio Emanuele III,Palermo,PA,Sicilia,40,,Sì,Scolastica
+Alessandro,Bissanti,2,PATF030009,ITI,Vittorio Emanuele III,Palermo,PA,Sicilia,27,,Sì,Scolastica
+Matteo,Soresi,3,PCIS001003,IIS,Alessandro Volta,Castel San Giovanni,PC,Emilia-Romagna,44,,Sì,Scolastica
+Alessandro,Dealberti,3,PCIS001003,IIS,Alessandro Volta,Castel San Giovanni,PC,Emilia-Romagna,44,,Sì,Scolastica
+Mattia,Alessi,1,PCIS001003,IIS,Alessandro Volta,Castel San Giovanni,PC,Emilia-Romagna,31,,Sì,Scolastica
+Giacomo,Turati,2,PCIS001003,IIS,Alessandro Volta,Castel San Giovanni,PC,Emilia-Romagna,31,,Sì,Scolastica
+Gabriele,Valla,2,PCIS001003,IIS,Alessandro Volta,Castel San Giovanni,PC,Emilia-Romagna,27,,Sì,Scolastica
+Lorenzo,Boselli,4,PCPS02000T,LS,Lorenzo Respighi,Piacenza,PC,Emilia-Romagna,40,,Sì,Scolastica
+Tommaso,Freschi,3,PCPS02000T,LS,Lorenzo Respighi,Piacenza,PC,Emilia-Romagna,35,,Sì,Scolastica
+Tommaso Paolo,Carman,4,PCPS02000T,LS,Lorenzo Respighi,Piacenza,PC,Emilia-Romagna,33,,Sì,Scolastica
+Enzo,Beires Zamboninii,3,PDIS00200D,IIS,A. Einstein,Piove di Sacco,PD,Veneto,50,,Sì,Scolastica
+Niming,Hu,4,PDIS00200D,IIS,A. Einstein,Piove di Sacco,PD,Veneto,46,,Sì,Scolastica
+Emma,Visentin,3,PDIS00200D,IIS,A. Einstein,Piove di Sacco,PD,Veneto,42,,Sì,Scolastica
+Alberto,Burattin,3,PDIS00200D,IIS,A. Einstein,Piove di Sacco,PD,Veneto,36,,Sì,Scolastica
+Leonardo,Volpato,4,PDIS00200D,IIS,A. Einstein,Piove di Sacco,PD,Veneto,35,,Sì,Scolastica
+Gherardo,Brentan,3,PDIS00200D,IIS,A. Einstein,Piove di Sacco,PD,Veneto,33,,Sì,Scolastica
+Samuele,Pizzardo,4,PDIS00200D,IIS,A. Einstein,Piove di Sacco,PD,Veneto,33,,Sì,Scolastica
+Giovanni,Rocca,4,PDIS003009,IIS,Cattaneo-Mattei,Monselice,PD,Veneto,35,,Sì,Scolastica
+Diego,Marcetic,4,PDIS003009,IIS,Cattaneo-Mattei,Monselice,PD,Veneto,32,,Sì,Scolastica
+David Daniel,Guerrero,4,PDIS01400Q,IIS,I. Newton-Pertini,Camposampiero,PD,Veneto,46,,Sì,Scolastica
+Marco,Morosinotto,4,PDIS01400Q,IIS,I. Newton-Pertini,Camposampiero,PD,Veneto,35,,Sì,Scolastica
+Pietro,Battocchio,4,PDIS018003,IIS,Antonio Meucci,Cittadella,PD,Veneto,44,,Sì,Scolastica
+Abdorrahman,Dahbi,4,PDIS018003,IIS,Antonio Meucci,Cittadella,PD,Veneto,42,,Sì,Scolastica
+Alberto,Ambrosi,4,PDIS026002,IIS,Euganeo,Este,PD,Veneto,33,,Sì,Scolastica
+Viktoria Melissa,Rizzo,1,PDIS026002,IIS,Euganeo,Este,PD,Veneto,29,,Sì,Scolastica
+Octavian,Marin,4,PDPS02000C,LS,"""Fermi"" -Pd",Padova,PD,Veneto,40,,Sì,Scolastica
+Grigory,Vodyanov,4,PDPS02000C,LS,"""Fermi"" -Pd",Padova,PD,Veneto,37,,Sì,Scolastica
+Pietro,Gioso,4,PDPS030003,LS,I. Nievo,Padova,PD,Veneto,62,,Sì,Scolastica
+Angelo,Gasparoni,2,PDPS030003,LS,I. Nievo,Padova,PD,Veneto,46,,Sì,Scolastica
+Alberto,Veronese,4,PDPS030003,LS,I. Nievo,Padova,PD,Veneto,33,,Sì,Scolastica
+Tommaso,De Vincentiis,3,PEIS00300X,IIS,E. Alessandrini,Montesilvano,PE,Abruzzo,35,,Sì,Scolastica
+Matteo,Martella,3,PEIS00300X,IIS,E. Alessandrini,Montesilvano,PE,Abruzzo,30,,Sì,Scolastica
+Nicola,Bianchi,4,PEIS00600B,IIS,A. Volta,Pescara,PE,Abruzzo,36,,Sì,Scolastica
+Diego,Santone,3,PEIS00600B,IIS,A. Volta,Pescara,PE,Abruzzo,34,,Sì,Scolastica
+Francesco,Marinucci,4,PEIS00600B,IIS,A. Volta,Pescara,PE,Abruzzo,33,,Sì,Scolastica
+Gabriele,Genovese,2,PEIS00600B,IIS,A. Volta,Pescara,PE,Abruzzo,25,,Sì,Scolastica
+Lorenzo,Mastangelo,2,PEIS00600B,IIS,A. Volta,Pescara,PE,Abruzzo,25,,Sì,Scolastica
+Marco,Lombardo,2,PEPS05000V,LS,C. D'Ascanio,Montesilvano,PE,Abruzzo,50,,Sì,Scolastica
+Maxim Emanuele,Di Lallo,2,PEPS05000V,LS,C. D'Ascanio,Montesilvano,PE,Abruzzo,45,,Sì,Scolastica
+Domenico,Dezio,2,PEPS05000V,LS,C. D'Ascanio,Montesilvano,PE,Abruzzo,30,,Sì,Scolastica
+Shakira,De Felice,2,PEPS05000V,LS,C. D'Ascanio,Montesilvano,PE,Abruzzo,27,82,Sì,Scolastica
+Serena,Marino,4,PETD010008,ITCG,"I.T.C. -I.T.T. -I.T.G. ""T. Acerbo""",Pescara,PE,Abruzzo,30,,Sì,Scolastica
+Manuel,Zherri,4,PETD010008,ITCG,"I.T.C. -I.T.T. -I.T.G. ""T. Acerbo""",Pescara,PE,Abruzzo,25,,Sì,Scolastica
+Raffaele,Baiocco,4,PGIS00400A,IIS,Italo Calvino,Città della Pieve,PG,Umbria,30,,Sì,Scolastica
+Vincenzo,Mozzillo,4,PGIS00400A,IIS,Italo Calvino,Città della Pieve,PG,Umbria,30,,Sì,Scolastica
+Davide,Piccioloni,3,PGIS014001,IIS,Leonardo Da Vinci,Umbertide,PG,Umbria,35,,Sì,Scolastica
+Letizia,Scota,3,PGIS014001,IIS,Leonardo Da Vinci,Umbertide,PG,Umbria,35,40,Sì,Scolastica
+Mattia,Pincanelli,3,PGIS03100P,IIS,G. Spagna - F. Lli Campani,Spoleto,PG,Umbria,30,,Sì,Scolastica
+Elena,Silvestrini,4,PGIS03100P,IIS,G. Spagna - F. Lli Campani,Spoleto,PG,Umbria,22,,Sì,Scolastica
+Alessio,Scarabotta,3,PGIS034006,IIS,Cassata - Gattapone,Gubbio,PG,Umbria,30,25,Sì,Scolastica
+Enea,Taipi,3,PGPS010003,LS,"Ann. Conv. Naz. ""Principe Di Napoli""",Assisi,PG,Umbria,53,,Sì,Scolastica
+Ulisse,De Giuli,3,PGPS010003,LS,"Ann. Conv. Naz. ""Principe Di Napoli""",Assisi,PG,Umbria,32,,Sì,Scolastica
+Andrei,Schiopu,4,PGTD11000Q,ITC,"I.T.E.T. ""Aldo Capitini""",Perugia,PG,Umbria,34,,Sì,Scolastica
+Riccardo,Prelati,3,PGTD11000Q,ITC,"I.T.E.T. ""Aldo Capitini""",Perugia,PG,Umbria,26,,Sì,Scolastica
+Lorenzo,Barchiesi,2,PGTE01000A,ITAS,"I.T.A.S. ""Giordano Bruno""",Perugia,PG,Umbria,32,,Sì,Scolastica
+Andrea,Gammelli,2,PGTE01000A,ITAS,"I.T.A.S. ""Giordano Bruno""",Perugia,PG,Umbria,30,,Sì,Scolastica
+Francesco,Migliorucci,4,PGTF19000V,ITI,Franchetti-Salviani,Città di Castello,PG,Umbria,40,,Sì,Scolastica
+Sara,Bacciardi,4,PIIS00200B,IIS,Liceo Xxv Aprile,Pontedera,PI,Toscana,44,,Sì,Scolastica
+Matteo,Puccinelli,3,PIIS00200B,IIS,Liceo Xxv Aprile,Pontedera,PI,Toscana,26,,Sì,Scolastica
+Leonardo,Bonadonna,4,PIIS00700E,IIS,Galilei-Pacinotti,Pisa,PI,Toscana,30,,Sì,Scolastica
+Simone,Nisi,4,PIIS00700E,IIS,Galilei-Pacinotti,Pisa,PI,Toscana,25,,Sì,Scolastica
+Andrea,Vanni,4,PIIS00800A,IIS,L. Da Vinci-Fascetti,Pisa,PI,Toscana,46,,Sì,Scolastica
+Pietro,Battistini,4,PIIS00800A,IIS,L. Da Vinci-Fascetti,Pisa,PI,Toscana,40,,Sì,Scolastica
+Filippo,Corti,4,PIIS00800A,IIS,L. Da Vinci-Fascetti,Pisa,PI,Toscana,37,,Sì,Scolastica
+Lorenzo,Bertozzi,4,PIIS00800A,IIS,L. Da Vinci-Fascetti,Pisa,PI,Toscana,36,,Sì,Scolastica
+Jacopo,Parenti,4,PIIS00800A,IIS,L. Da Vinci-Fascetti,Pisa,PI,Toscana,36,,Sì,Scolastica
+Neil Engelbert,Baterisna,3,PIIS00800A,IIS,L. Da Vinci-Fascetti,Pisa,PI,Toscana,35,,Sì,Scolastica
+Leonardo,Caperozzi,4,PIIS00800A,IIS,L. Da Vinci-Fascetti,Pisa,PI,Toscana,35,,Sì,Scolastica
+Giulio,Mannari,4,PIPS02000A,LS,U. Dini,Pisa,PI,Toscana,52,145,Sì,Scolastica
+Giovanni Giorgio Renzo,Zippel,4,PIPS02000A,LS,U. Dini,Pisa,PI,Toscana,43,,Sì,Scolastica
+Cristian,Lonigro,4,PIPS02000A,LS,U. Dini,Pisa,PI,Toscana,40,,Sì,Scolastica
+Alberto,Maestro,4,PIPS02000A,LS,U. Dini,Pisa,PI,Toscana,39,,Sì,Scolastica
+Paul,Kocian,4,PIPS04000G,LS,F. Buonarroti,Pisa,PI,Toscana,41,,Sì,Scolastica
+Marco,Metallo,4,PIPS04000G,LS,F. Buonarroti,Pisa,PI,Toscana,32,,Sì,Scolastica
+Diego,Stefanini,4,PITF030003,ITI,G. Marconi,Pontedera,PI,Toscana,48,,Sì,Scolastica
+Alessandro,Pasqualetti,4,PITF030003,ITI,G. Marconi,Pontedera,PI,Toscana,43,,Sì,Scolastica
+Mikele,Cullhaj,4,PITF030003,ITI,G. Marconi,Pontedera,PI,Toscana,39,,Sì,Scolastica
+Leonardo,Lapolla,4,PITF030003,ITI,G. Marconi,Pontedera,PI,Toscana,38,,Sì,Scolastica
+Alessio,Garibaldi,4,PITF030003,ITI,G. Marconi,Pontedera,PI,Toscana,38,,Sì,Scolastica
+Nicola,Hu,4,PITF030003,ITI,G. Marconi,Pontedera,PI,Toscana,34,,Sì,Scolastica
+Tommaso,Bassoni,4,PITF030003,ITI,G. Marconi,Pontedera,PI,Toscana,30,150,Sì,preterritoriale
+Matteo,Ghirard,2,PNIS00200X,IIS,G.A. Pujati,Sacile,PN,Friuli-Venezia Giulia,42,,Sì,Scolastica
+Andrea,Moras,2,PNIS00200X,IIS,G.A. Pujati,Sacile,PN,Friuli-Venezia Giulia,20,,Sì,Scolastica
+Anna,Barel,3,PNIS006007,IIS,Sacile - Brugnera,Sacile,PN,Friuli-Venezia Giulia,26,,Sì,Scolastica
+Alessandro,Dal Cin,4,PNIS006007,IIS,Sacile - Brugnera,Sacile,PN,Friuli-Venezia Giulia,26,,Sì,Scolastica
+Tobia,Tosin,3,PNPS010008,LS,M. Grigoletti,Pordenone,PN,Friuli-Venezia Giulia,65,,Sì,Scolastica
+Federico,Bortolato,4,PNPS010008,LS,M. Grigoletti,Pordenone,PN,Friuli-Venezia Giulia,41,,Sì,Scolastica
+Lorenzo,Puppi,4,PNPS010008,LS,M. Grigoletti,Pordenone,PN,Friuli-Venezia Giulia,38,,Sì,Scolastica
+Sebastiano,Scanavacca,4,PNPS010008,LS,M. Grigoletti,Pordenone,PN,Friuli-Venezia Giulia,37,,Sì,Scolastica
+Giovanni,Tess,2,PNPS010008,LS,M. Grigoletti,Pordenone,PN,Friuli-Venezia Giulia,34,,Sì,Scolastica
+Andrea,Tanzi,4,PNPS010008,LS,M. Grigoletti,Pordenone,PN,Friuli-Venezia Giulia,46,129,Sì,nazionalista OII 2023
+Enrico,Zanolin,3,PNTF01000A,ITI,Kennedy,Pordenone,PN,Friuli-Venezia Giulia,36,,Sì,Scolastica
+Fernando,Nardillo,3,PNTF01000A,ITI,Kennedy,Pordenone,PN,Friuli-Venezia Giulia,31,,Sì,Scolastica
+Dario,Agati,4,POTF010003,ITI,T. Buzzi,Prato,PO,Toscana,50,,Sì,Scolastica
+Leonardo,Minervino,4,POTF010003,ITI,T. Buzzi,Prato,PO,Toscana,46,,Sì,Scolastica
+Alessandro,Gamberoni,4,POTF010003,ITI,T. Buzzi,Prato,PO,Toscana,45,,Sì,Scolastica
+Margherita,Lastrucci,3,POTF010003,ITI,T. Buzzi,Prato,PO,Toscana,38,,Sì,Scolastica
+Leon,Chen,4,POTF010003,ITI,T. Buzzi,Prato,PO,Toscana,38,,Sì,Scolastica
+Samuele,Nigro,4,POTF010003,ITI,T. Buzzi,Prato,PO,Toscana,37,,Sì,Scolastica
+Giulio,Piacenti,3,POTF010003,ITI,T. Buzzi,Prato,PO,Toscana,36,,Sì,Scolastica
+Daniel,Caputo,3,POTF010003,ITI,T. Buzzi,Prato,PO,Toscana,35,,Sì,Scolastica
+Filippo,Benucci,3,POTF010003,ITI,T. Buzzi,Prato,PO,Toscana,35,,Sì,Scolastica
+Gabriele,Deda,4,POTF010003,ITI,T. Buzzi,Prato,PO,Toscana,34,,Sì,Scolastica
+Simone,Panci,3,POTF010003,ITI,T. Buzzi,Prato,PO,Toscana,33,,Sì,Scolastica
+Andy,Huang,3,POTF010003,ITI,T. Buzzi,Prato,PO,Toscana,28,144,Sì,preterritoriale
+Eugeniu,Dobic,4,PRIS00700V,IIS,Berenini,Fidenza,PR,Emilia-Romagna,25,,Sì,Scolastica
+Giorgia,Morelli,3,PRIS00800P,IIS,"""Carlo Emilio Gadda"" Sede Fornovo Taro",Fornovo di Taro,PR,Emilia-Romagna,47,,Sì,Scolastica
+Bruno,Zani,3,PRIS00800P,IIS,"""Carlo Emilio Gadda"" Sede Fornovo Taro",Fornovo di Taro,PR,Emilia-Romagna,39,,Sì,Scolastica
+Nicolò,Delnevo,3,PRIS00800P,IIS,"""Carlo Emilio Gadda"" Sede Fornovo Taro",Fornovo di Taro,PR,Emilia-Romagna,34,,Sì,Scolastica
+Simone,Tignonsini,3,PRPS030009,LS,Marconi,Parma,PR,Emilia-Romagna,40,,Sì,Scolastica
+Diljit,Singh,4,PRPS030009,LS,Marconi,Parma,PR,Emilia-Romagna,40,,Sì,Scolastica
+Alexandru,Taut,2,PRPS030009,LS,Marconi,Parma,PR,Emilia-Romagna,39,,Sì,Scolastica
+Alice,Carrara,4,PRPS030009,LS,Marconi,Parma,PR,Emilia-Romagna,35,,Sì,Scolastica
+Amedeo,Cavalli,4,PRPS030009,LS,Marconi,Parma,PR,Emilia-Romagna,35,,Sì,Scolastica
+Emanuele,Alfieri,2,PRPS030009,LS,Marconi,Parma,PR,Emilia-Romagna,27,,Sì,Scolastica
+Alex,Cantemir,4,PRPS04000X,LS,Ulivi,Parma,PR,Emilia-Romagna,45,,Sì,Scolastica
+Annita Rachele,Ronchini,2,PRPS04000X,LS,Ulivi,Parma,PR,Emilia-Romagna,35,,Sì,Scolastica
+Edoardo,Panara,2,PRPS04000X,LS,Ulivi,Parma,PR,Emilia-Romagna,32,,Sì,Scolastica
+Giacomo,De Florio,2,PRPS04000X,LS,Ulivi,Parma,PR,Emilia-Romagna,26,,Sì,Scolastica
+Tommaso,Ziveri,3,PRTF010006,ITI,Leonardo Da Vinci,Parma,PR,Emilia-Romagna,52,,Sì,Scolastica
+Francesco,Martemucci,3,PRTF010006,ITI,Leonardo Da Vinci,Parma,PR,Emilia-Romagna,47,,Sì,Scolastica
+Mattia,Bonazzi,4,PRTF010006,ITI,Leonardo Da Vinci,Parma,PR,Emilia-Romagna,43,,Sì,Scolastica
+Alessandro,Danilov,4,PRTF010006,ITI,Leonardo Da Vinci,Parma,PR,Emilia-Romagna,41,,Sì,Scolastica
+Matthew,Gasparetti,3,PRTF010006,ITI,Leonardo Da Vinci,Parma,PR,Emilia-Romagna,40,91,Sì,Scolastica
+Harold,Boado,4,PRTF010006,ITI,Leonardo Da Vinci,Parma,PR,Emilia-Romagna,35,,Sì,Scolastica
+Stefano,Cuneo,4,PRTF010006,ITI,Leonardo Da Vinci,Parma,PR,Emilia-Romagna,35,,Sì,Scolastica
+Victor,Cinca,4,PRTF010006,ITI,Leonardo Da Vinci,Parma,PR,Emilia-Romagna,35,,Sì,Scolastica
+David,Cirstea,4,PRTF010006,ITI,Leonardo Da Vinci,Parma,PR,Emilia-Romagna,35,,Sì,Scolastica
+Alessandro,Raschi,1,PRTF010006,ITI,Leonardo Da Vinci,Parma,PR,Emilia-Romagna,34,,Sì,Scolastica
+Oreste,Valente,4,PSIS00100B,IIS,"Omnicomprensivo ""Montefeltro""",Sassocorvaro Auditore,PU,Marche,26,,Sì,Scolastica
+Simone,Grassi,3,PSIS00100B,IIS,"Omnicomprensivo ""Montefeltro""",Sassocorvaro Auditore,PU,Marche,23,,Sì,Scolastica
+Lapo,Moretti,3,PSIS003003,IIS,Polo 3,Fano,PU,Marche,19,,Sì,Scolastica
+Camilla,Dhima,4,PSIS00600E,IIS,Luigi Donati,Fossombrone,PU,Marche,36,,Sì,Scolastica
+Ginevra,Principi,3,PSIS00600E,IIS,Luigi Donati,Fossombrone,PU,Marche,20,,Sì,Scolastica
+Matteo,Birarelli,3,PSTF01000N,ITI,"S. ""E. Mattei""",Urbino,PU,Marche,40,,Sì,Scolastica
+Francesco,Rosca,3,PSTF01000N,ITI,"S. ""E. Mattei""",Urbino,PU,Marche,35,,Sì,Scolastica
+Alice,Zuccarello,4,PTPM02000A,IM,Statale Lorenzini,Pescia,PT,Toscana,22,,Sì,Scolastica
+Alberto,Fabianelli,3,PTPS01000P,LS,"Statale ""A. Di Savoia""",Pistoia,PT,Toscana,52,,Sì,Scolastica
+Lorenzo,Caioni,2,PTPS01000P,LS,"Statale ""A. Di Savoia""",Pistoia,PT,Toscana,41,,Sì,Scolastica
+Noel,Latour,4,PTPS01000P,LS,"Statale ""A. Di Savoia""",Pistoia,PT,Toscana,39,,Sì,Scolastica
+Matteo,Braida,3,PTPS01000P,LS,"Statale ""A. Di Savoia""",Pistoia,PT,Toscana,36,,Sì,Scolastica
+Giacomo,Zei,4,PTPS01000P,LS,"Statale ""A. Di Savoia""",Pistoia,PT,Toscana,35,,Sì,Scolastica
+Stefano,Piccininni,2,PTPS01000P,LS,"Statale ""A. Di Savoia""",Pistoia,PT,Toscana,31,,Sì,Scolastica
+Ettore,Miniati,2,PTPS01000P,LS,"Statale ""A. Di Savoia""",Pistoia,PT,Toscana,28,,Sì,Scolastica
+Niccolò,Baronti,4,PTPS01000P,LS,"Statale ""A. Di Savoia""",Pistoia,PT,Toscana,,,Sì,nazionalista OII 2023
+Adrian,Deza Cruz,4,PTTD01000E,ITC,F. Marchi,Pescia,PT,Toscana,30,,Sì,Scolastica
+Angelos,Sokoli,4,PTTD01000E,ITC,F. Marchi,Pescia,PT,Toscana,25,,Sì,Scolastica
+Giacomo,Potenti,3,PTTD020005,ITC,Pacini,Pistoia,PT,Toscana,56,,Sì,Scolastica
+Deva,Carrai,3,PTTD020005,ITC,Pacini,Pistoia,PT,Toscana,39,,Sì,Scolastica
+Ludovica,Pagni,4,PTTD020005,ITC,Pacini,Pistoia,PT,Toscana,39,,Sì,Scolastica
+Matteo,Caramelli,3,PTTD020005,ITC,Pacini,Pistoia,PT,Toscana,38,,Sì,Scolastica
+Paolo,Salvatore,3,PVTF01000B,ITI,Cardano,Pavia,PV,Lombardia,45,,Sì,Scolastica
+Vittoria,Colantoni,2,PVTF01000B,ITI,Cardano,Pavia,PV,Lombardia,40,,Sì,Scolastica
+Camilla,Terno,4,PVTF01000B,ITI,Cardano,Pavia,PV,Lombardia,40,,Sì,Scolastica
+Carlo Andrea,Cattaneo,2,PVTF01000B,ITI,Cardano,Pavia,PV,Lombardia,31,,Sì,Scolastica
+Marco,Canziani,2,PVTF01000B,ITI,Cardano,Pavia,PV,Lombardia,28,,Sì,Scolastica
+Marco,Cinieri,3,PVTF01000B,ITI,Cardano,Pavia,PV,Lombardia,42,,Sì,nazionalista OII 2023
+Marco,Incamicia,4,PZIS002003,IIS,"""G. Fortunato"" Rionero In V.",Rionero in Vulture,PZ,Basilicata,26,,Sì,Scolastica
+Mauro,Silvano,3,PZIS002003,IIS,"""G. Fortunato"" Rionero In V.",Rionero in Vulture,PZ,Basilicata,20,,Sì,Scolastica
+Andrea,Alagia,4,PZIS00600A,IIS,N. Miraglia,Lauria,PZ,Basilicata,30,,Sì,Scolastica
+Luigi,Mele,4,PZIS00600A,IIS,N. Miraglia,Lauria,PZ,Basilicata,29,25,Sì,Scolastica
+Andrea,Russillo,3,PZIS022008,IIS,Einstein - De Lorenzo,Potenza,PZ,Basilicata,26,,Sì,Scolastica
+Luca,Russillo,4,PZIS022008,IIS,Einstein - De Lorenzo,Potenza,PZ,Basilicata,24,,Sì,Scolastica
+Michele Gabriele,Di Bello,3,PZPS12000V,LS,Pasolini,Potenza,PZ,Basilicata,44,,Sì,Scolastica
+Sergio,Vaccaro,3,PZPS12000V,LS,Pasolini,Potenza,PZ,Basilicata,24,,Sì,Scolastica
+Matilde,Bandini,4,RAPC04000C,LC,Liceo Torricelli - Ballardini,Faenza,RA,Emilia-Romagna,42,,Sì,Scolastica
+Lorenzo,Bianchi,4,RAPS01000Q,LS,A. Oriani,Ravenna,RA,Emilia-Romagna,65,,Sì,Scolastica
+Valerio,Crosa,3,RAPS01000Q,LS,A. Oriani,Ravenna,RA,Emilia-Romagna,51,,Sì,Scolastica
+Gioele,Stella,3,RAPS01000Q,LS,A. Oriani,Ravenna,RA,Emilia-Romagna,50,,Sì,Scolastica
+Francesco,Gatta,4,RAPS01000Q,LS,A. Oriani,Ravenna,RA,Emilia-Romagna,45,,Sì,Scolastica
+Lorenzo,Zaccari,4,RAPS030001,LS,"Liceo Lugo ""G. Ricci Curbastro""",Lugo,RA,Emilia-Romagna,31,,Sì,Scolastica
+Mattia,Tamburini,4,RAPS030001,LS,"Liceo Lugo ""G. Ricci Curbastro""",Lugo,RA,Emilia-Romagna,26,,Sì,Scolastica
+Riccardo,Sangiovanni,3,RATF01000T,ITI,Nullo Baldini,Ravenna,RA,Emilia-Romagna,41,,Sì,Scolastica
+Claudio,Scarano,4,RATF01000T,ITI,Nullo Baldini,Ravenna,RA,Emilia-Romagna,35,,Sì,Scolastica
+Christian,Fiore,4,RATF01000T,ITI,Nullo Baldini,Ravenna,RA,Emilia-Romagna,,200,Sì,preterritoriale
+Nicola,Lopresti,4,RCIS03800B,IIS,Mazzone,Roccella Ionica,RC,Calabria,22,,Sì,Scolastica
+Cristian,Coluccio,4,RCIS03800B,IIS,Mazzone,Roccella Ionica,RC,Calabria,21,,Sì,Scolastica
+Antonino Domenico,Roscitano,4,RCPS010001,LS,Leonardo Da Vinci,Reggio di Calabria,RC,Calabria,28,,Sì,Scolastica
+Francesco,Genio,4,RCPS010001,LS,Leonardo Da Vinci,Reggio di Calabria,RC,Calabria,28,,Sì,Scolastica
+Antonio,Catalano,3,RCTF05000D,ITI,"""Panella /Vallauri"" Reggio Calabria",Reggio di Calabria,RC,Calabria,30,,Sì,Scolastica
+Daniele Santo,Malara,3,RCTF05000D,ITI,"""Panella /Vallauri"" Reggio Calabria",Reggio di Calabria,RC,Calabria,27,,Sì,Scolastica
+Omar,Khaliss,3,REIS00200T,IIS,Cattaneo/Dall'Aglio,Castelnovo ne' Monti,RE,Emilia-Romagna,42,,Sì,Scolastica
+Martina,Zanelli,2,REIS00200T,IIS,Cattaneo/Dall'Aglio,Castelnovo ne' Monti,RE,Emilia-Romagna,37,,Sì,Scolastica
+Alice,Viappiani,4,REIS00200T,IIS,Cattaneo/Dall'Aglio,Castelnovo ne' Monti,RE,Emilia-Romagna,35,,Sì,Scolastica
+Tommaso,Iotti,2,REIS00200T,IIS,Cattaneo/Dall'Aglio,Castelnovo ne' Monti,RE,Emilia-Romagna,31,,Sì,Scolastica
+Armando,Jaku,1,REIS00200T,IIS,Cattaneo/Dall'Aglio,Castelnovo ne' Monti,RE,Emilia-Romagna,30,,Sì,Scolastica
+Samuele,Romani,3,REIS00300N,IIS,P. Gobetti,Scandiano,RE,Emilia-Romagna,37,,Sì,Scolastica
+Riccardo,Monti,4,REIS00300N,IIS,P. Gobetti,Scandiano,RE,Emilia-Romagna,35,,Sì,Scolastica
+Gian Pietro,Borghi,4,REIS00300N,IIS,P. Gobetti,Scandiano,RE,Emilia-Romagna,33,,Sì,Scolastica
+Davide,Melarato,2,REIS00400D,IIS,Silvio D'Arzo,Montecchio Emilia,RE,Emilia-Romagna,48,,Sì,Scolastica
+Davide,Braglia,3,REIS00400D,IIS,Silvio D'Arzo,Montecchio Emilia,RE,Emilia-Romagna,43,,Sì,Scolastica
+Damiano,Grasselli,4,REIS00900L,IIS,A. Zanelli,Reggio nell'Emilia,RE,Emilia-Romagna,42,,Sì,Scolastica
+Yuuki,Spallanzani,4,REIS00900L,IIS,A. Zanelli,Reggio nell'Emilia,RE,Emilia-Romagna,41,,Sì,Scolastica
+Marco,Comastri,4,REIS00900L,IIS,A. Zanelli,Reggio nell'Emilia,RE,Emilia-Romagna,41,,Sì,Scolastica
+Tommaso,Govi,2,REIS00900L,IIS,A. Zanelli,Reggio nell'Emilia,RE,Emilia-Romagna,38,,Sì,Scolastica
+Alessia,Codeluppi,3,REIS00900L,IIS,A. Zanelli,Reggio nell'Emilia,RE,Emilia-Romagna,37,,Sì,Scolastica
+Leonardo,Croci,3,REIS00900L,IIS,A. Zanelli,Reggio nell'Emilia,RE,Emilia-Romagna,35,,Sì,Scolastica
+Federico,Mongelli,3,REIS00900L,IIS,A. Zanelli,Reggio nell'Emilia,RE,Emilia-Romagna,35,,Sì,Scolastica
+Simone,Costi,3,REIS00900L,IIS,A. Zanelli,Reggio nell'Emilia,RE,Emilia-Romagna,33,,Sì,Scolastica
+Giacomo,Campi,2,REIS00900L,IIS,A. Zanelli,Reggio nell'Emilia,RE,Emilia-Romagna,29,,Sì,Scolastica
+Alessandro,Rainieri,4,REIS00900L,IIS,A. Zanelli,Reggio nell'Emilia,RE,Emilia-Romagna,28,162,Sì,preterritoriale
+Paolo,Gangemi,2,REIS00900L,IIS,A. Zanelli,Reggio nell'Emilia,RE,Emilia-Romagna,17,111,Sì,preterritoriale
+Manuele,Mazzali,3,REIS01600Q,IIS,Blaise Pascal,Reggio nell'Emilia,RE,Emilia-Romagna,53,,Sì,Scolastica
+Fabio,Isernia,4,REIS01600Q,IIS,Blaise Pascal,Reggio nell'Emilia,RE,Emilia-Romagna,41,,Sì,Scolastica
+Serena,Berretti,3,REIS01600Q,IIS,Blaise Pascal,Reggio nell'Emilia,RE,Emilia-Romagna,37,,Sì,Scolastica
+Manuel,Andrein,3,REIS01600Q,IIS,Blaise Pascal,Reggio nell'Emilia,RE,Emilia-Romagna,36,,Sì,Scolastica
+Leonardo,Lasagni,3,REIS01600Q,IIS,Blaise Pascal,Reggio nell'Emilia,RE,Emilia-Romagna,31,200,Sì,preterritoriale
+Elisa,Wu,3,REIS01600Q,IIS,Blaise Pascal,Reggio nell'Emilia,RE,Emilia-Romagna,30,167,Sì,preterritoriale
+Sophie Matilde,Boari,4,REIS01600Q,IIS,Blaise Pascal,Reggio nell'Emilia,RE,Emilia-Romagna,,,Sì,nazionalista OII 2023
+Cristian,Spagnolo,3,REPC030008,LC,Ariosto Spallanzani Sezz. Cl. E Sc.,Reggio nell'Emilia,RE,Emilia-Romagna,45,,Sì,Scolastica
+Andrea,Manzo,4,REPC030008,LC,Ariosto Spallanzani Sezz. Cl. E Sc.,Reggio nell'Emilia,RE,Emilia-Romagna,42,175,Sì,Scolastica
+Nicholas,Martinelli,3,REPC030008,LC,Ariosto Spallanzani Sezz. Cl. E Sc.,Reggio nell'Emilia,RE,Emilia-Romagna,36,,Sì,Scolastica
+Enrico,Torri,3,REPC030008,LC,Ariosto Spallanzani Sezz. Cl. E Sc.,Reggio nell'Emilia,RE,Emilia-Romagna,15,169,Sì,preterritoriale
+Matteo,Zambelli,3,RETD02000L,ITCG,Luigi Einaudi Con Sez. Ind.,Correggio,RE,Emilia-Romagna,37,,Sì,Scolastica
+Filippo,Guerzoni,4,RETD02000L,ITCG,Luigi Einaudi Con Sez. Ind.,Correggio,RE,Emilia-Romagna,37,,Sì,Scolastica
+Sara,Boni,4,RETD09000V,ITC,Scaruffi Levi Tricolore,Reggio nell'Emilia,RE,Emilia-Romagna,20,,Sì,Scolastica
+Leonardo,Micci,4,RGIS003008,IIS,Giosue' Carducci,Comiso,RG,Sicilia,30,,Sì,Scolastica
+Nunzio,Calvo,4,RGIS003008,IIS,Giosue' Carducci,Comiso,RG,Sicilia,28,,Sì,Scolastica
+Nicolò,Sanzone,3,RGIS017006,IIS,Enrico Fermi,Vittoria,RG,Sicilia,56,,Sì,Scolastica
+Riccardo,Bellassai,3,RGIS017006,IIS,Enrico Fermi,Vittoria,RG,Sicilia,47,,Sì,Scolastica
+Domenico,Catiti,3,RGIS02100T,IIS,Archimede,Modica,RG,Sicilia,25,,Sì,Scolastica
+Lorenzo,Modica,3,RGIS02100T,IIS,Archimede,Modica,RG,Sicilia,24,,Sì,Scolastica
+Francesco Rosario,Bartoli,4,RGPS01000R,LS,Fermi,Ragusa,RG,Sicilia,57,,Sì,Scolastica
+Davide,Ferrera,3,RGPS01000R,LS,Fermi,Ragusa,RG,Sicilia,34,,Sì,Scolastica
+Valerio,Nanni,3,RMIS00900E,IIS,I.T.C. Di Vittorio-Iti Lattanzio,Roma,RM,Lazio,32,,Sì,Scolastica
+Matteo,Pomponi,4,RMIS00900E,IIS,I.T.C. Di Vittorio-Iti Lattanzio,Roma,RM,Lazio,30,,Sì,Scolastica
+Luca,Filadi,3,RMIS022001,IIS,J. Von Neumann,Roma,RM,Lazio,55,,Sì,Scolastica
+Adonis Adonijah,Owiriwa,4,RMIS022001,IIS,J. Von Neumann,Roma,RM,Lazio,31,,Sì,Scolastica
+Marco,D'Amico,2,RMIS077005,IIS,Paolo Borsellino E Giovanni Falcone,Zagarolo,RM,Lazio,70,,Sì,Scolastica
+Flavio,Cerboni,4,RMIS077005,IIS,Paolo Borsellino E Giovanni Falcone,Zagarolo,RM,Lazio,40,,Sì,Scolastica
+Lorenzo,Ponza,2,RMIS077005,IIS,Paolo Borsellino E Giovanni Falcone,Zagarolo,RM,Lazio,36,,Sì,Scolastica
+Matteo,Di Carlo,4,RMIS077005,IIS,Paolo Borsellino E Giovanni Falcone,Zagarolo,RM,Lazio,35,,Sì,Scolastica
+Valerio,Accadia,3,RMIS077005,IIS,Paolo Borsellino E Giovanni Falcone,Zagarolo,RM,Lazio,33,,Sì,Scolastica
+Andrea,Colantoni,3,RMIS08100R,IIS,Enzo Ferrari,Roma,RM,Lazio,41,,Sì,Scolastica
+Tommaso,De Santis,4,RMIS08100R,IIS,Enzo Ferrari,Roma,RM,Lazio,24,,Sì,Scolastica
+Francesco,Zagaglia,3,RMIS084008,IIS,Federico Caffe',Roma,RM,Lazio,36,,Sì,Scolastica
+Francesco,Morganti,3,RMIS084008,IIS,Federico Caffe',Roma,RM,Lazio,25,,Sì,Scolastica
+Flavio,Mazzetti,3,RMIS09100B,IIS,Via Dei Papareschi,Roma,RM,Lazio,30,,Sì,Scolastica
+Anci,Zhu,3,RMIS09100B,IIS,Via Dei Papareschi,Roma,RM,Lazio,25,,Sì,Scolastica
+Kiran,Longo,2,RMIS10800G,IIS,Via Silvestri 301,Roma,RM,Lazio,30,,Sì,Scolastica
+Stella,Crotti,1,RMIS10800G,IIS,Via Silvestri 301,Roma,RM,Lazio,23,,Sì,Scolastica
+Marco,Pallante,3,RMIS121002,IIS,Giorgi - Woolf,Roma,RM,Lazio,48,,Sì,Scolastica
+Federica,Gaudiosi,3,RMIS121002,IIS,Giorgi - Woolf,Roma,RM,Lazio,30,,Sì,Scolastica
+Roberto,Caldei,1,RMPQ010009,IM,Montessori,Roma,RM,Lazio,24,,Sì,Scolastica
+Domenico,Falduto,1,RMPQ010009,IM,Montessori,Roma,RM,Lazio,23,,Sì,Scolastica
+Riccardo,Bedini,4,RMPS010004,LS,Antonio Labriola,Roma,RM,Lazio,25,,Sì,Scolastica
+Gabriele,Tuscano,3,RMPS010004,LS,Antonio Labriola,Roma,RM,Lazio,21,,Sì,Scolastica
+Lorenzo,Leka,4,RMPS110001,LS,G. Peano,Monterotondo,RM,Lazio,52,,Sì,Scolastica
+Teresa,Cecconi Cobián,4,RMPS110001,LS,G. Peano,Monterotondo,RM,Lazio,40,,Sì,Scolastica
+Vincenzo,Jiang,4,RMPS17000L,LS,Newton,Roma,RM,Lazio,43,,Sì,Scolastica
+Cristiano,Bonanni,2,RMPS17000L,LS,Newton,Roma,RM,Lazio,35,,Sì,Scolastica
+Gabriele,Cappelletti,2,RMPS17000L,LS,Newton,Roma,RM,Lazio,35,,Sì,Scolastica
+Alessio,Como,2,RMPS17000L,LS,Newton,Roma,RM,Lazio,29,,Sì,Scolastica
+Alessandro,Zarrillo,2,RMPS17000L,LS,Newton,Roma,RM,Lazio,25,,Sì,Scolastica
+Annalena Jolanda,Giordano,3,RMPS24000N,LS,Morgagni,Roma,RM,Lazio,61,,Sì,Scolastica
+Alessio,Nimis,4,RMPS24000N,LS,Morgagni,Roma,RM,Lazio,37,,Sì,Scolastica
+Fabio Massimo,De Santis,2,RMPS24000N,LS,Morgagni,Roma,RM,Lazio,26,,Sì,Scolastica
+Daniele,Paliotto,2,RMPS24000N,LS,Morgagni,Roma,RM,Lazio,15,105,Sì,preterritoriale
+Alberto,Quondam,3,RMPS280004,LS,Righi,Roma,RM,Lazio,60,,Sì,Scolastica
+Yilun,Liu,3,RMPS280004,LS,Righi,Roma,RM,Lazio,55,,Sì,Scolastica
+Filippo,Nucara,3,RMPS280004,LS,Righi,Roma,RM,Lazio,51,,Sì,Scolastica
+Tommaso,Prosperini,3,RMPS280004,LS,Righi,Roma,RM,Lazio,44,,Sì,Scolastica
+Giacomo Charles,Rouse,3,RMPS280004,LS,Righi,Roma,RM,Lazio,40,,Sì,Scolastica
+Pierpaolo,Gabrielli,3,RMPS280004,LS,Righi,Roma,RM,Lazio,36,,Sì,Scolastica
+Mattia,Francescangeli,2,RMPS280004,LS,Righi,Roma,RM,Lazio,32,,Sì,Scolastica
+Leonardo,Zeppieri,4,RMPS29000P,LS,Vito Volterra,Ciampino,RM,Lazio,61,,Sì,Scolastica
+Matteo,Tacconi,4,RMPS29000P,LS,Vito Volterra,Ciampino,RM,Lazio,60,,Sì,Scolastica
+Lorenzo,Cappellari,4,RMPS29000P,LS,Vito Volterra,Ciampino,RM,Lazio,52,,Sì,Scolastica
+Gabriele,Germani,2,RMPS29000P,LS,Vito Volterra,Ciampino,RM,Lazio,51,,Sì,Scolastica
+Flavio,Cappai,2,RMPS29000P,LS,Vito Volterra,Ciampino,RM,Lazio,45,,Sì,Scolastica
+Filippo,Conti,2,RMPS29000P,LS,Vito Volterra,Ciampino,RM,Lazio,44,,Sì,Scolastica
+Leandro,Lucarelli,3,RMPS29000P,LS,Vito Volterra,Ciampino,RM,Lazio,35,,Sì,Scolastica
+Federico James,Grisanzio,4,RMPS29000P,LS,Vito Volterra,Ciampino,RM,Lazio,35,,Sì,Scolastica
+Leonardo Giovanni,Selbach,4,RMPS29000P,LS,Vito Volterra,Ciampino,RM,Lazio,51,50,Sì,nazionalista OII 2023
+Francesco,De Vecchi,4,RMTD030005,ITC,V. Arangio Ruiz,Roma,RM,Lazio,41,,Sì,Scolastica
+Gioele,Magalotti,3,RMTD030005,ITC,V. Arangio Ruiz,Roma,RM,Lazio,25,,Sì,Scolastica
+Daniele,Di Stefano,3,RMTF010006,ITI,Itts Alessandro Volta,Tivoli,RM,Lazio,51,,Sì,Scolastica
+Mattia,Di Pietro,4,RMTF010006,ITI,Itts Alessandro Volta,Tivoli,RM,Lazio,40,,Sì,Scolastica
+Simone,Tanas,4,RMTF010006,ITI,Itts Alessandro Volta,Tivoli,RM,Lazio,34,,Sì,Scolastica
+Adriano Massimo,Tondi,2,RMTF02000R,ITI,Armellini,Roma,RM,Lazio,42,,Sì,Scolastica
+Nicolas,Pagliuca,3,RMTF02000R,ITI,Armellini,Roma,RM,Lazio,35,,Sì,Scolastica
+Simone,Barbati,2,RMTF02000R,ITI,Armellini,Roma,RM,Lazio,27,,Sì,Scolastica
+Edoardo,Scalzi,3,RMTF040002,ITI,E. Fermi,Roma,RM,Lazio,51,,Sì,Scolastica
+Tommaso,Coviello,4,RMTF040002,ITI,E. Fermi,Roma,RM,Lazio,50,,Sì,Scolastica
+Andrea,Lattanzi,3,RMTF040002,ITI,E. Fermi,Roma,RM,Lazio,41,,Sì,Scolastica
+Veronika,Fedorova,3,RMTF08401R,ITI,Ferraris,Roma,RM,Lazio,37,,Sì,Scolastica
+Daniele,Ferrara,4,RMTF08401R,ITI,Ferraris,Roma,RM,Lazio,36,,Sì,Scolastica
+Giuseppe,Albamonte,4,RMTF090003,ITI,G. Galilei,Roma,RM,Lazio,47,,Sì,Scolastica
+Gabriele,Viola,4,RMTF090003,ITI,G. Galilei,Roma,RM,Lazio,32,,Sì,Scolastica
+Luca,Dell'Aversana,4,RMTF090003,ITI,G. Galilei,Roma,RM,Lazio,,,Sì,nazionalista OII 2023
+Riccardo,De Angelis,3,RMTF15000D,ITI,Stanislao Cannizzaro,Colleferro,RM,Lazio,39,,Sì,Scolastica
+Stefano,Rossano,4,RMTF15000D,ITI,Stanislao Cannizzaro,Colleferro,RM,Lazio,30,,Sì,Scolastica
+Jieke,Huang,4,RMTF15000D,ITI,Stanislao Cannizzaro,Colleferro,RM,Lazio,19,150,Sì,preterritoriale
+Manuel,Tramontana,4,RMTF180009,ITI,Enrico Fermi,Frascati,RM,Lazio,38,,Sì,Scolastica
+Matteo,Boriani,4,RMTF180009,ITI,Enrico Fermi,Frascati,RM,Lazio,31,,Sì,Scolastica
+Luca,Fonti,4,RMTF200009,ITI,Giancarlo Vallauri,Velletri,RM,Lazio,32,,Sì,Scolastica
+Lorenzo,Boaretto,4,RMTF200009,ITI,Giancarlo Vallauri,Velletri,RM,Lazio,30,,Sì,Scolastica
+Tommaso,Lori,1,RMTF200009,ITI,Giancarlo Vallauri,Velletri,RM,Lazio,25,,Sì,Scolastica
+Gabriele,Franci,4,RNIS00200N,IIS,P. Gobetti,Morciano di Romagna,RN,Emilia-Romagna,30,,Sì,Scolastica
+Cristian,Monticelli,3,RNIS00200N,IIS,P. Gobetti,Morciano di Romagna,RN,Emilia-Romagna,25,,Sì,Scolastica
+Alessia,Giovannini,4,RNPS05000C,LS,A. Serpieri,Rimini,RN,Emilia-Romagna,50,,Sì,Scolastica
+Samuele,Crisci,4,RNPS05000C,LS,A. Serpieri,Rimini,RN,Emilia-Romagna,50,,Sì,Scolastica
+Lorenzo,Mancini,4,RNPS05000C,LS,A. Serpieri,Rimini,RN,Emilia-Romagna,46,,Sì,Scolastica
+Alessandro,Nicoara,4,RNPS05000C,LS,A. Serpieri,Rimini,RN,Emilia-Romagna,37,,Sì,Scolastica
+Pietro,Pagliai,3,ROIS00100E,IIS,Liceo Bocchi-Galilei,Adria,RO,Veneto,33,,Sì,Scolastica
+Davide,Duma,4,ROIS00100E,IIS,Liceo Bocchi-Galilei,Adria,RO,Veneto,33,,Sì,Scolastica
+Andrea,Formigaro,3,ROIS00700D,IIS,"""Primo Levi"" Badia P.",Badia Polesine,RO,Veneto,25,,Sì,Scolastica
+Giacomo,Turetta,4,ROIS00700D,IIS,"""Primo Levi"" Badia P.",Badia Polesine,RO,Veneto,25,,Sì,Scolastica
+Michele,Cervati,4,ROIS012001,IIS,Viola-Marchesini,Rovigo,RO,Veneto,45,,Sì,Scolastica
+Fabio,Cucu,4,ROIS012001,IIS,Viola-Marchesini,Rovigo,RO,Veneto,45,,Sì,Scolastica
+Elisa,Borghi,2,ROIS012001,IIS,Viola-Marchesini,Rovigo,RO,Veneto,30,,Sì,Scolastica
+Raffael,Andriuolo,3,SAIS02600Q,IIS,P. Leto,Teggiano,SA,Campania,30,,Sì,Scolastica
+Enio,Ammaccapane,4,SAIS02600Q,IIS,P. Leto,Teggiano,SA,Campania,30,,Sì,Scolastica
+Andrea,Gugliucciello,4,SAIS02700G,IIS,Assteas,Buccino,SA,Campania,28,,Sì,Scolastica
+Kamil,Liteinski,3,SAIS02700G,IIS,Assteas,Buccino,SA,Campania,21,,Sì,Scolastica
+Gianluca,Vassallucci,4,SAIS037006,IIS,Leonardo Da Vinci,Sapri,SA,Campania,35,,Sì,Scolastica
+Massimo,Massimilla,4,SAIS037006,IIS,Leonardo Da Vinci,Sapri,SA,Campania,32,,Sì,Scolastica
+Vincenzo,Iaquinandi,3,SAIS04100T,IIS,"""G. Marconi"" - Nocera Inf.",Nocera Inferiore,SA,Campania,48,,Sì,Scolastica
+Cristian,Calianno,3,SAIS04100T,IIS,"""G. Marconi"" - Nocera Inf.",Nocera Inferiore,SA,Campania,39,,Sì,Scolastica
+Rosario,Corrado Mancino,2,SAIS04100T,IIS,"""G. Marconi"" - Nocera Inf.",Nocera Inferiore,SA,Campania,28,,Sì,Scolastica
+Simone,Battista,4,SAIS046001,IIS,Galilei-Di Palo,Salerno,SA,Campania,45,,Sì,Scolastica
+Cosimo,Babino,4,SAIS046001,IIS,Galilei-Di Palo,Salerno,SA,Campania,38,,Sì,Scolastica
+Flavio,Iannone,4,SAIS046001,IIS,Galilei-Di Palo,Salerno,SA,Campania,34,,Sì,Scolastica
+Maria Michela,Daniele,3,SAIS052008,IIS,E. Fermi,Sarno,SA,Campania,35,,Sì,Scolastica
+Antonio,Celentano,4,SAIS052008,IIS,E. Fermi,Sarno,SA,Campania,31,,Sì,Scolastica
+Aniello,Avino,2,SAIS052008,IIS,E. Fermi,Sarno,SA,Campania,26,,Sì,Scolastica
+Emanuele,Curcio,4,SAIS05700B,IIS,"""G.B. Piranesi"" - Capaccio",Capaccio Paestum,SA,Campania,33,,Sì,Scolastica
+Enzomaria,Saponara,4,SAIS05700B,IIS,"""G.B. Piranesi"" - Capaccio",Capaccio Paestum,SA,Campania,30,,Sì,Scolastica
+Francesco Junior,De Gregorio,3,SAIS05700B,IIS,"""G.B. Piranesi"" - Capaccio",Capaccio Paestum,SA,Campania,25,165,Sì,preterritoriale
+Christian,Panza,3,SAIS067002,IIS,Mattei - Fortunato,Eboli,SA,Campania,36,,Sì,Scolastica
+Vito Daniele,Di Michele,4,SAIS067002,IIS,Mattei - Fortunato,Eboli,SA,Campania,32,,Sì,Scolastica
+Bansh,Pal,2,SAIS067002,IIS,Mattei - Fortunato,Eboli,SA,Campania,28,,Sì,Scolastica
+Manuel,De Marino,3,SAIS074005,IIS,B. Focaccia,Salerno,SA,Campania,42,,Sì,Scolastica
+Andrea,Apicella,4,SAIS074005,IIS,B. Focaccia,Salerno,SA,Campania,41,,Sì,Scolastica
+Alex Pio,Buongusto,4,SAPC10000P,LC,T.L. Caro,Sarno,SA,Campania,36,,Sì,Scolastica
+Pasquale,D'Ambrosio,3,SAPC10000P,LC,T.L. Caro,Sarno,SA,Campania,31,,Sì,Scolastica
+Vincenzo,Santoro,3,SAPM020007,IM,Alfano I,Salerno,SA,Campania,29,,Sì,Scolastica
+Giovanna,Amato,4,SAPM020007,IM,Alfano I,Salerno,SA,Campania,27,,Sì,Scolastica
+Francesco,Saggese,4,SAPS04000B,LS,"""N. Sensale"" - Nocera Inf.",Nocera Inferiore,SA,Campania,30,,Sì,Scolastica
+Giuliana,Cataldi,4,SAPS04000B,LS,"""N. Sensale"" - Nocera Inf.",Nocera Inferiore,SA,Campania,28,,Sì,Scolastica
+Saverio,Cioccolini,3,SAPS06000L,LS,F. Severi,Salerno,SA,Campania,30,128,Sì,Scolastica
+Stella Raffaella,Messina,4,SAPS06000L,LS,F. Severi,Salerno,SA,Campania,27,,Sì,Scolastica
+Marco,D'Anza,2,SAPS06000L,LS,F. Severi,Salerno,SA,Campania,26,,Sì,Scolastica
+Claudio,Paolillo,2,SAPS06000L,LS,F. Severi,Salerno,SA,Campania,25,,Sì,Scolastica
+Emanuele,Lasalvia,4,SAPS070007,LS,C. Pisacane,Padula,SA,Campania,29,10,Sì,Scolastica
+Tommaso,Forte,4,SAPS070007,LS,C. Pisacane,Padula,SA,Campania,29,32,Sì,Scolastica
+Antonio,Balbo,4,SAPS070007,LS,C. Pisacane,Padula,SA,Campania,27,141,Sì,preterritoriale
+Andrea,Petrazzuolo,4,SAPS070007,LS,C. Pisacane,Padula,SA,Campania,22,134,Sì,preterritoriale
+Donato,Barone,4,SAPS070007,LS,C. Pisacane,Padula,SA,Campania,51,200,Sì,nazionalista OII 2023
+Marco,Di Lieto,4,SAPS08000T,LS,Mons. B. Mangino,Pagani,SA,Campania,30,,Sì,Scolastica
+Giuseppe,Di Palma,4,SAPS08000T,LS,Mons. B. Mangino,Pagani,SA,Campania,20,,Sì,Scolastica
+Elio,D'Agosto,2,SAPS10000T,LS,"""L. Da Vinci"" - Vallo D.L.",Vallo della Lucania,SA,Campania,26,,Sì,Scolastica
+Italo,Gregorio,4,SAPS10000T,LS,"""L. Da Vinci"" - Vallo D.L.",Vallo della Lucania,SA,Campania,26,,Sì,Scolastica
+Federica,Russo,3,SAPS170004,LS,Don C. La Mura,Angri,SA,Campania,26,,Sì,Scolastica
+Mary,Pepe,3,SAPS170004,LS,Don C. La Mura,Angri,SA,Campania,25,,Sì,Scolastica
+Daniele,Bonelli,4,SITF020002,ITI,Tito Sarrocchi,Siena,SI,Toscana,43,,Sì,Scolastica
+Victor Cristian,Alazaroae,4,SITF020002,ITI,Tito Sarrocchi,Siena,SI,Toscana,40,,Sì,Scolastica
+Armen,Hovhannisyan,4,SITF020002,ITI,Tito Sarrocchi,Siena,SI,Toscana,37,,Sì,Scolastica
+Matteo,Gherbi,3,SOIS01300L,IIS,Saraceno - Romegialli,Morbegno,SO,Lombardia,40,,Sì,Scolastica
+Matteo,Milivinti,3,SOIS01300L,IIS,Saraceno - Romegialli,Morbegno,SO,Lombardia,36,,Sì,Scolastica
+Greta,Barri,3,SOIS01300L,IIS,Saraceno - Romegialli,Morbegno,SO,Lombardia,35,,Sì,Scolastica
+Stefano,Pandiani,3,SOIS01300L,IIS,Saraceno - Romegialli,Morbegno,SO,Lombardia,35,,Sì,Scolastica
+Matteo,Gianelli,4,SOIS01400C,IIS,Polo Liceale Citta',Sondrio,SO,Lombardia,81,,Sì,Scolastica
+Matteo,Bonetti,3,SOIS01400C,IIS,Polo Liceale Citta',Sondrio,SO,Lombardia,51,,Sì,Scolastica
+Alessandro,Pini,3,SOIS01400C,IIS,Polo Liceale Citta',Sondrio,SO,Lombardia,37,,Sì,Scolastica
+Jhonatan Steven,Ronchi,4,SOTF01000L,ITI,Enea Mattei,Sondrio,SO,Lombardia,50,177,Sì,Scolastica
+Luca,D'Introno,4,SOTF01000L,ITI,Enea Mattei,Sondrio,SO,Lombardia,47,,Sì,Scolastica
+Marco,Magro,4,SOTF01000L,ITI,Enea Mattei,Sondrio,SO,Lombardia,46,,Sì,Scolastica
+Filippo,Tenci,4,SOTF01000L,ITI,Enea Mattei,Sondrio,SO,Lombardia,40,,Sì,Scolastica
+Cristian,Gasparre,3,SOTF01000L,ITI,Enea Mattei,Sondrio,SO,Lombardia,36,,Sì,Scolastica
+Shameer,Shahid,3,SOTF01000L,ITI,Enea Mattei,Sondrio,SO,Lombardia,35,,Sì,Scolastica
+Andrea,Rizzi,3,SOTF01000L,ITI,Enea Mattei,Sondrio,SO,Lombardia,35,,Sì,Scolastica
+Manuele,Varisto,4,SOTF01000L,ITI,Enea Mattei,Sondrio,SO,Lombardia,35,,Sì,Scolastica
+Gloria,Della Morte,4,SOTF01000L,ITI,Enea Mattei,Sondrio,SO,Lombardia,34,,Sì,Scolastica
+Nicolò,De Gori,4,SOTF01000L,ITI,Enea Mattei,Sondrio,SO,Lombardia,34,,Sì,Scolastica
+Francesco,Patri,4,SPIS00600B,IIS,G. Capellini / Sauro,La Spezia,SP,Liguria,34,,Sì,Scolastica
+Sian,Caratelli,4,SPIS00600B,IIS,G. Capellini / Sauro,La Spezia,SP,Liguria,34,,Sì,Scolastica
+Niccolò,Ferrero,4,SPIS00600B,IIS,G. Capellini / Sauro,La Spezia,SP,Liguria,33,,Sì,Scolastica
+Luca,Romanelli,4,SPIS00600B,IIS,G. Capellini / Sauro,La Spezia,SP,Liguria,33,,Sì,Scolastica
+Tamim,Masumbillah,4,SPTD110005,ITC,"E Tecnol ""Fossati/Da Passano""",La Spezia,SP,Liguria,26,,Sì,Scolastica
+Gregory,Goglia,3,SPTD110005,ITC,"E Tecnol ""Fossati/Da Passano""",La Spezia,SP,Liguria,25,,Sì,Scolastica
+Gabriele,Palmeri,4,SRIS009004,IIS,Ruiz,Augusta,SR,Sicilia,37,,Sì,Scolastica
+Mattia,Licata,4,SRIS009004,IIS,Ruiz,Augusta,SR,Sicilia,32,,Sì,Scolastica
+Franco,Brancato,2,SRPM01000P,IM,"8 I.I.S.S. ""M.F. Quintiliano""",Siracusa,SR,Sicilia,30,,Sì,Scolastica
+Sithmi Dewmini,Hanjampalage,3,SRPM01000P,IM,"8 I.I.S.S. ""M.F. Quintiliano""",Siracusa,SR,Sicilia,25,,Sì,Scolastica
+Sebastiano,Gionfriddo,4,SRPS14000A,LS,"E L. Sc. Um. ""O.M. Corbino""",Siracusa,SR,Sicilia,35,,Sì,Scolastica
+Giuseppe,Tarascio,3,SRPS14000A,LS,"E L. Sc. Um. ""O.M. Corbino""",Siracusa,SR,Sicilia,32,,Sì,Scolastica
+Giulio,Areste,4,SRPS150001,LS,L. Da Vinci,Floridia,SR,Sicilia,70,,Sì,Scolastica
+Salvatore,Casula,4,SSPS05000G,LS,Lorenzo Mossa,Olbia,SS,Sardegna,21,,Sì,Scolastica
+Gabriele,Gianni,4,SSTD010001,ITCG,Attilio Deffenu,Olbia,SS,Sardegna,35,95,Sì,Scolastica
+Paolo,Serra,4,SSTD010001,ITCG,Attilio Deffenu,Olbia,SS,Sardegna,30,,Sì,Scolastica
+Andrea,Fresia,4,SVIS00700N,IIS,Giancardi-Galilei-Aicardi,Alassio,SV,Liguria,30,,Sì,Scolastica
+Bremi,Leonardo,3,SVIS00700N,IIS,Giancardi-Galilei-Aicardi,Alassio,SV,Liguria,25,,Sì,Scolastica
+Rostyslav,Neliubin,3,SVIS009009,IIS,Ferraris-Pancaldo,Savona,SV,Liguria,41,,Sì,Scolastica
+Lorenzo,Tridondani,4,SVIS009009,IIS,Ferraris-Pancaldo,Savona,SV,Liguria,25,,Sì,Scolastica
+Diego,Toso,4,SVPS01000V,LS,Orazio Grassi,Savona,SV,Liguria,56,,Sì,Scolastica
+Gabriele,Lanfranchi,4,SVPS01000V,LS,Orazio Grassi,Savona,SV,Liguria,37,,Sì,Scolastica
+Mattia,Bolognese,3,SVPS01000V,LS,Orazio Grassi,Savona,SV,Liguria,35,,Sì,Scolastica
+Riccardo,Magnani,2,SVPS01000V,LS,Orazio Grassi,Savona,SV,Liguria,25,,Sì,Scolastica
+Siyuan Andrea,Badino,3,SVPS030004,LS,Giordano Bruno,Albenga,SV,Liguria,34,,Sì,Scolastica
+Tawfik,Samoudi,3,SVPS030004,LS,Giordano Bruno,Albenga,SV,Liguria,25,,Sì,Scolastica
+Vito,Mutasci,3,TAIS02100N,IIS,Quinto Orazio Flacco,Castellaneta,TA,Puglia,30,,Sì,Scolastica
+Alessio Domenico,Chirulli,4,TAIS02100N,IIS,Quinto Orazio Flacco,Castellaneta,TA,Puglia,26,,Sì,Scolastica
+Aldo,Ricupero,3,TAIS037007,IIS,Majorana2,Martina Franca,TA,Puglia,48,,Sì,Scolastica
+Ivan,Lucarelli,4,TAIS037007,IIS,Majorana2,Martina Franca,TA,Puglia,35,,Sì,Scolastica
+Daniele,Bruno,4,TAIS04200P,IIS,P. Ssa Maria Pia,Taranto,TA,Puglia,33,,Sì,Scolastica
+Salvatore,Conte,4,TAIS04200P,IIS,P. Ssa Maria Pia,Taranto,TA,Puglia,33,,Sì,Scolastica
+Antonio,Brigante,2,TAPC11000A,LC,F. De Sanctis - G. Galilei,Manduria,TA,Puglia,23,,Sì,Scolastica
+Matteo,Moccia,1,TAPC11000A,LC,F. De Sanctis - G. Galilei,Manduria,TA,Puglia,22,,Sì,Scolastica
+Andrea,Pasculli,1,TAPS03000T,LS,G. Battaglini,Taranto,TA,Puglia,27,,Sì,Scolastica
+Daniel,Stasi,4,TAPS070008,LS,G. Moscati,Grottaglie,TA,Puglia,55,,Sì,Scolastica
+Giuseppe,Corigliano,2,TAPS070008,LS,G. Moscati,Grottaglie,TA,Puglia,45,,Sì,Scolastica
+Niccolò,Ciurlo,4,TAPS070008,LS,G. Moscati,Grottaglie,TA,Puglia,36,,Sì,Scolastica
+Davide,Lucente,4,TAPS070008,LS,G. Moscati,Grottaglie,TA,Puglia,35,,Sì,Scolastica
+Gianmarco,Magazzino,4,TAPS070008,LS,G. Moscati,Grottaglie,TA,Puglia,35,,Sì,Scolastica
+Andrea,Occhibianco,4,TAPS070008,LS,G. Moscati,Grottaglie,TA,Puglia,33,,Sì,Scolastica
+Gabriele,Calabretti,3,TATD08000P,ITC,"I.T.E. ""Pitagora""",Taranto,TA,Puglia,27,,Sì,Scolastica
+Alessia,Mele,4,TATD08000P,ITC,"I.T.E. ""Pitagora""",Taranto,TA,Puglia,20,,Sì,Scolastica
+Simone,Turi,4,TATF09000G,ITI,A. Pacinotti,Taranto,TA,Puglia,52,,Sì,Scolastica
+Matteo Saverio,Castellano,4,TATF09000G,ITI,A. Pacinotti,Taranto,TA,Puglia,47,,Sì,Scolastica
+Nicolò,Piano,4,TATF09000G,ITI,A. Pacinotti,Taranto,TA,Puglia,43,,Sì,Scolastica
+Gianluca,D'Ingeo,4,TATF09000G,ITI,A. Pacinotti,Taranto,TA,Puglia,39,,Sì,Scolastica
+Antonio,Paurini,4,TATF09000G,ITI,A. Pacinotti,Taranto,TA,Puglia,35,,Sì,Scolastica
+Philip,Pichler,4,TBIS01700L,IIS,Ist. Tecnico Economico Merano,Merano,BZ,Trentino-Alto Adige,47,,Sì,Scolastica
+Anton Richard,Mair,4,TBIS01700L,IIS,Ist. Tecnico Economico Merano,Merano,BZ,Trentino-Alto Adige,35,,Sì,Scolastica
+Leni,Crepaz,4,TBPS02000T,LS,Ling. E Ist. Tecn. Bressanone,Bressanone,BZ,Trentino-Alto Adige,42,,Sì,Scolastica
+Jonas,Hafner,4,TBPS02000T,LS,Ling. E Ist. Tecn. Bressanone,Bressanone,BZ,Trentino-Alto Adige,30,,Sì,Scolastica
+Moritz,Fischnaller,4,TBPS02000T,LS,Ling. E Ist. Tecn. Bressanone,Bressanone,BZ,Trentino-Alto Adige,25,200,Sì,preterritoriale
+Felix,Mall,3,TBPS110004,LS,Liceo Linguistico E Scientifico Brunico,Brunico,BZ,Trentino-Alto Adige,42,,Sì,Scolastica
+Jakob,Neumair,2,TBPS110004,LS,Liceo Linguistico E Scientifico Brunico,Brunico,BZ,Trentino-Alto Adige,36,,Sì,Scolastica
+Mattia,Mussner,4,TBTF05000Q,ITI,Istituto Tecnologico Bolzano,Bolzano,BZ,Trentino-Alto Adige,70,,Sì,Scolastica
+Manuel,Prader,3,TBTF05000Q,ITI,Istituto Tecnologico Bolzano,Bolzano,BZ,Trentino-Alto Adige,50,,Sì,Scolastica
+Lukas,Peer,3,TBTF05000Q,ITI,Istituto Tecnologico Bolzano,Bolzano,BZ,Trentino-Alto Adige,41,,Sì,Scolastica
+Jakob,Al Hasan,4,TBTF05000Q,ITI,Istituto Tecnologico Bolzano,Bolzano,BZ,Trentino-Alto Adige,41,,Sì,Scolastica
+Matteo,Garbin,3,TBTF05000Q,ITI,Istituto Tecnologico Bolzano,Bolzano,BZ,Trentino-Alto Adige,38,,Sì,Scolastica
+Moritz,Kob,3,TBTF05000Q,ITI,Istituto Tecnologico Bolzano,Bolzano,BZ,Trentino-Alto Adige,37,,Sì,Scolastica
+David,Spitaler,4,TBTF05000Q,ITI,Istituto Tecnologico Bolzano,Bolzano,BZ,Trentino-Alto Adige,35,,Sì,Scolastica
+Lukas,Habicher,4,TBTF05000Q,ITI,Istituto Tecnologico Bolzano,Bolzano,BZ,Trentino-Alto Adige,35,,Sì,Scolastica
+Manuel,Jaider,3,TBTF05000Q,ITI,Istituto Tecnologico Bolzano,Bolzano,BZ,Trentino-Alto Adige,33,,Sì,Scolastica
+Giulia,D’Angelo,4,TEIS00900D,IIS,Alessandrini-Marino-Pascal-Comi-Fort,Teramo,TE,Abruzzo,35,,Sì,Scolastica
+Lorenzo,Pompetti,4,TEIS00900D,IIS,Alessandrini-Marino-Pascal-Comi-Fort,Teramo,TE,Abruzzo,28,,Sì,Scolastica
+Alessio,Antico,1,TEIS00900D,IIS,Alessandrini-Marino-Pascal-Comi-Fort,Teramo,TE,Abruzzo,25,,Sì,Scolastica
+Luigi,Serafini,4,TEPC030005,LC,Polo Liceale Statale Saffo,Roseto degli Abruzzi,TE,Abruzzo,52,,Sì,Scolastica
+Aldo Henrique,D'Orazio,3,TEPC030005,LC,Polo Liceale Statale Saffo,Roseto degli Abruzzi,TE,Abruzzo,36,,Sì,Scolastica
+Francesco,Leonzi,3,TEPC05000A,LC,"Polo Liceale ""Luigi Illuminati""",Atri,TE,Abruzzo,49,,Sì,Scolastica
+Gaia,Picardi,3,TEPC05000A,LC,"Polo Liceale ""Luigi Illuminati""",Atri,TE,Abruzzo,37,,Sì,Scolastica
+Davide,Leone,4,TEPC05000A,LC,"Polo Liceale ""Luigi Illuminati""",Atri,TE,Abruzzo,30,,Sì,finalista OIS
+Andrea,Soltani,4,TEPC05000A,LC,"Polo Liceale ""Luigi Illuminati""",Atri,TE,Abruzzo,20,,Sì,finalista OIS
+Riccardo,Marcone,4,TEPC05000A,LC,"Polo Liceale ""Luigi Illuminati""",Atri,TE,Abruzzo,32,,Sì,nazionalista OII 2023
+Filippo,Chiarolla,2,TEPS02000N,LS,M. Curie,Giulianova,TE,Abruzzo,45,,Sì,Scolastica
+Jonathan,Innangi,4,TEPS02000N,LS,M. Curie,Giulianova,TE,Abruzzo,45,,Sì,Scolastica
+Leonardo,Ballerin,3,TNIS00200E,IIS,"""Alcide Degasperi"" Borgo",Borgo Valsugana,TN,Trentino-Alto Adige,25,,Sì,Scolastica
+Fabio,Dolzan,3,TNIS00300A,IIS,Martino Martini,Mezzolombardo,TN,Trentino-Alto Adige,38,,Sì,Scolastica
+Daniele Giuseppe,Dionisio,3,TNIS00300A,IIS,Martino Martini,Mezzolombardo,TN,Trentino-Alto Adige,34,,Sì,Scolastica
+Nicolò,Tarter,2,TNIS00300A,IIS,Martino Martini,Mezzolombardo,TN,Trentino-Alto Adige,31,,Sì,Scolastica
+Dimitri,Springhetti,2,TNIS00600T,IIS,Bertrand Russell,Cles,TN,Trentino-Alto Adige,65,,Sì,Scolastica
+Matteo,Crudele,3,TNIS00600T,IIS,Bertrand Russell,Cles,TN,Trentino-Alto Adige,65,,Sì,Scolastica
+Davide,Seppi,4,TNIS00600T,IIS,Bertrand Russell,Cles,TN,Trentino-Alto Adige,60,,Sì,Scolastica
+Thomas,Mattarei,4,TNIS00600T,IIS,Bertrand Russell,Cles,TN,Trentino-Alto Adige,,183,Sì,nazionalista OII 2023
+Adam,Povoli,2,TNPC01000Q,LC,Andrea Maffei,Riva del Garda,TN,Trentino-Alto Adige,22,,Sì,Scolastica
+Giacomo,Di Leo,2,TNPC02000A,LC,Antonio Rosmini,Rovereto,TN,Trentino-Alto Adige,72,150,Sì,Scolastica
+Federico,Maroni,2,TNPC02000A,LC,Antonio Rosmini,Rovereto,TN,Trentino-Alto Adige,48,61,Sì,Scolastica
+Ismaele,Cozzaglio,4,TNPC02000A,LC,Antonio Rosmini,Rovereto,TN,Trentino-Alto Adige,,146,Sì,preterritoriale
+Anna,Kazhamiakina,1,TNPS01000V,LS,Galileo Galilei,Trento,TN,Trentino-Alto Adige,75,,Sì,Scolastica
+Lorenzo,Carlin,4,TNPS01000V,LS,Galileo Galilei,Trento,TN,Trentino-Alto Adige,65,163,Sì,Scolastica
+Marco,Gianelle,2,TNPS01000V,LS,Galileo Galilei,Trento,TN,Trentino-Alto Adige,60,200,Sì,Scolastica
+Federico,Turco,4,TNPS01000V,LS,Galileo Galilei,Trento,TN,Trentino-Alto Adige,58,,Sì,Scolastica
+Martin,Moser,4,TNPS01000V,LS,Galileo Galilei,Trento,TN,Trentino-Alto Adige,51,,Sì,Scolastica
+Tabitha,Chippendale,3,TNPS01000V,LS,Galileo Galilei,Trento,TN,Trentino-Alto Adige,40,163,Sì,Scolastica
+Nicola,Bortolotti,4,TNPS01000V,LS,Galileo Galilei,Trento,TN,Trentino-Alto Adige,35,,Sì,Scolastica
+Samuele,Pasqualini,2,TNPS01000V,LS,Galileo Galilei,Trento,TN,Trentino-Alto Adige,31,,Sì,Scolastica
+Luca,Facchinelli,3,TNPS02000D,LS,Leonardo Da Vinci,Trento,TN,Trentino-Alto Adige,71,,Sì,Scolastica
+Leonardo,Tomaselli,4,TNPS02000D,LS,Leonardo Da Vinci,Trento,TN,Trentino-Alto Adige,35,,Sì,Scolastica
+Federico,Giacomelli,4,TNPS100005,LS,Fiera Di Primiero,Primiero San Martino di Castrozza,TN,Trentino-Alto Adige,26,,Sì,Scolastica
+Andrea,Vinduska,3,TNPS100005,LS,Fiera Di Primiero,Primiero San Martino di Castrozza,TN,Trentino-Alto Adige,24,,Sì,Scolastica
+Davide,Frasnelli,3,TNTD100001,ITCG,Carlo Antonio Pilati,Cles,TN,Trentino-Alto Adige,45,,Sì,Scolastica
+Massimo,Maglio,4,TNTD100001,ITCG,Carlo Antonio Pilati,Cles,TN,Trentino-Alto Adige,20,,Sì,Scolastica
+Oleksandr,Kushnir,3,TNTF02000G,ITI,Guglielmo Marconi,Rovereto,TN,Trentino-Alto Adige,50,,Sì,Scolastica
+Leonardo,Sparano,4,TNTF02000G,ITI,Guglielmo Marconi,Rovereto,TN,Trentino-Alto Adige,41,,Sì,Scolastica
+Francesco,Roccabruna,3,TNTF02000G,ITI,Guglielmo Marconi,Rovereto,TN,Trentino-Alto Adige,40,,Sì,Scolastica
+Rayan,Tonelli,3,TNTF02000G,ITI,Guglielmo Marconi,Rovereto,TN,Trentino-Alto Adige,33,,Sì,Scolastica
+Matteo,Pascali,4,TOIS003003,IIS,E. Majorana,Torino,TO,Piemonte,31,,Sì,Scolastica
+Lorenzo,Lin,3,TOIS003003,IIS,E. Majorana,Torino,TO,Piemonte,30,,Sì,Scolastica
+Bryan Danilo,Brisichella,4,TOIS00400V,IIS,A. Moro,Rivarolo Canavese,TO,Piemonte,50,,Sì,Scolastica
+Emanuele,Riva,4,TOIS00400V,IIS,A. Moro,Rivarolo Canavese,TO,Piemonte,47,,Sì,Scolastica
+Luca,Perelli,4,TOIS00400V,IIS,A. Moro,Rivarolo Canavese,TO,Piemonte,42,,Sì,Scolastica
+Dennis,Puozzo,4,TOIS01200T,IIS,Olivetti,Ivrea,TO,Piemonte,30,,Sì,Scolastica
+Alessandro,Botta,3,TOIS02700G,IIS,Europa Unita,Chivasso,TO,Piemonte,47,,Sì,Scolastica
+Samuele,Podda,3,TOIS02700G,IIS,Europa Unita,Chivasso,TO,Piemonte,31,,Sì,Scolastica
+Matteo,Bocco,4,TOIS038002,IIS,Michele Buniva,Pinerolo,TO,Piemonte,40,,Sì,Scolastica
+Marco,Bianco,3,TOIS038002,IIS,Michele Buniva,Pinerolo,TO,Piemonte,39,,Sì,Scolastica
+Valeriu Cosmin,Budau,4,TOIS038002,IIS,Michele Buniva,Pinerolo,TO,Piemonte,37,,Sì,Scolastica
+Simone,Breusa,2,TOIS038002,IIS,Michele Buniva,Pinerolo,TO,Piemonte,30,,Sì,Scolastica
+Michele,Ferrari,2,TOIS038002,IIS,Michele Buniva,Pinerolo,TO,Piemonte,26,,Sì,Scolastica
+Luca,Greco,2,TOIS038002,IIS,Michele Buniva,Pinerolo,TO,Piemonte,25,,Sì,Scolastica
+Robert Andrei,Paduraru,4,TOIS03900T,IIS,P. Martinetti,Caluso,TO,Piemonte,29,,Sì,Scolastica
+Joshua,Ariu,4,TOIS03900T,IIS,P. Martinetti,Caluso,TO,Piemonte,25,,Sì,Scolastica
+Emanuele,Sette,4,TOIS04300D,IIS,Primo Levi,Torino,TO,Piemonte,33,,Sì,Scolastica
+Francesco,Sarubbi,4,TOIS04300D,IIS,Primo Levi,Torino,TO,Piemonte,30,,Sì,Scolastica
+Simone,Casson,4,TOIS04900C,IIS,Fermi-Galilei,Ciriè,TO,Piemonte,44,112,Sì,Scolastica
+Francesco,Bussone,4,TOIS04900C,IIS,Fermi-Galilei,Ciriè,TO,Piemonte,38,,Sì,Scolastica
+Giovanni,Mazzitelli,4,TOIS05100C,IIS,A. Avogadro,Torino,TO,Piemonte,47,,Sì,Scolastica
+Omar,Palomino Gutierrez,4,TOIS05100C,IIS,A. Avogadro,Torino,TO,Piemonte,41,,Sì,Scolastica
+Luigi,Anzaldi,4,TOIS05100C,IIS,A. Avogadro,Torino,TO,Piemonte,40,,Sì,Scolastica
+Gabriel,Manzo,3,TOIS05100C,IIS,A. Avogadro,Torino,TO,Piemonte,35,,Sì,Scolastica
+William,Pignata,1,TOIS05100C,IIS,A. Avogadro,Torino,TO,Piemonte,27,,Sì,Scolastica
+Rida,Raztem,3,TOIS05100C,IIS,A. Avogadro,Torino,TO,Piemonte,26,148,Sì,preterritoriale
+Alberto,Bruno,3,TOIS05700B,IIS,B. Pascal,Giaveno,TO,Piemonte,41,,Sì,Scolastica
+Filippo,Bollito,3,TOPS04000B,LS,G. Ferraris,Torino,TO,Piemonte,57,,Sì,Scolastica
+Davide,Berardi,3,TOPS04000B,LS,G. Ferraris,Torino,TO,Piemonte,20,,Sì,Scolastica
+Gabriele,Bernardi,1,TOPS070007,LS,M. Curie,Pinerolo,TO,Piemonte,36,96,Sì,Scolastica
+Riccardo,Manzi,1,TOPS070007,LS,M. Curie,Pinerolo,TO,Piemonte,30,,Sì,Scolastica
+Leonardo,Naddei,3,TOPS09500G,Scuola non statale,Liceo Scientifico Istituto Sociale,Torino,TO,Piemonte,31,,Sì,Scolastica
+Laurence Na’ Mileka,Lunanga,4,TOPS09500G,Scuola non statale,Liceo Scientifico Istituto Sociale,Torino,TO,Piemonte,30,,Sì,Scolastica
+Valerio,Morra,4,TOPS190009,LS,I. Newton,Chivasso,TO,Piemonte,60,,Sì,Scolastica
+Giacomo,Gemme,4,TOPS190009,LS,I. Newton,Chivasso,TO,Piemonte,37,,Sì,Scolastica
+Lorenzo,Cribari,4,TOTD05000T,ITCG,G. Galilei,Avigliana,TO,Piemonte,31,,Sì,Scolastica
+Filippo,Canale,4,TOTD05000T,ITCG,G. Galilei,Avigliana,TO,Piemonte,28,,Sì,Scolastica
+Luca,Vai,2,TOTD05000T,ITCG,G. Galilei,Avigliana,TO,Piemonte,27,,Sì,Scolastica
+Nicolas,Goffredo,2,TOTD05000T,ITCG,G. Galilei,Avigliana,TO,Piemonte,25,,Sì,Scolastica
+Ludovico,Fantinuoli,2,TOTF04000D,ITI,G.B. Pininfarina,Moncalieri,TO,Piemonte,35,,Sì,Scolastica
+Kristian,Grembi,3,TOTF04000D,ITI,G.B. Pininfarina,Moncalieri,TO,Piemonte,26,,Sì,Scolastica
+Tommaso,Bolzonella,4,TOTF04000D,ITI,G.B. Pininfarina,Moncalieri,TO,Piemonte,10,,Sì,finalista OIS
+Giovanni,De Luca,4,TOTF04000D,ITI,G.B. Pininfarina,Moncalieri,TO,Piemonte,,,Sì,finalista OIS
+Andrea,Finocchielli,4,TOTF04000D,ITI,G.B. Pininfarina,Moncalieri,TO,Piemonte,,,Sì,finalista OIS
+Luca Daniel,Iosipescu,4,TOTF10000X,ITI,E. Majorana,Grugliasco,TO,Piemonte,31,,Sì,Scolastica
+Lorenzo,Belardini,3,TOTF10000X,ITI,E. Majorana,Grugliasco,TO,Piemonte,27,,Sì,Scolastica
+Marco,Ibatici,4,TOTF14000A,ITI,C. Grassi,Torino,TO,Piemonte,36,,Sì,Scolastica
+Alessio,Marangi,4,TOTF14000A,ITI,C. Grassi,Torino,TO,Piemonte,35,,Sì,Scolastica
+Federico,Cimmarusti,4,TOTF14000A,ITI,C. Grassi,Torino,TO,Piemonte,33,,Sì,Scolastica
+Luigi,Wang,3,TPIS00900X,IIS,Giuseppe Ferro,Alcamo,TP,Sicilia,43,,Sì,Scolastica
+Valentino,Scalzo,4,TPIS00900X,IIS,Giuseppe Ferro,Alcamo,TP,Sicilia,40,,Sì,Scolastica
+Gaia Maria,Cusimano,4,TPIS00900X,IIS,Giuseppe Ferro,Alcamo,TP,Sicilia,36,,Sì,Scolastica
+Carlo,Bonura,4,TPIS00900X,IIS,Giuseppe Ferro,Alcamo,TP,Sicilia,35,,Sì,Scolastica
+Durim,Delilaj,3,TPIS00900X,IIS,Giuseppe Ferro,Alcamo,TP,Sicilia,33,,Sì,Scolastica
+Francesco,Fortunato,3,TPIS01800P,IIS,L. Da Vinci,Trapani,TP,Sicilia,43,,Sì,Scolastica
+Samuele,Castiglione,4,TPIS01800P,IIS,L. Da Vinci,Trapani,TP,Sicilia,29,,Sì,Scolastica
+Andrea,Alfieri,3,TPIS024002,IIS,Lic. G.G. Adria-G.P. Ballatore,Mazara del Vallo,TP,Sicilia,43,,Sì,Scolastica
+Marco,Stuardo,3,TPIS024002,IIS,Lic. G.G. Adria-G.P. Ballatore,Mazara del Vallo,TP,Sicilia,37,,Sì,Scolastica
+Francesco Giovanni,Nazareno,3,TPIS02600N,IIS,F. Ferrara,Mazara del Vallo,TP,Sicilia,25,,Sì,Scolastica
+Giuseppe,Telami,4,TPIS029005,IIS,L.S. V. Fardella-L.C. L. Ximenes,Trapani,TP,Sicilia,41,,Sì,Scolastica
+Alessio,Incammisa,1,TPIS029005,IIS,L.S. V. Fardella-L.C. L. Ximenes,Trapani,TP,Sicilia,25,,Sì,Scolastica
+Aurora,Mistretta,2,TPTD02000X,ITCG,"I.T.E.T. ""G. Caruso""",Alcamo,TP,Sicilia,30,,Sì,Scolastica
+Giona,Bongiovanni,3,TPTD02000X,ITCG,"I.T.E.T. ""G. Caruso""",Alcamo,TP,Sicilia,30,,Sì,Scolastica
+Miriam,Lanza,2,TPTD02000X,ITCG,"I.T.E.T. ""G. Caruso""",Alcamo,TP,Sicilia,25,,Sì,Scolastica
+Sara,Annachat,2,TPTD02000X,ITCG,"I.T.E.T. ""G. Caruso""",Alcamo,TP,Sicilia,25,,Sì,Scolastica
+Gioele,Bonifazi,4,TRIS00100E,IIS,Narni I.I.S. Sc. Mag. Geom. Gandhi,Narni,TR,Umbria,44,,Sì,Scolastica
+Tommaso,Isidori,3,TRIS00100E,IIS,Narni I.I.S. Sc. Mag. Geom. Gandhi,Narni,TR,Umbria,36,,Sì,Scolastica
+Ludovico,Baldo,2,TRIS00100E,IIS,Narni I.I.S. Sc. Mag. Geom. Gandhi,Narni,TR,Umbria,26,,Sì,Scolastica
+Vito,Russi,3,TRIS00100E,IIS,Narni I.I.S. Sc. Mag. Geom. Gandhi,Narni,TR,Umbria,,,Sì,finalista OIS
+Edoardo,Palombi,4,TRPS03000X,LS,"Terni ""R. Donatelli""",Terni,TR,Umbria,55,,Sì,Scolastica
+Filippo,Sturniolo,4,TRPS03000X,LS,"Terni ""R. Donatelli""",Terni,TR,Umbria,36,,Sì,Scolastica
+Flavia,Angeli,3,TRPS03000X,LS,"Terni ""R. Donatelli""",Terni,TR,Umbria,35,,Sì,Scolastica
+Giacomo,Tardioli,4,TRPS03000X,LS,"Terni ""R. Donatelli""",Terni,TR,Umbria,35,,Sì,Scolastica
+Bianca,Marini,3,TRPS03000X,LS,"Terni ""R. Donatelli""",Terni,TR,Umbria,34,,Sì,Scolastica
+Matteo,Corazzi,4,TRPS03000X,LS,"Terni ""R. Donatelli""",Terni,TR,Umbria,33,,Sì,Scolastica
+Daniele,Giunta,3,TRTF030002,ITI,Allievi-Sangallo,Terni,TR,Umbria,66,200,Sì,Scolastica
+Francesco,Giammari,4,TRTF030002,ITI,Allievi-Sangallo,Terni,TR,Umbria,32,,Sì,Scolastica
+Matteo,Trizza,2,TSTF010008,ITI,Alessandro Volta,Trieste,TS,Friuli-Venezia Giulia,36,,Sì,Scolastica
+Francesco,De Martis,2,TSTF010008,ITI,Alessandro Volta,Trieste,TS,Friuli-Venezia Giulia,30,,Sì,Scolastica
+Manuel,Da Ros,3,TVIS00200G,IIS,G. Marconi,Conegliano,TV,Veneto,45,,Sì,Scolastica
+Matteo,Galvano,3,TVIS00200G,IIS,G. Marconi,Conegliano,TV,Veneto,41,,Sì,Scolastica
+Manuel,Da Ros,3,TVIS00200G,IIS,G. Marconi,Conegliano,TV,Veneto,38,,Sì,Scolastica
+Alessandro,Carniel,2,TVIS00200G,IIS,G. Marconi,Conegliano,TV,Veneto,37,,Sì,Scolastica
+Anthony,Cavanha Delgado,2,TVIS00200G,IIS,G. Marconi,Conegliano,TV,Veneto,37,,Sì,Scolastica
+Andrea,Bottega,2,TVIS00200G,IIS,G. Marconi,Conegliano,TV,Veneto,33,,Sì,Scolastica
+Giovanni,Miele,2,TVIS00200G,IIS,G. Marconi,Conegliano,TV,Veneto,30,,Sì,Scolastica
+Jacopo,Molis,4,TVIS00200G,IIS,G. Marconi,Conegliano,TV,Veneto,63,,Sì,nazionalista OII 2023
+Davide,Mello,4,TVIS004007,IIS,Verdi,Valdobbiadene,TV,Veneto,36,,Sì,Scolastica
+Giovanni,Bortoluzzi,3,TVIS004007,IIS,Verdi,Valdobbiadene,TV,Veneto,34,75,Sì,Scolastica
+Mattia,Celante,4,TVIS01100A,IIS,A. Scarpa,Motta di Livenza,TV,Veneto,60,,Sì,Scolastica
+Alex,Canzian,4,TVIS01100A,IIS,A. Scarpa,Motta di Livenza,TV,Veneto,41,56,Sì,Scolastica
+Yelyzaveta,Bendiuh,3,TVIS01100A,IIS,A. Scarpa,Motta di Livenza,TV,Veneto,33,,Sì,Scolastica
+Mattia,Gobbo,4,TVIS01100A,IIS,A. Scarpa,Motta di Livenza,TV,Veneto,33,200,Sì,Scolastica
+Dylan,Barel,3,TVIS02400C,IIS,Einaudi - Scarpa,Montebelluna,TV,Veneto,41,,Sì,Scolastica
+Andrea,Poloni,3,TVIS02400C,IIS,Einaudi - Scarpa,Montebelluna,TV,Veneto,40,,Sì,Scolastica
+Zaccaria,Francescato,4,TVIS02400C,IIS,Einaudi - Scarpa,Montebelluna,TV,Veneto,37,200,Sì,Scolastica
+Daniele,Michielin,3,TVIS02400C,IIS,Einaudi - Scarpa,Montebelluna,TV,Veneto,35,,Sì,Scolastica
+Alessandro,Mondin,3,TVIS02400C,IIS,Einaudi - Scarpa,Montebelluna,TV,Veneto,,140,Sì,preterritoriale
+Andrea,Cocco,3,TVPC02000B,LC,/Ls Giorgione,Castelfranco Veneto,TV,Veneto,37,,Sì,Scolastica
+Giacomo,Perosin,2,TVPC02000B,LC,/Ls Giorgione,Castelfranco Veneto,TV,Veneto,32,,Sì,Scolastica
+Francesco,Fuson,2,TVPS01000X,LS,L. Da Vinci,Treviso,TV,Veneto,56,,Sì,Scolastica
+Alberto,Steffenato,2,TVPS01000X,LS,L. Da Vinci,Treviso,TV,Veneto,51,,Sì,Scolastica
+Edoardo,Galante,2,TVPS01000X,LS,L. Da Vinci,Treviso,TV,Veneto,46,,Sì,Scolastica
+Massimo,Zanetti,3,TVPS01000X,LS,L. Da Vinci,Treviso,TV,Veneto,40,,Sì,Scolastica
+Maria,Salvadori,3,TVPS01000X,LS,L. Da Vinci,Treviso,TV,Veneto,36,,Sì,Scolastica
+Alessandro,De Lazzari,2,TVPS01000X,LS,L. Da Vinci,Treviso,TV,Veneto,35,,Sì,Scolastica
+Giovanni,Pozzebon,2,TVPS01000X,LS,L. Da Vinci,Treviso,TV,Veneto,27,,Sì,Scolastica
+Cristian,Greco,2,TVPS01000X,LS,L. Da Vinci,Treviso,TV,Veneto,26,,Sì,Scolastica
+Matteo,Mestriner,2,TVPS01000X,LS,L. Da Vinci,Treviso,TV,Veneto,25,,Sì,Scolastica
+Alberto,Civiero,3,TVTF030007,ITI,Barsanti,Castelfranco Veneto,TV,Veneto,40,,Sì,Scolastica
+Leonardo,Stasi,3,TVTF030007,ITI,Barsanti,Castelfranco Veneto,TV,Veneto,36,,Sì,Scolastica
+Riccardo,Venturin,3,TVTF030007,ITI,Barsanti,Castelfranco Veneto,TV,Veneto,35,,Sì,Scolastica
+Cristian,Rossetto,3,TVTF030007,ITI,Barsanti,Castelfranco Veneto,TV,Veneto,35,,Sì,Scolastica
+Gilberto,Zalgelli,3,TVTF030007,ITI,Barsanti,Castelfranco Veneto,TV,Veneto,35,,Sì,Scolastica
+Alberto,Battaglia,4,TVTF030007,ITI,Barsanti,Castelfranco Veneto,TV,Veneto,35,,Sì,Scolastica
+Alex,Rigon,3,TVTF030007,ITI,Barsanti,Castelfranco Veneto,TV,Veneto,33,,Sì,Scolastica
+Giulio,Bovo,3,TVTF04000T,ITI,Planck,Villorba,TV,Veneto,36,,Sì,Scolastica
+Luca,Cavallin,2,TVTF04000T,ITI,Planck,Villorba,TV,Veneto,31,,Sì,Scolastica
+Gabriele,Scopelliti,2,TVTF04000T,ITI,Planck,Villorba,TV,Veneto,31,,Sì,Scolastica
+Arald Andres,Costache,2,UDIS00400G,IIS,E. Mattei,Latisana,UD,Friuli-Venezia Giulia,24,,Sì,Scolastica
+Federico,Peselli,3,UDIS01300A,IIS,Della Bassa Friulana,Cervignano del Friuli,UD,Friuli-Venezia Giulia,42,,Sì,Scolastica
+Diego,Stocco,2,UDIS01300A,IIS,Della Bassa Friulana,Cervignano del Friuli,UD,Friuli-Venezia Giulia,37,,Sì,Scolastica
+Luca,Fabris,3,UDIS01300A,IIS,Della Bassa Friulana,Cervignano del Friuli,UD,Friuli-Venezia Giulia,33,,Sì,Scolastica
+Matteo,Milanese,4,UDIS01300A,IIS,Della Bassa Friulana,Cervignano del Friuli,UD,Friuli-Venezia Giulia,33,,Sì,Scolastica
+Miriam,Pividori,2,UDIS01600T,IIS,A. Malignani,Udine,UD,Friuli-Venezia Giulia,70,,Sì,Scolastica
+Tommaso,Rangan,3,UDIS01600T,IIS,A. Malignani,Udine,UD,Friuli-Venezia Giulia,40,,Sì,Scolastica
+Riccardo,Sgoifo,3,UDIS01600T,IIS,A. Malignani,Udine,UD,Friuli-Venezia Giulia,35,,Sì,Scolastica
+Diego,Not,3,UDIS01600T,IIS,A. Malignani,Udine,UD,Friuli-Venezia Giulia,33,,Sì,Scolastica
+Giacomo,Zanetti,3,UDPS010008,LS,G. Marinelli,Udine,UD,Friuli-Venezia Giulia,41,,Sì,Scolastica
+Francesco,Rinaldi,3,UDPS010008,LS,G. Marinelli,Udine,UD,Friuli-Venezia Giulia,37,,Sì,Scolastica
+Yuri,Vodopivec,3,UDPS010008,LS,G. Marinelli,Udine,UD,Friuli-Venezia Giulia,47,200,Sì,nazionalista OII 2023
+Gianluca,Baldon,4,UDPS05000P,LS,N. Copernico,Udine,UD,Friuli-Venezia Giulia,80,,Sì,Scolastica
+Agostino,Carrara,2,UDPS05000P,LS,N. Copernico,Udine,UD,Friuli-Venezia Giulia,60,,Sì,Scolastica
+Luca,Mattioni,4,UDPS05000P,LS,N. Copernico,Udine,UD,Friuli-Venezia Giulia,57,,Sì,Scolastica
+Lorenzo,Santarossa,4,UDPS05000P,LS,N. Copernico,Udine,UD,Friuli-Venezia Giulia,50,,Sì,Scolastica
+Danilo,Di Vaia,4,UDPS05000P,LS,N. Copernico,Udine,UD,Friuli-Venezia Giulia,31,,Sì,finalista OIS
+Lorenzo,Santarossa,4,UDPS05000P,LS,N. Copernico,Udine,UD,Friuli-Venezia Giulia,,,Sì,finalista OIS
+Diego,Pocchiesa,4,UDPS0G500U,Scuola non statale,"Liceo Scientifico Opzione Scienze Applicate ""A. Volta""",Udine,UD,Friuli-Venezia Giulia,35,,Sì,Scolastica
+Erik,Medeot,4,UDPS0G500U,Scuola non statale,"Liceo Scientifico Opzione Scienze Applicate ""A. Volta""",Udine,UD,Friuli-Venezia Giulia,35,,Sì,Scolastica
+Azzurra,Sonego,2,UDPS0G500U,Scuola non statale,"Liceo Scientifico Opzione Scienze Applicate ""A. Volta""",Udine,UD,Friuli-Venezia Giulia,30,,Sì,Scolastica
+Samuele,Fabbro,4,UDTF00500V,Scuola non statale,"Istituto Tecnico Industriale Paritario ""G. Bearzi""",Udine,UD,Friuli-Venezia Giulia,30,,Sì,Scolastica
+Thomas,Fragrante,3,UDTF00500V,Scuola non statale,"Istituto Tecnico Industriale Paritario ""G. Bearzi""",Udine,UD,Friuli-Venezia Giulia,26,,Sì,Scolastica
+Andrea,Bernacchi,4,VAIS001009,IIS,Da Vinci-Pascoli,Gallarate,VA,Lombardia,81,,Sì,Scolastica
+Tommaso,Calafa,3,VAIS001009,IIS,Da Vinci-Pascoli,Gallarate,VA,Lombardia,47,,Sì,Scolastica
+Federico,Cermesoni,3,VAIS001009,IIS,Da Vinci-Pascoli,Gallarate,VA,Lombardia,45,,Sì,Scolastica
+Andrea,Merlo,3,VAIS001009,IIS,Da Vinci-Pascoli,Gallarate,VA,Lombardia,44,50,Sì,Scolastica
+Alessandro,Padovani,4,VAIS001009,IIS,Da Vinci-Pascoli,Gallarate,VA,Lombardia,43,,Sì,Scolastica
+Filippo,Grimaldi,3,VAIS001009,IIS,Da Vinci-Pascoli,Gallarate,VA,Lombardia,38,,Sì,Scolastica
+Davide,Carraro,4,VAIS001009,IIS,Da Vinci-Pascoli,Gallarate,VA,Lombardia,36,55,Sì,Scolastica
+Federico,Cutrupi,3,VAIS001009,IIS,Da Vinci-Pascoli,Gallarate,VA,Lombardia,35,16,Sì,Scolastica
+Guglielmo,Grossi,4,VAIS001009,IIS,Da Vinci-Pascoli,Gallarate,VA,Lombardia,35,105,Sì,Scolastica
+Achille,Miglierina,3,VAIS001009,IIS,Da Vinci-Pascoli,Gallarate,VA,Lombardia,34,119,Sì,Scolastica
+Aristotele,Del Pozzo,3,VAIS003001,IIS,Citta' Di Luino - Carlo Volonte',Luino,VA,Lombardia,35,,Sì,Scolastica
+Manuel,Finiletti,3,VAIS003001,IIS,Citta' Di Luino - Carlo Volonte',Luino,VA,Lombardia,33,,Sì,Scolastica
+Matteo,Brusatori,4,VAIS008004,IIS,Andrea Ponti,Gallarate,VA,Lombardia,42,,Sì,Scolastica
+Daniele,Hu,3,VAIS008004,IIS,Andrea Ponti,Gallarate,VA,Lombardia,39,,Sì,Scolastica
+Riccardo,Rigamonti,3,VAIS008004,IIS,Andrea Ponti,Gallarate,VA,Lombardia,37,,Sì,Scolastica
+Kevin,Baggio,3,VAIS008004,IIS,Andrea Ponti,Gallarate,VA,Lombardia,35,,Sì,Scolastica
+Davide,Scapellato,4,VAIS01800P,IIS,John M. Keynes,Gazzada Schianno,VA,Lombardia,35,,Sì,Scolastica
+Arsen,Tur,3,VAIS01800P,IIS,John M. Keynes,Gazzada Schianno,VA,Lombardia,30,,Sì,Scolastica
+Riccardo,Monetti,4,VAIS02600N,IIS,"Ist. Tecn. Ind. Stat. Lic. Sc. ""L. Geymonat""",Tradate,VA,Lombardia,46,,Sì,Scolastica
+Fabio,Ghioldi,4,VAIS02600N,IIS,"Ist. Tecn. Ind. Stat. Lic. Sc. ""L. Geymonat""",Tradate,VA,Lombardia,36,,Sì,Scolastica
+Egor,Kliuzhev,3,VAPS01000D,LS,Tosi,Busto Arsizio,VA,Lombardia,37,,Sì,Scolastica
+Nicolo,Gallazzi,2,VAPS01000D,LS,Tosi,Busto Arsizio,VA,Lombardia,36,,Sì,Scolastica
+Emanuele,Solferino,2,VAPS01000D,LS,Tosi,Busto Arsizio,VA,Lombardia,36,,Sì,Scolastica
+Kevin,Ciceri,4,VAPS020004,LS,G. B. Grassi,Saronno,VA,Lombardia,76,,Sì,Scolastica
+Andrea,Pitoia,3,VATD02000X,ITC,E. Tosi,Busto Arsizio,VA,Lombardia,30,,Sì,Scolastica
+Mattia,Secondin Parenti,3,VATD02000X,ITC,E. Tosi,Busto Arsizio,VA,Lombardia,30,,Sì,Scolastica
+Matteo,Longombardo,4,VBIS00300G,IIS,Marconi-Galletti-Einaudi,Domodossola,VB,Piemonte,40,,Sì,Scolastica
+Giorgio,Ghivarelli,3,VBIS00300G,IIS,Marconi-Galletti-Einaudi,Domodossola,VB,Piemonte,35,,Sì,Scolastica
+Ivan,Alesi,4,VBIS00300G,IIS,Marconi-Galletti-Einaudi,Domodossola,VB,Piemonte,35,,Sì,Scolastica
+Valentino,Trapani,4,VBIS00300G,IIS,Marconi-Galletti-Einaudi,Domodossola,VB,Piemonte,35,,Sì,Scolastica
+Gabriele,Pizzorni,3,VBIS00700V,IIS,L. Cobianchi,Verbania,VB,Piemonte,69,145,Sì,Scolastica
+Lorenzo,Bellorini,4,VBIS00700V,IIS,L. Cobianchi,Verbania,VB,Piemonte,52,,Sì,Scolastica
+Cristian,Marchetti,4,VBIS00700V,IIS,L. Cobianchi,Verbania,VB,Piemonte,46,127,Sì,Scolastica
+Maurizio,Soldano,3,VBIS00700V,IIS,L. Cobianchi,Verbania,VB,Piemonte,43,112,Sì,Scolastica
+Manuel,Meschia,3,VBIS00700V,IIS,L. Cobianchi,Verbania,VB,Piemonte,42,60,Sì,Scolastica
+Alessandro,De Lucia,3,VBIS00700V,IIS,L. Cobianchi,Verbania,VB,Piemonte,38,15,Sì,Scolastica
+Gabriele,Contini,3,VBIS00700V,IIS,L. Cobianchi,Verbania,VB,Piemonte,36,,Sì,Scolastica
+Laura,Arnaboldi,4,VBIS00700V,IIS,L. Cobianchi,Verbania,VB,Piemonte,35,28,Sì,Scolastica
+Stefano,Lupato,3,VBIS00700V,IIS,L. Cobianchi,Verbania,VB,Piemonte,33,93,Sì,Scolastica
+Sergio,Carmine,4,VBIS00700V,IIS,L. Cobianchi,Verbania,VB,Piemonte,42,,Sì,nazionalista OII 2023
+Luigi Giuliano,Ravedoni,4,VCIS017004,IIS,G. Ferrari,Borgosesia,VC,Piemonte,40,,Sì,Scolastica
+Luca,Pasquali,3,VCIS01900Q,IIS,Francis Lombardi,Vercelli,VC,Piemonte,29,35,Sì,Scolastica
+Luca,Serain,4,VCIS01900Q,IIS,Francis Lombardi,Vercelli,VC,Piemonte,20,100,Sì,Scolastica
+Kyrylo,Stefaniuk,4,VCIS01900Q,IIS,Francis Lombardi,Vercelli,VC,Piemonte,19,200,Sì,preterritoriale
+Yahya,Saif,4,VCIS01900Q,IIS,Francis Lombardi,Vercelli,VC,Piemonte,16,200,Sì,preterritoriale
+Matilde,Passera,3,VCIS02100Q,IIS,Amedeo Avogadro,Vercelli,VC,Piemonte,31,,Sì,Scolastica
+Andrea Simone,Lorio,4,VCIS02100Q,IIS,Amedeo Avogadro,Vercelli,VC,Piemonte,31,,Sì,Scolastica
+Luca,Vandone,4,VCTF021018,ITI,Galileo Galilei,Santhià,VC,Piemonte,30,,Sì,Scolastica
+Yassine,Achlaih,4,VCTF021018,ITI,Galileo Galilei,Santhià,VC,Piemonte,25,,Sì,Scolastica
+Tommaso,Berton,4,VEIS00800E,IIS,Vendramin Corner,Venezia,VE,Veneto,34,,Sì,Scolastica
+Riccardo,Mandich,4,VEIS00800E,IIS,Vendramin Corner,Venezia,VE,Veneto,32,,Sì,Scolastica
+Riccardo,Geretto,4,VEIS012006,IIS,Gino Luzzatto,Portogruaro,VE,Veneto,21,,Sì,Scolastica
+Luca,Mason,4,VEIS012006,IIS,Gino Luzzatto,Portogruaro,VE,Veneto,20,,Sì,Scolastica
+Jacopo,Daneluzzi,4,VEIS013002,IIS,Leonardo Da Vinci,Portogruaro,VE,Veneto,35,,Sì,Scolastica
+Sebastiano,Fantuz,3,VEIS013002,IIS,Leonardo Da Vinci,Portogruaro,VE,Veneto,29,,Sì,Scolastica
+Lorenzo,Cerato,4,VEIS02300L,IIS,Bruno-Franchetti,Venezia,VE,Veneto,42,,Sì,Scolastica
+Giovanni,Scordilli,3,VEIS02300L,IIS,Bruno-Franchetti,Venezia,VE,Veneto,36,,Sì,Scolastica
+Gianmarco,Zuin,4,VEIS02300L,IIS,Bruno-Franchetti,Venezia,VE,Veneto,36,,Sì,Scolastica
+Victor,Cirlig,4,VEIS02300L,IIS,Bruno-Franchetti,Venezia,VE,Veneto,34,,Sì,Scolastica
+Tommaso,Potenza,4,VEIS026004,IIS,Benedetti-Tommaseo,Venezia,VE,Veneto,58,,Sì,Scolastica
+Andrea,Rosana,3,VEIS026004,IIS,Benedetti-Tommaseo,Venezia,VE,Veneto,29,,Sì,Scolastica
+Federico,Baldan,4,VEIS02700X,IIS,Levi-Ponti,Mirano,VE,Veneto,25,,Sì,Scolastica
+Lorenzo,Gambaro,4,VEIS02700X,IIS,Levi-Ponti,Mirano,VE,Veneto,20,,Sì,Scolastica
+Francesco,Del Puppo,4,VEIS02800Q,IIS,8 Marzo-Lorenz,Mirano,VE,Veneto,35,,Sì,Scolastica
+Mattia,Garbin,4,VEIS02800Q,IIS,8 Marzo-Lorenz,Mirano,VE,Veneto,35,,Sì,Scolastica
+Emily,Minto,2,VEPM02000G,IM,Luigi Stefanini,Venezia,VE,Veneto,30,,Sì,Scolastica
+Cecilia,Ursella,4,VEPM02000G,IM,Luigi Stefanini,Venezia,VE,Veneto,29,,Sì,Scolastica
+Leonardo,Zanchi,3,VEPS04000Q,LS,Galileo Galilei,San Donà di Piave,VE,Veneto,35,,Sì,Scolastica
+Antonio,D'Agostin,3,VEPS04000Q,LS,Galileo Galilei,San Donà di Piave,VE,Veneto,31,,Sì,Scolastica
+Stefano,Pasqualetto,4,VETF04000T,ITI,Carlo Zuccante,Venezia,VE,Veneto,46,,Sì,Scolastica
+Leo,Mamprin,4,VETF04000T,ITI,Carlo Zuccante,Venezia,VE,Veneto,45,,Sì,Scolastica
+Guido,Michieletto,3,VETF04000T,ITI,Carlo Zuccante,Venezia,VE,Veneto,33,,Sì,Scolastica
+Leonardo,Fortin,3,VETF04000T,ITI,Carlo Zuccante,Venezia,VE,Veneto,15,165,Sì,preterritoriale
+Alberto,Rossani,4,VETF04000T,ITI,Carlo Zuccante,Venezia,VE,Veneto,61,,Sì,nazionalista OII 2023
+Dario,Gava,2,VETF060003,ITI,Vito Volterra,San Donà di Piave,VE,Veneto,40,,Sì,Scolastica
+Luca,Gabor,2,VETF060003,ITI,Vito Volterra,San Donà di Piave,VE,Veneto,30,,Sì,Scolastica
+Nikola,Tasic,3,VIIS007002,IIS,"""S. Ceccato"" Montecchio M.",Montecchio Maggiore,VI,Veneto,36,,Sì,Scolastica
+Pietro,Rovetti,2,VIIS007002,IIS,"""S. Ceccato"" Montecchio M.",Montecchio Maggiore,VI,Veneto,31,,Sì,Scolastica
+Giovanni,Borso,4,VIIS022004,IIS,Marzotto-Luzzatti,Valdagno,VI,Veneto,40,,Sì,Scolastica
+Cristian,Nicoletti,4,VIIS022004,IIS,Marzotto-Luzzatti,Valdagno,VI,Veneto,35,,Sì,Scolastica
+Luca,Ceolato,4,VIIS022004,IIS,Marzotto-Luzzatti,Valdagno,VI,Veneto,35,,Sì,Scolastica
+Leonardo,Cornale,3,VIIS022004,IIS,Marzotto-Luzzatti,Valdagno,VI,Veneto,34,,Sì,Scolastica
+Stefano,De Franceschi,4,VIIS022004,IIS,Marzotto-Luzzatti,Valdagno,VI,Veneto,33,,Sì,Scolastica
+Francesco,Cavedon,2,VIIS02300X,IIS,Tron-Zanella,Schio,VI,Veneto,68,,Sì,Scolastica
+Matteo,Gasparin,3,VIIS02300X,IIS,Tron-Zanella,Schio,VI,Veneto,55,,Sì,Scolastica
+Sara,Reghellin,4,VIIS02300X,IIS,Tron-Zanella,Schio,VI,Veneto,42,,Sì,Scolastica
+Ettore,Giuriato,3,VIIS02300X,IIS,Tron-Zanella,Schio,VI,Veneto,39,,Sì,Scolastica
+Nicola,Mutinelli,3,VIIS02300X,IIS,Tron-Zanella,Schio,VI,Veneto,36,,Sì,Scolastica
+Francesco,Novella,3,VIIS02300X,IIS,Tron-Zanella,Schio,VI,Veneto,35,,Sì,Scolastica
+Rachele,Peloso,4,VIIS02300X,IIS,Tron-Zanella,Schio,VI,Veneto,35,,Sì,Scolastica
+Federico,Capuzzi,4,VIPS010007,LS,Jacopo Da Ponte,Bassano del Grappa,VI,Veneto,52,,Sì,Scolastica
+Pietro Philo,Andolfatto,3,VIPS010007,LS,Jacopo Da Ponte,Bassano del Grappa,VI,Veneto,31,,Sì,Scolastica
+Angela,Gagliardi,2,VIPS02000T,LS,P. Lioy,Vicenza,VI,Veneto,47,,Sì,Scolastica
+Marco,Viero,2,VIPS02000T,LS,P. Lioy,Vicenza,VI,Veneto,41,,Sì,Scolastica
+Luca,Ye,2,VIPS02000T,LS,P. Lioy,Vicenza,VI,Veneto,40,,Sì,Scolastica
+Giacomo,Carollo,3,VIPS02000T,LS,P. Lioy,Vicenza,VI,Veneto,35,,Sì,Scolastica
+Giada,Peretto,2,VIPS02000T,LS,P. Lioy,Vicenza,VI,Veneto,31,,Sì,Scolastica
+Leonardo,Peron,4,VITD030008,ITCG,L. E V. Pasini,Schio,VI,Veneto,44,,Sì,Scolastica
+Benjamn,Boliche,3,VITD030008,ITCG,L. E V. Pasini,Schio,VI,Veneto,30,,Sì,Scolastica
+Daniel,Musto,4,VITF02000X,ITI,Alessandro Rossi,Vicenza,VI,Veneto,47,151,Sì,Scolastica
+Gabriele,Ansaldi,4,VITF02000X,ITI,Alessandro Rossi,Vicenza,VI,Veneto,42,,Sì,Scolastica
+Andrea,Bassan,3,VITF02000X,ITI,Alessandro Rossi,Vicenza,VI,Veneto,40,,Sì,Scolastica
+Jacopo,Fantin,4,VITF02000X,ITI,Alessandro Rossi,Vicenza,VI,Veneto,39,,Sì,Scolastica
+Gabriel,Soccol,4,VITF02000X,ITI,Alessandro Rossi,Vicenza,VI,Veneto,37,,Sì,Scolastica
+Mattia,Guadagno,3,VITF02000X,ITI,Alessandro Rossi,Vicenza,VI,Veneto,36,,Sì,Scolastica
+Lucrezia,Fanton,3,VITF02000X,ITI,Alessandro Rossi,Vicenza,VI,Veneto,35,,Sì,Scolastica
+Manuel,Zuccolo,3,VITF02000X,ITI,Alessandro Rossi,Vicenza,VI,Veneto,35,,Sì,Scolastica
+Martina,Martini,3,VITF02000X,ITI,Alessandro Rossi,Vicenza,VI,Veneto,34,,Sì,Scolastica
+Gioele,Gastaldi,3,VITF02000X,ITI,Alessandro Rossi,Vicenza,VI,Veneto,34,,Sì,Scolastica
+Mattia,Favero,4,VITF02000X,ITI,Alessandro Rossi,Vicenza,VI,Veneto,34,,Sì,Scolastica
+Filippo,Cuciniello,4,VITF02000X,ITI,Alessandro Rossi,Vicenza,VI,Veneto,33,,Sì,Scolastica
+Alberto,Barban,4,VITF02000X,ITI,Alessandro Rossi,Vicenza,VI,Veneto,55,,Sì,nazionalista OII 2023
+Riccardo,Fabris,4,VITF06000A,ITI,G. Chilesotti,Thiene,VI,Veneto,50,,Sì,Scolastica
+Tommaso,Costa,3,VITF06000A,ITI,G. Chilesotti,Thiene,VI,Veneto,46,,Sì,Scolastica
+Michele,Marchioro,3,VITF06000A,ITI,G. Chilesotti,Thiene,VI,Veneto,43,,Sì,Scolastica
+Pietro,Testolin,3,VITF06000A,ITI,G. Chilesotti,Thiene,VI,Veneto,37,,Sì,Scolastica
+Pietro,Calicchia,3,VITF06000A,ITI,G. Chilesotti,Thiene,VI,Veneto,35,,Sì,Scolastica
+Ognjen,Vasic,4,VITF06000A,ITI,G. Chilesotti,Thiene,VI,Veneto,35,,Sì,Scolastica
+Giacomo,Cecchetto,4,VITF06000A,ITI,G. Chilesotti,Thiene,VI,Veneto,35,,Sì,Scolastica
+Raffaele,Zaltron,3,VITF06000A,ITI,G. Chilesotti,Thiene,VI,Veneto,33,,Sì,Scolastica
+Andrea,Zuccati,4,VRIS00100B,IIS,Leonardo Da Vinci,Cerea,VR,Veneto,40,,Sì,Scolastica
+Virginia,Crestan,4,VRIS00100B,IIS,Leonardo Da Vinci,Cerea,VR,Veneto,40,,Sì,Scolastica
+Giampietro,De Bianchi,4,VRIS00100B,IIS,Leonardo Da Vinci,Cerea,VR,Veneto,33,,Sì,Scolastica
+Enea,Pjetri,3,VRIS00700A,IIS,Carlo Anti - Liceo - Iti - Professionale,Villafranca di Verona,VR,Veneto,42,,Sì,Scolastica
+Diego,Begnini,3,VRIS00700A,IIS,Carlo Anti - Liceo - Iti - Professionale,Villafranca di Verona,VR,Veneto,35,,Sì,Scolastica
+Jacopo,Maragna,4,VRIS011002,IIS,Ettore Bolisani,Isola della Scala,VR,Veneto,40,,Sì,Scolastica
+Irene,Turrina,4,VRIS011002,IIS,Ettore Bolisani,Isola della Scala,VR,Veneto,29,,Sì,Scolastica
+Alessandro,Gilioli,4,VRIS016005,IIS,L. Calabrese - P. Levi,San Pietro in Cariano,VR,Veneto,65,,Sì,Scolastica
+Andrea,Gallina,4,VRIS016005,IIS,L. Calabrese - P. Levi,San Pietro in Cariano,VR,Veneto,31,,Sì,Scolastica
+Diego,De Grandis,3,VRIS017001,IIS,"""Marie Curie"" Garda-Bussolengo",Garda,VR,Veneto,30,,Sì,Scolastica
+Xinyi,Yu,3,VRIS017001,IIS,"""Marie Curie"" Garda-Bussolengo",Garda,VR,Veneto,25,,Sì,Scolastica
+Enea Federico,Todesco,3,VRIS01900L,IIS,Copernico - Pasoli,Verona,VR,Veneto,22,,Sì,Scolastica
+Davide,Milani,2,VRIS01900L,IIS,Copernico - Pasoli,Verona,VR,Veneto,20,,Sì,Scolastica
+Artem,Krizhanovskyy,3,VRPC01000C,LC,Giovanni Cotta,Legnago,VR,Veneto,40,,Sì,Scolastica
+Pietro,Ferrari,2,VRPC01000C,LC,Giovanni Cotta,Legnago,VR,Veneto,29,,Sì,Scolastica
+Sofia,Bagnoli,3,VRPS01500P,Scuola non statale,Liceo Scientifico Aleardo Aleardi,Verona,VR,Veneto,27,,Sì,Scolastica
+Leonardo,Dosso,4,VRPS020006,LS,Galileo Galilei,Verona,VR,Veneto,41,150,Sì,Scolastica
+Alberto,Baroncioni,2,VRPS020006,LS,Galileo Galilei,Verona,VR,Veneto,33,,Sì,Scolastica
+Tommaso,Bianchini,2,VRPS020006,LS,Galileo Galilei,Verona,VR,Veneto,33,,Sì,Scolastica
+Alessandro,Stamate,3,VRPS020006,LS,Galileo Galilei,Verona,VR,Veneto,32,,Sì,finalista OIS
+Enrico,Rubino,2,VRPS020006,LS,Galileo Galilei,Verona,VR,Veneto,31,76,Sì,Scolastica
+Luca,Bortolazzi,3,VRPS020006,LS,Galileo Galilei,Verona,VR,Veneto,28,130,Sì,preterritoriale
+Filippo,Marastoni,4,VRPS020006,LS,Galileo Galilei,Verona,VR,Veneto,,,Sì,nazionalista OII 2023
+Simone,Fiorini,2,VRPS025009,Scuola non statale,Istituto Salesiano Don Bosco - Liceo Scientifico Don Bosco,Verona,VR,Veneto,39,,Sì,Scolastica
+Riccardo,Legrenzi,4,VRPS03000R,LS,Girolamo Fracastoro,Verona,VR,Veneto,39,,Sì,Scolastica
+Matteo,Albertini Offeddu,4,VRPS03000R,LS,Girolamo Fracastoro,Verona,VR,Veneto,38,10,Sì,Scolastica
+Enrico,Di Guida,2,VRPS03000R,LS,Girolamo Fracastoro,Verona,VR,Veneto,37,,Sì,Scolastica
+Alessandro,Degan,4,VRPS03000R,LS,Girolamo Fracastoro,Verona,VR,Veneto,35,,Sì,Scolastica
+Riccardo,Progno,3,VRPS03000R,LS,Girolamo Fracastoro,Verona,VR,Veneto,33,15,Sì,Scolastica
+Sara,Mazzai,2,VRPS03000R,LS,Girolamo Fracastoro,Verona,VR,Veneto,26,,Sì,Scolastica
+Giuseppe,Rossi,2,VRPS03000R,LS,Girolamo Fracastoro,Verona,VR,Veneto,25,,Sì,Scolastica
+Carlo,Turati,3,VRPS04000B,LS,A. Messedaglia,Verona,VR,Veneto,81,,Sì,Scolastica
+Bianca,Paftaluta,4,VRPS04000B,LS,A. Messedaglia,Verona,VR,Veneto,36,,Sì,Scolastica
+Loris,Uliana,2,VRPS04000B,LS,A. Messedaglia,Verona,VR,Veneto,33,,Sì,Scolastica
+Matteo,Accordini,3,VRPS04000B,LS,A. Messedaglia,Verona,VR,Veneto,33,,Sì,Scolastica
+Massimo,Compagnone,2,VRPS04000B,LS,A. Messedaglia,Verona,VR,Veneto,25,,Sì,Scolastica
+Jianxiang Nicola,Zhang,4,VRPS04000B,LS,A. Messedaglia,Verona,VR,Veneto,65,,Sì,nazionalista OII 2023
+Aurora,Savoia,3,VRPS055005,Scuola non statale,Liceo Scientifico Alle Stimate,Verona,VR,Veneto,44,,Sì,Scolastica
+Enea,Cinquetti,2,VRPS055005,Scuola non statale,Liceo Scientifico Alle Stimate,Verona,VR,Veneto,39,,Sì,Scolastica
+Marco,Tomazzoli,2,VRPS055005,Scuola non statale,Liceo Scientifico Alle Stimate,Verona,VR,Veneto,25,,Sì,Scolastica
+Luca,Boscaini,3,VRTF03000V,ITI,Guglielmo Marconi,Verona,VR,Veneto,40,,Sì,Scolastica
+Giacomo,Marconi,4,VRTF03000V,ITI,Guglielmo Marconi,Verona,VR,Veneto,38,90,Sì,Scolastica
+Luca,Campion,3,VRTF03000V,ITI,Guglielmo Marconi,Verona,VR,Veneto,37,,Sì,Scolastica
+Giulio,Malizia,3,VRTF03000V,ITI,Guglielmo Marconi,Verona,VR,Veneto,36,,Sì,Scolastica
+Marta,Genovese,4,VRTF03000V,ITI,Guglielmo Marconi,Verona,VR,Veneto,34,,Sì,Scolastica
+Riccardo,Zompa,3,VRTF03000V,ITI,Guglielmo Marconi,Verona,VR,Veneto,33,,Sì,Scolastica
+Samuele,Lonardi,4,VRTF03000V,ITI,Guglielmo Marconi,Verona,VR,Veneto,33,,Sì,Scolastica
+Filippo,Florea,2,VRTF03000V,ITI,Guglielmo Marconi,Verona,VR,Veneto,31,,Sì,Scolastica
+Pasindu Rukshan Fernando,Warnakulasuriya,2,VRTF03000V,ITI,Guglielmo Marconi,Verona,VR,Veneto,27,,Sì,Scolastica
+Nicola,Accordini,3,VRTF03000V,ITI,Guglielmo Marconi,Verona,VR,Veneto,27,150,Sì,preterritoriale
+Silvio Marian,Amuntenci,2,VRTF03000V,ITI,Guglielmo Marconi,Verona,VR,Veneto,26,,Sì,nazionalista OII 2023
+Zeno,Parisi,3,VRTF265002,Scuola non statale,"Istituto Tecnico Informatico ""Don Bosco""",Verona,VR,Veneto,41,140,Sì,Scolastica
+Edoardo,Bazzoni,2,VRTF265002,Scuola non statale,"Istituto Tecnico Informatico ""Don Bosco""",Verona,VR,Veneto,22,,Sì,Scolastica
+Francesca,Speri,3,VRVE01000P,Educandato,Agli Angeli,Verona,VR,Veneto,41,,Sì,Scolastica
+Alec,Bertaiola,2,VRVE01000P,Educandato,Agli Angeli,Verona,VR,Veneto,34,,Sì,Scolastica
+Elia,Mingon,4,VRVE01000P,Educandato,Agli Angeli,Verona,VR,Veneto,33,,Sì,Scolastica
+Gabriele,Amadio,3,VTIS01700G,IIS,Bassano Romano,Bassano Romano,VT,Lazio,33,,Sì,Scolastica
+Robert Andrei,Luca,3,VTIS01700G,IIS,Bassano Romano,Bassano Romano,VT,Lazio,33,,Sì,Scolastica
+Francesco,Piscitelli,4,VTTF010008,ITI,Leonardo Da Vinci,Viterbo,VT,Lazio,31,,Sì,Scolastica
+Lorenzo,Celac,4,VTTF010008,ITI,Leonardo Da Vinci,Viterbo,VT,Lazio,27,,Sì,Scolastica
+Alessandro,Priani,4,VVIS011007,IIS,I.T.G. E I.T.I.,Vibo Valentia,VV,Calabria,29,,Sì,Scolastica
+Gabriele,Artusa,3,VVIS011007,IIS,I.T.G. E I.T.I.,Vibo Valentia,VV,Calabria,20,,Sì,Scolastica
